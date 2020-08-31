@@ -41,9 +41,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             marginBottom: 1,
           }}
         />
-        <footer>
           <Bio />
-        </footer>
       </article>
 
       <nav>
