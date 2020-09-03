@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/blog",
   siteMetadata: {
     title: `fridge notes`,
     author: {
@@ -54,13 +55,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `fridge notes`,
+        short_name: `fridge-notes`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `static/favicon.ico`,
+        icon: `static/favicon.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
