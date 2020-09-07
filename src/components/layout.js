@@ -5,6 +5,9 @@ import './Style.scss';
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`;
   let header;
+  console.log(location.pathname)
+
+  let re = new RegExp("/physical-computing/a*")
 
   if (location.pathname === rootPath) {
     header = (
@@ -14,6 +17,16 @@ const Layout = ({ location, title, children }) => {
           {title}
         </Link>
       </h1>
+    );
+  } else if(location.pathname.match(re)) {
+    header = (
+      <h3>
+        <Link
+          to={`/physical-computing`}
+        >
+          physical computing
+        </Link>
+      </h3>
     );
   } else {
     header = (

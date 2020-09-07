@@ -54,6 +54,18 @@ article {
   }
 }
 
+.blog {
+  border-style: solid;
+  border-color: lightgrey;
+  border-width: .5px;
+  padding-left: .5em;
+  padding-right: .5em;
+}
+
+small{
+  color: darkgrey;
+}
+
 a {
   box-shadow: 2px 4px 3px gray;
   color: black;
@@ -69,6 +81,7 @@ a {
 }
 
 footer{
-  position: relative;
-  bottom: 0;
+  position: absolute;
+  bottom: 1em;
+  right: 1em;
 }

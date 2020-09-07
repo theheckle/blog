@@ -13,12 +13,10 @@ const PhysicalComputing = ({ data, location }) => {
       <SEO title="Physical Computing" />
       <Bio />
       {posts.map(({ node }) => {
-        console.log(node);
         const title = node.frontmatter.title || node.fields.slug;
-        console.log(node.fields.slug)
         if( node.fields.slug.includes("/physical-computing")){
           return (
-            <article key={node.fields.slug}>
+            <article key={node.fields.slug} className="blog">
               <header>
                 <h3
                   style={{
@@ -42,9 +40,7 @@ const PhysicalComputing = ({ data, location }) => {
         return null;
       })}
       <footer>
-        © {new Date().getFullYear()}, Built with
-        {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a>
+        © {new Date().getFullYear()}
       </footer>
     </Layout>
   );
