@@ -1,4 +1,234 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fridge notes]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>http://blog.samheckle.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 07 Sep 2020 22:12:18 GMT</lastBuildDate><item><title><![CDATA[Week 1 Lab]]></title><description><![CDATA[test]]></description><link>http://blog.samheckle.com/physical-computing/assignment-1/</link><guid isPermaLink="false">http://blog.samheckle.com/physical-computing/assignment-1/</guid><pubDate>Mon, 07 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;test&lt;/p&gt;</content:encoded></item><item><title><![CDATA[about me]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a…]]></description><link>http://blog.samheckle.com/about-me/</link><guid isPermaLink="false">http://blog.samheckle.com/about-me/</guid><pubDate>Sun, 30 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fridge notes]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>http://blog.samheckle.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 12 Sep 2020 03:03:52 GMT</lastBuildDate><item><title><![CDATA[Week 1 Design Analysis]]></title><description><![CDATA[For our week 1 assignment, we were tasked with analyzing a particular design of our choice. I’m an avid book reader (as may be noticed by my…]]></description><link>http://blog.samheckle.com/visual-language/assignment-1/</link><guid isPermaLink="false">http://blog.samheckle.com/visual-language/assignment-1/</guid><pubDate>Fri, 11 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;For our week 1 assignment, we were tasked with analyzing a particular design of our choice. I’m an avid book reader (as may be noticed by my bookshelves, arranged by color 🙈), and one of my favorite books I’ve read in a long time is &lt;em&gt;The Poppy War&lt;/em&gt; by R. F. Kuang. &lt;/p&gt;
+&lt;p&gt;In a nutshell, it is a coming-of-age story where the protagonist (?) Rin is thrown into a world of anger. There are some delicious mythological aspects that tickle my interest in that area, and it touches on the Chinese pantheon. Loosely (and I mean extremely), based in Imperial China, there are references to real world events, but this is purely a work of fiction.&lt;/p&gt;
+&lt;p&gt;Regardless, let’s take a look at the cover. This is the softcover edition of the book.&lt;/p&gt;
+&lt;h2&gt;Color Story&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/b668235e696fe8b702d8b89690c19b31/37523/color-palette1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 60.13513513513513%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAAsSAAALEgHS3X78AAACcElEQVQoz2NgwAOyLBSZQHSuhWJwhIm8/1d3xYD7rkorbzkpzLrhrDTnuovynOvOyrNvuigtvOWs2DJTT5gFn3kMGeZwA0O8DOS8PngrT/0SpPn/XqDO/3f+av/f+6r+f+2j+v9HoPr/+x7KT7u0hdnxGriwPBps4JKyqJjusriQD36KHQ+BBu7y0/n+IEjz97NA9d/PQjR/vglW+//AT+Vqp4ksG14DVxX5gA1cU+TjNCXPy+JWhH7fuxKv/wdjLH7vDDf9fyXH4//ZbM+/DzMd/j9JMLlRzMCA38Ab/f7MIPpmn1/GmW7fxHvRuh3Pit3+n06z/32zwOX/ywKH/zeTzf5+KHb6/yzV+EYZIQMfpRuCXfg43dD9apK+7f0knd7/BYb/H6fq/74cr/f/XpLe/2vJhn+fpOr/vxmnfeNouBp+A5+k6zNBDNaPeJSqF7AlXKf7YIzB/2MJRr8Ppln9Xxqi/391pNHfc8mG/0/G697432CI38B71uJgA+/YSITeNxXy2Z5s0r083Ph/v6/+7zvF1v8Pppr8v5Zl+PdxvvH/m9lGNy4kq+M38HaSG8TAZNfQU+HOvjfLLLvXxxn/L3PS/r0p3uj/zTLb/x87PP/+6HD7/7zS8kajlxZ+A////88MpVOAOOZGtkb7RGDsJtlofO8L1Pl9p9nz98fpUb9+zIj4/6Pb5eqsIBX8BkqKSYJdKCMuGcPCKRS8IsNucpSF8v8QY7n/7yd4//8/y+//nxm+/1/3ef8v8tR9AlSKP2EDAROUDgbiAAUR/nAg3pbrprNsT7nzihcTvFY8n+CzfFqi+VoGNr5+oBoWAIq9ExGREGaxAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;The Poppy War Cover&quot;
+        title=&quot;The Poppy War Cover&quot;
+        src=&quot;/blog/static/b668235e696fe8b702d8b89690c19b31/fcda8/color-palette1.png&quot;
+        srcset=&quot;/blog/static/b668235e696fe8b702d8b89690c19b31/12f09/color-palette1.png 148w,
+/blog/static/b668235e696fe8b702d8b89690c19b31/e4a3f/color-palette1.png 295w,
+/blog/static/b668235e696fe8b702d8b89690c19b31/fcda8/color-palette1.png 590w,
+/blog/static/b668235e696fe8b702d8b89690c19b31/37523/color-palette1.png 720w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The first thing that stands out to me is the &lt;strong&gt;color story&lt;/strong&gt;. The vibrant orange gradient contrasting the black and white wispy character with white and black text evokes different emotions. &lt;/p&gt;
+&lt;p&gt;You can feel the tension in the image, perhaps because everything looks as if it is on fire. The main character illustration appears to be made out of smoke, enhancing the fire concept. &lt;/p&gt;
+&lt;h2&gt;Let’s Talk about Fonts&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/847f9ac36ed41b16358bffe6486bb2db/37523/font1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 60.13513513513513%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAAsSAAALEgHS3X78AAACV0lEQVQoz42TXUhTYRiAhbrsJumiiwIFuyh0YmqW9msmSw3KFCnLhRpKLVLmT2JRjGR5oRcSSd3kRUFBJREYdqFhYFGaxc6am22U86zNTC3Czn6fztmPTjDyhRfe857zPTzf+30nLhgM8t8MBFBitv8xI63n+NjWyPvrOjkbGJPrt1cvYu5uR/6QOCKhLFw5gspLJLkSWs/yZMtanuVsYjAznsH09QxkxDOQuo6XhSp+uF3EKSC/378IjX0OyGbReu6PF7FDh5C/mRfH0/hSkoxYsg1nWQrTR5OwV+finHKEgRMTn7FarZhMnxAEEzabHbPZjMViCfWV+CV5sXW1YKvOZqgih/6yTAStmlFtARNVu5jUHcElToW37PV6MRoFHA5HyMjn8yFJUqivZAgoG07eakGo3MFI7QHG6/Jw1+3HUp2FW7ubqaaiMDA6O4vFiiiK/5hnUDb0ycAm5jWJTNZsx6hJwV6pwlSVjr1iK+P1h5j+5gwDoxk7x+X9IL89Pka7mnlalMCbqkxe1eTwoDSV3lMZvNMkM6ZTM+NyLp1yrFmsYRQo+QIMdTbQeTCRtsMqRs9n0VueytAZFa9lw+H6fNxOcWnLK1ku1oHwSYsPDdwuTKAxL4VH5WkMa3fi0KuxNWVj1hfj90jLDVe8hRGggp/t6+JafhK1uSo6ilV8uKJmrvs03zuPMdOtIej3rg4YiNzFwTt6sjeuoWDrBr7q9zBzYy8uwz5GdOlcPpnLwsLCKoGRX+9ez10qT5TSY2jEeF/Pzz4D88/b6b/ZzAXdJTweD38B9pQhzhBkNZoAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;The Poppy War Fonts&quot;
+        title=&quot;The Poppy War Fonts&quot;
+        src=&quot;/blog/static/847f9ac36ed41b16358bffe6486bb2db/fcda8/font1.png&quot;
+        srcset=&quot;/blog/static/847f9ac36ed41b16358bffe6486bb2db/12f09/font1.png 148w,
+/blog/static/847f9ac36ed41b16358bffe6486bb2db/e4a3f/font1.png 295w,
+/blog/static/847f9ac36ed41b16358bffe6486bb2db/fcda8/font1.png 590w,
+/blog/static/847f9ac36ed41b16358bffe6486bb2db/37523/font1.png 720w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The main font on this cover is Penumbra Flare Std. You can see its usage in the title, author, and quote along the top of the image. There are different weights used here, bold used for the title and author, and light used for the quote. This provides some consistency&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/baf961fe4601e8722585f5f8202389e7/37523/font2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 60.13513513513513%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAAsSAAALEgHS3X78AAACLElEQVQoz42ST0jTYRjHhQ4du/QPgv7YIQyZMJXGRFuhIlpkTrOUtlpqwqwkqXkIdIqobBRGl7JwQd6sQ1RQBGKHutShVY7RNmtTt+XEWeF+uv326edvGyxauBdenu/hfT483/f75LDBicfjxEVR1r9fPWZh4DJBazd+i4l5qwn/uh7qIvTAghiNkpMVMBaT9ZLlKh8LNmOv2Ivn8HZmSrfhLtvBjGoL3iYVUUHIEigmgD/v9mAv38VrrZJvDfnM1x/E36ggcCKXOWMV0dVVcuSGjW4S6L/fz1eDije6El42FvO5o4oPHdU4z6sIdGuJRlYSE6Y3i8n/ygQM2fqxnyviffsRnJ3lBDs1OFsOETCq+XGjTrK8kpgwk81MlkMPzSzp9uC7qOSTXoHHoGC6pRD32QPMmGoQ1yTLohjH4/HgcrmZnnbI1eFwyDocDssgMRnKl9FenlTv5t2FYqba1IzXFzDRVMTb5jzspuNIn5iwHIlEZIDX65W0gCCsSlcglgSlgI6xfu5U5jJSq8TVVcJUaxEOYyGu9nw85pOJCVPW0gH/Szk4MczosX10Vyh4qlfivF7K8nANy+YyQjdPE11LS/kvQIaU118sPr9Nb+V+2o4quKVV4B6okVZJR3ikTqp6ybHwb8qZQklZnrzXh3rnJqrztvK9r5RfVg2LwxomLym5UluC1+fLbrFTq/TINobhTAO2wWvYx/tYfjHIwrMhxnpaOdWsZ3Z2jj9pxSkj74aZWwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;The Poppy War Fonts&quot;
+        title=&quot;The Poppy War Fonts&quot;
+        src=&quot;/blog/static/baf961fe4601e8722585f5f8202389e7/fcda8/font2.png&quot;
+        srcset=&quot;/blog/static/baf961fe4601e8722585f5f8202389e7/12f09/font2.png 148w,
+/blog/static/baf961fe4601e8722585f5f8202389e7/e4a3f/font2.png 295w,
+/blog/static/baf961fe4601e8722585f5f8202389e7/fcda8/font2.png 590w,
+/blog/static/baf961fe4601e8722585f5f8202389e7/37523/font2.png 720w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The second font, Full Sans SC 90, is only in the bottom corner as a publisher’s note. It reads “P.S. Insights, Interviews, &amp;#x26; More…“. Although not legible in this particular image, looking at my physical copy I can see that they make it a little rounder, almost like a tooltip or an afterthought. Both of these fonts are reflected on the spine as well.&lt;/p&gt;
+&lt;h2&gt;Grid&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/0fe8ce2ac5b6b7713de84f1852c926ce/37523/grid.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 60.13513513513513%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAAsSAAALEgHS3X78AAACI0lEQVQoz5WSW0iTYRjHhS667KYkCCojKExnLiknnkhRYYUd1uhgK2cjKilIa3lT20qZLYhCgto6gUEQUUEnJLC6qIuo2KQlUcsDsxxLrNz0+/Z9+/VtraVuEj3wwAsP75//KYN/TDQaJSrL8fdY122CrQcZbD+C//RR/A4z/cr7a3sTwcsO5EiEjMkfkwDTV5LitxHHYTx5s3lduYhPpZn4SubRW5xJn2YOA9sLiUxM/AWcDJoyCYY/Lp6gp3IBjzbm06fLwa/LZmBLLoHaJfgP1CAJQnqGsgKQXIWdFBGJXf1OGx+Ma3iyo4iH+gLc+6t5sbeK3vpChsybEMOh9ICiKDKh0E/ueBhRuQ25LLwxqHneUIancS0DjSW83almcJ+GwZYNjI/9/D/J365bGTUsxmfKp2eXCp9RhduoxmdYzmezFlkUpgLOBPonZa/Lyh3tQp7tLuCpqYgbOhU3t67iZV02nmPrUUxMlRyb6ZLHw+G4h26nhXOVWdi1ebw7pKGrXs0r00rem1bQe7wWIZ2HvxXKSNLUUGIcv9yy41yXRXNFDncVL73NxQRaaxi1lDJ8Ro+YrjZpfYzKcYYjD85jrVrKnvJczm5W8fGUluCFOkIdOoQrDUjiDJKnF1tOFLv7ko2i+bOoXjaXfmsJ3x1lBOzleFtWY6mrIBQKp4aSLiQ5EUrntasYt+lxnWzC02lj5H4bw/faeNxhprHJjKAU+xfN8ywCXmbU/wAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;The Poppy War Grid&quot;
+        title=&quot;The Poppy War Grid&quot;
+        src=&quot;/blog/static/0fe8ce2ac5b6b7713de84f1852c926ce/fcda8/grid.png&quot;
+        srcset=&quot;/blog/static/0fe8ce2ac5b6b7713de84f1852c926ce/12f09/grid.png 148w,
+/blog/static/0fe8ce2ac5b6b7713de84f1852c926ce/e4a3f/grid.png 295w,
+/blog/static/0fe8ce2ac5b6b7713de84f1852c926ce/fcda8/grid.png 590w,
+/blog/static/0fe8ce2ac5b6b7713de84f1852c926ce/37523/grid.png 720w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Looking at the grid, it definitely appears as if the placement of each word was perfectly aligned to abide by the rule of thirds. Starting from the top, the quote is perfectly centered. Moving to the title, “The” lines up with the letter “e” on the first line of the grid. We also see that “War” is aligned in the center of the grid. Our protagonist is kept in the bottom left of the gridspace, adding some interest with the asymmetry of the piece. The author’s name is aligned between the bottom two thirds of the grid, which balances out the asymmetry from the character.&lt;/p&gt;
+&lt;h2&gt;Negative Space&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/cc24281b31359f10b27744bff9d50711/37523/space.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 60.13513513513513%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAAsSAAALEgHS3X78AAAB50lEQVQoz5XS30tTYRzHce+iq676AYFIJJFNLZ20rNS01WrYqhUHUoeTfhA7CNvALRhak0Hsx0V5UUYJEXQTGXQRK+oioS6CCsf6sWaugrbVAsOp7XS28+44/4DOnovn+Vy9+H6e56niP0tRFJRSqZwXntwnFxjkR9hLJuQhHfaQWc6X3fy6FaIky1RpAovFcp4LuZhuXEXMWMNs+zpSe9fyuW09KcMavp0yIBcKGsHSCjg/PkJs/0aeWpv4clJH+kQdGaGBrGUT3x0mZEmqDEzfHCU5YGDKtpuo0EJcNPFGPEzCbiDrtSL/WaoMnLsT4J1dz9vznSSdRnLODhKnd5J1tPLTd1ytrBFURZaf5cMVN7NCNbH+Rp4LdcRtOj6eaWambwspj5nSX0krqJTBZwEH98w1TPXriao1r3VvY7JHz8uercQ83aiXqB1Ud15EnFw/VMvY0SYSzlYe9m0nITaTPKcj5T9W2YSSmt+PDzFh2cwFYwOTvTt4NbiLfNDM74tt5CICsmZQna+gHp9uD+M31XJ2Xz1Bi47XvoMs3LCRH7MiTQxQ1AquoPAg6KKjejVH6jeoFdv56t9DPtJJ3NvCpd4uFheXKgNHR4axHOgi7LLzOCIyc9fHfDTEo6tDiG4vkvqx/wGBoyup+gTT1QAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;The Poppy War Space&quot;
+        title=&quot;The Poppy War Space&quot;
+        src=&quot;/blog/static/cc24281b31359f10b27744bff9d50711/fcda8/space.png&quot;
+        srcset=&quot;/blog/static/cc24281b31359f10b27744bff9d50711/12f09/space.png 148w,
+/blog/static/cc24281b31359f10b27744bff9d50711/e4a3f/space.png 295w,
+/blog/static/cc24281b31359f10b27744bff9d50711/fcda8/space.png 590w,
+/blog/static/cc24281b31359f10b27744bff9d50711/37523/space.png 720w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The biggest use of negative space resides in the character, relying on transparency on the lighter orange to create highlights on the image itself. It is extremely effective, because it not only enhances the idea of flames but also may demonstrate some of the character’s inner turmoil.&lt;/p&gt;
+&lt;h2&gt;Other Comparisons&lt;/h2&gt;
+&lt;p&gt;Looking at some of the other editions of the book was an interesting exercise, and here are some of the other ones! &lt;/p&gt;
+&lt;h1&gt;Hardcover Edition&lt;/h1&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/2966871e6d1c6b300c2120ef93f0774a/37523/comparison1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 60.13513513513513%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAAsSAAALEgHS3X78AAADDUlEQVQozz2TXWhTZxzGC17scjfuAwS36cVQJEJtsbTUj01FqqKuStGtdev8gpYhK9pcFKwtQWsqInrj3GbFht7UwXSa2lRHRfyqWq1RCZqkPY1NTpOYk5OcxOQk+fmek7Z/OJyXl+d93uf5P++/BFGZTAY1rpBW4+i6bn7ZbNb8p1Ip8jndgJEcvELY9htyt5WgvZWp7laCxvpEC5G/7OQFvqRQKJAvgMfjwf1kxDxo7M1WMplEFxcaFbP/zvPlnzC2/mt8qz/HX/0Z3lVf4K/4FGl3BfqHD4JQAFV5imn3M+4POnl020XQPcr4vWFUyY+WTKBni4Tq+aOMrVvAUG0p4zuXMbVjKcE6C6Gti3jXtNG8uMQARqVxvA/u8urWAIE7LhLvJKTREfSgRFK0Qhf2jQr+2cmbxgruNFRxs64cd/NGnjTX4PmlgpC1Fj2dKlqetSiHQsSVGAmhKizLaFqKhKrOEUZ6Ohn7uYzHB9fiObQO+dAaPHtXEmqqZLrtB2E5VVSoKEJFLkdkws/wjf+40t+P69q/jD59SiwWI6fPEF5qJ9bwFZMHSnmxx4Kv0cKrvSvw1n+Lv3UT+eyMZZ/Px8DAAM5rV3GPPGRocJBAIEBIKDYIZxW+vNDOPzULuf9rOcP7K3HsWE7/7jLu/biEsdYtiCYWCUMhGZfLxeXe3rmUC/mcudY0jexMyq8vdnJuwyLObCvlbUsVw/vKeN20grcHl+Hv2F5UmBeHEwmVvr4+bDYbDoeDSUlCm5ogHYuiiXc4m7Lc38WFzd9gXW/h6p5SPEeqiXdtQmlfRfhUnYkzFQYmJez2k7S1tTF06zbpTJaMCCYnAFo6PUcYvX6G9g2L2f+dhdO1Fry2zcTP15M8V0vm70YTbxI6nU6qqiqpb2gg4H0DIq1MRCb3fho1Gjanxqj//+ig8st51CyZz0RHNYnuNSjda3lpLefYT9+br8IkNGxarVZuijBGH48QEU9GCcsmmfI+Kkaw2M/enos07tpJz/HDvHB0oFw/TuxGF86zR2husZoj/BFvKwaLstzMxwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;The Poppy War Hardcover&quot;
+        title=&quot;The Poppy War Hardcover&quot;
+        src=&quot;/blog/static/2966871e6d1c6b300c2120ef93f0774a/fcda8/comparison1.png&quot;
+        srcset=&quot;/blog/static/2966871e6d1c6b300c2120ef93f0774a/12f09/comparison1.png 148w,
+/blog/static/2966871e6d1c6b300c2120ef93f0774a/e4a3f/comparison1.png 295w,
+/blog/static/2966871e6d1c6b300c2120ef93f0774a/fcda8/comparison1.png 590w,
+/blog/static/2966871e6d1c6b300c2120ef93f0774a/37523/comparison1.png 720w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This is the comparison of the hardcover edition (left) and the softcover edition (right).&lt;/p&gt;
+&lt;p&gt;These two are actually nearly identical in style — the foundation of the image is still there. We still see the main character, and the title in the same locations. I do think that the move of the author’s name provides a little more contrast and is more accessible when it is not layered over the character.&lt;/p&gt;
+&lt;h1&gt;Indonesian Edition&lt;/h1&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/5d15b24fd3c8fed5faa3c5628736cf45/37523/comparison2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 60.13513513513513%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAAsSAAALEgHS3X78AAADSklEQVQozzWTfVDTdRzHveuP/uyfnu6664H+6Oho3iFcHIYPBWZgGQ3kUhm6CB+AHReNjSN0DgEXhC7RBBxMCdS5zCFidA7bIsADQzbGIh6WdQmkJaY87PHVb7/Z56/vH597fd7v7+f9WYFQc2MORju+ZcR+jUnXCNO//oLH7WLy5iDDg9cJBgLhNh5+/w13KhXM1aqZqVFxu1bFTPh9qJi7hhqCfj8rQkLjVK8VW10VZz8txKDYy2GVmroDWg6W70OnPYh/aVEE/lPzCSMrH8eR8iLTa5/Gk/QUU2uewZPwBL9vTcC/vCwAQyFuuW7i7u7EeboFx5lWfvqyjp7GRiz1xzHpPifkXRaB/57YjyP5Oa5KY/ktM4bbGa8ykyVhdnMUf+ZvxO/1RhRO99lxNDfibjbQe9HCXrmcE/ojdHdcwn7sCL6lJRE4c7KCCXkCdtlqurPiGS3YyI2CVMZ3JjCrlopOIsDhQXpPNzPUauSKycwemYzS7Rl8Z2pnVKfEv/BABN41VuDYEcfQ7vWMFyUzV7SO8dzXmc1P5K/PPhAsL0Ysu4au02Fq4+L5c5hPNqBIT2N/Xg7Dp/RMVO0hsLz4CKjhnuwF/tgVizNHwrRcwljuKqayX8GjSiPoEyyHG209VzGda6e1xcChUiXSmChMyp0MlMkY0Bbh8/lEoKtJw4XU5+n/KB5bXiJtGSsxb42jb1s0DtW7CJ8YUfjjDz2cMhrRlylRvJfCvjeiseauFay9zQ3jMbzBkAgca6mgfkMU+vdjmSxeje3jONz5q5jcHYNHmx5RGAba7XY0paV8pSlnR/pmXktKpuSdOEa1efRaLojbE/Nq1tG06SXUKRI6cmIZL0nivi6Nec0a7nyRhV+0LAAHOy1cFqIyYD5De72ezF0KsrO2YGk6Tn/XJQEYic3fnXo0G14m700Jh6USpio3cb8hm4f1UrzNcgKiwmCQnwsLsW/bQp+2DGtRLucLcmivKOesMMQqLOt/hdcatSQ++xip0U9yS5vEg9p1zNeux6WO58D2t1hYeBSbCUMzjqpKnLpqHA1HcdusOIUz7O/uYtjeQ0A4qXB9bWxB/mEmxmolzjYt85erudel48rREgqK1XiFwf8BM2u/ZOuEz74AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;The Poppy War Indonesian&quot;
+        title=&quot;The Poppy War Indonesian&quot;
+        src=&quot;/blog/static/5d15b24fd3c8fed5faa3c5628736cf45/fcda8/comparison2.png&quot;
+        srcset=&quot;/blog/static/5d15b24fd3c8fed5faa3c5628736cf45/12f09/comparison2.png 148w,
+/blog/static/5d15b24fd3c8fed5faa3c5628736cf45/e4a3f/comparison2.png 295w,
+/blog/static/5d15b24fd3c8fed5faa3c5628736cf45/fcda8/comparison2.png 590w,
+/blog/static/5d15b24fd3c8fed5faa3c5628736cf45/37523/comparison2.png 720w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This is the comparison of the Indonesian edition (left) and the softcover edition (right).&lt;/p&gt;
+&lt;p&gt;These two covers are completely different with an important contextual note - Kuang is an Southeast Asian author currently residing in the UK. Rin, the main character the story follows, is written to share some characteristics with dark-skinned Southeast Asian people. In the Indonesian version, the illustrative design allows for the character to have this correct representation, whereas the cover of both the hard and softcover versions do not allow for that representation since in lieu of coloring the skin the designer used negative space, perhaps even denoting a lighter tone.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Week 1 Lab]]></title><description><![CDATA[test]]></description><link>http://blog.samheckle.com/physical-computing/assignment-1/</link><guid isPermaLink="false">http://blog.samheckle.com/physical-computing/assignment-1/</guid><pubDate>Mon, 07 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;test&lt;/p&gt;</content:encoded></item><item><title><![CDATA[about me]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a…]]></description><link>http://blog.samheckle.com/about-me/</link><guid isPermaLink="false">http://blog.samheckle.com/about-me/</guid><pubDate>Sun, 30 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
 &lt;p&gt;I’m sure I’ll write a lot more interesting things in the future.&lt;/p&gt;
 &lt;p&gt;Oh, and here’s a great quote from this Wikipedia on
 &lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
