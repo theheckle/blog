@@ -40,7 +40,7 @@ module.exports = {
           {
             resolve: `gatsby-remark-image-attributes`,
             options: {
-              dataAttributes: true
+              styleAttributes: true
             }
           },
           {
