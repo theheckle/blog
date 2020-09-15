@@ -12,6 +12,7 @@ const PhysicalComputing = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="Physical Computing" />
       <Bio />
+      <hr margin="2px"></hr>
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug;
         if( node.fields.slug.includes("/physical-computing")){
@@ -39,6 +40,7 @@ const PhysicalComputing = ({ data, location }) => {
         }
         return null;
       })}
+      <hr margin="2px"></hr>
       <footer>
         © {new Date().getFullYear()}
       </footer>

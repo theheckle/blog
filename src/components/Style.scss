@@ -55,15 +55,26 @@ article {
 }
 
 .blog {
-  border-style: solid;
-  border-color: lightgrey;
-  border-width: .5px;
+  // border-style: solid;
+  // border-color: lightgrey;
+  // border-width: .5px;
   padding-left: .5em;
   padding-right: .5em;
 }
 
 small{
   color: darkgrey;
+}
+
+// img {
+//   width: 80% !important;
+//   box-shadow: 2px 4px 3px gray !important;
+//   left: auto !important;
+// }
+
+.gatsby-resp-image-link{
+  border-style: none;
+  box-shadow: none;
 }
 
 a {

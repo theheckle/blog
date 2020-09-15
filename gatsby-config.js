@@ -38,10 +38,13 @@ module.exports = {
             },
           },
           {
-            resolve: `gatsby-remark-responsive-iframe`,
+            resolve: `gatsby-remark-image-attributes`,
             options: {
-              wrapperStyle: `margin-bottom: 1.0725rem`,
-            },
+              dataAttributes: true
+            }
+          },
+          {
+            resolve: `gatsby-remark-responsive-iframe`
           },
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
@@ -65,6 +68,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-sass`
+    `gatsby-plugin-sass`,
   ],
 }

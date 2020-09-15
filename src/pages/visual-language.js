@@ -10,7 +10,7 @@ const PhysicalComputing = ({ data, location }) => {
   const posts = data.allMarkdownRemark.edges;
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="Physical Computing" />
+      <SEO title="Visual Language" />
       <Bio />
       {posts.map(({ node }) => {
         console.log(node);
@@ -42,9 +42,7 @@ const PhysicalComputing = ({ data, location }) => {
         return null;
       })}
       <footer>
-        © {new Date().getFullYear()}, Built with
-        {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a>
+        © {new Date().getFullYear()}
       </footer>
     </Layout>
   );
