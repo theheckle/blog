@@ -15,30 +15,50 @@ Looking at images of labs:
 
 The [second lab](https://itp.nyu.edu/physcomp/labs/electronics/) focused primarily about electronics.
 
+Initially it took me a minute to get the hang of the multimeter. Someone had told me previously that this particular one wasn't very good, and I didn't realize what they meant at first. But, it feels made out of cheap plastic and the dial is a bit clunky.
 
-Photos for testing the meter
-
-Audibly say "yay" when light up — wasn't sure which pin to use on nano
-
-voltage issues with using arduino as power source and having 2 leds in series, don't have dc power adaptor and
 ![Lab2 Multimeter](./lab2/multimeter1.png)
+
+At first, I was following the tutorial but wasn't sure where the baseline was. I tried multiple different settings to find "1". When I touched the probes together I kept getting weird numbers that weren't useful to me following the guide.
 
 ![Lab2 Multimeter Correct](./lab2/multimeter2.png)
 
+After reading the blog post further (and inspecting the manuel 🙈) I figured out this weird icon that makes a sound when you are testing each probe, so huzzah it worked!
+
+Next I moved on to creating my first circuit.
+
 ![Lab1 Light](./lab1/lab1-light.png)
+
+I didn't really know which pins to use on the arduino at first -- I was looking at the image of the breadboard and trying to figure out by counting the number of pins in the image. I had worked with different microcontrollers before, but none as small as the nano and they also all had labels for all the pins. But! I did get the light working after the pin nonsense and audibly said "yay!" so that felt good.
+
+Next up is adding my first button.
 
 ![Lab1 Button Off](./lab1/lab1-button.png)
 
+Wasn't too bad, I got it set up pretty quickly. You may notice as I go, I am optimizing my wires to use less of the messy jumper cables.
+
 ![Lab1 Button On](./lab1/lab1-button-on.png)
 
-The [third lab](https://itp.nyu.edu/physcomp/labs/switches/)
+And now it is on! Nice!
+
+Lastly the [third lab](https://itp.nyu.edu/physcomp/labs/switches/). First thing was adding a series of buttons. 
 
 ![Lab2 3 Buttons](./lab3/series-buttons.png)
 
 ![Lab2 3 Buttons](./lab3/series-buttons-on.png)
 
-![Lab2 3 Buttons](./lab3/not-working-series.png)
+And all lit up! Cool. Not much to say here since it was building on top of the previous lab.
 
-![Lab2 3 Buttons](./lab3/working-red-light.png)
+Now here is the only place I ran into issues. I didn't realize there would be a problem getting 2 LEDS lit with using the arduino in a series. This is possible with a power adaptor, which I do not have yet. 
 
-![Lab2 3 Buttons](./lab3/working-series-white.png)
+![Lab2 3 Series](./lab3/not-working-series.png)
+
+Above is my series not working. I tried two white LEDs, two red, and a red and a white. Not that it made any difference mathmatically, but I was experimenting. I figured out earlier that each LED uses ~2V of power. If the arduino outputs 3.3V, then 3.3V - 2V = 1.3V leftover. 1.3V < 2V, thus unable to power one LED. Another mathmatical solution is to divide 3.3V / 2V = 1.65. We could power 1.65 LEDs using the 3.3V arduino. 2 LEDs require at least 4V of power, which the arduino cannot provide. I cut my losses.
+
+![Lab2 3 Series Red Test](./lab3/working-red-light.png)
+
+(double checking my red LED works).
+
+![Lab2 3 Parallel](./lab3/working-series-white.png)
+
+I was, however, able to get the parallel circuit working.
