@@ -1,4 +1,364 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fridge notes]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>http://blog.samheckle.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 15 Sep 2020 19:11:14 GMT</lastBuildDate><item><title><![CDATA[Week 1 Design Analysis]]></title><description><![CDATA[For our week 1 assignment, we were tasked with analyzing a particular design of our choice. I’m an avid book reader (as may be noticed by my…]]></description><link>http://blog.samheckle.com/visual-language/assignment-1/</link><guid isPermaLink="false">http://blog.samheckle.com/visual-language/assignment-1/</guid><pubDate>Fri, 11 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;For our week 1 assignment, we were tasked with analyzing a particular design of our choice. I’m an avid book reader (as may be noticed by my bookshelves, arranged by color 🙈), and one of my favorite books I’ve read in a long time is &lt;em&gt;The Poppy War&lt;/em&gt; by R. F. Kuang. &lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fridge notes]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>http://blog.samheckle.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 21 Sep 2020 02:27:16 GMT</lastBuildDate><item><title><![CDATA[Week 3 Lab]]></title><description><![CDATA[This is a blog post in a response to the third week assignment.  Analog Output and Input Lab 1 was all about setting the stage for analog…]]></description><link>http://blog.samheckle.com/physical-computing/assignment-2/</link><guid isPermaLink="false">http://blog.samheckle.com/physical-computing/assignment-2/</guid><pubDate>Sun, 20 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This is a blog post in a response to the third week assignment. &lt;/p&gt;
+&lt;h2&gt;Analog Output and Input&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/digital-input-and-output-with-an-arduino/&quot;&gt;Lab 1&lt;/a&gt; was all about setting the stage for analog inputs.&lt;/p&gt;
+&lt;h1&gt;Analog Input&lt;/h1&gt;
+&lt;p&gt;I first started with a standard button analog input. This was pretty straightforward. I also started dabbling in using my wirecutters to make my resistors flush with the board. I did end up ordering some wire to replace my jumper cables, and I’m looking forward to have a cleaner board!&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/606a084665d197053097c703189207d0/07a9c/digitalInput.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 70.27027027027026%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAABYlAAAWJQFJUiTwAAACkElEQVQ4y43U60vTURjAcf+JoEAoU+e8TDcVr9NtbnNeSqdzU7fpLk4399slUxNKojcpERGUmAa+qdC1ruAFpMTKKPA6rfxr1G8/l/ai0Hng8Lx6Pjznec45SRyt/f39ePz5a5feQJi+64P4hRDeHh9Op5tOuwNjg5EaQy21NfUolSoEf5CDg4N43nFM+hfc2fmBEOojGO4nGAridvfgcnVjbGzCoDdgajbT3GRCo9aKoPA370QwFovh9YcZuhHm9nAv1wJ2HM4u2m0OKpQVtJgsImpCr9MTDoUTV7glgh5vgIF+PwHBRa/PQ1+wi8H+AbTKUqxt7eLRG9GqNYQCh0feTwx2+wTcPQE8Hhfz76N8WHjLvSdTLLye5tnkGDpdNTqVipAgJAZj2zu4PF46xd5Z2hwsfVriW2yN1r4R5hfniDyfQq3SoFVVEvL7E/fwcCi2DjetNidmi43FpY98Xv/OwMgY0acPeDHxUBxIFeryMgSfN3EPDytsabXSbLbGwZmXEd7NRhl7NMrs42GiE/dRlispLyykt9tzhqFsxWhsMtPQbBHvXB2RmWm2d1b4svyG7dlJImN3KSkqoihPhtftPBncOwI3NreorW+kXtw6Qz2jE+N8XZlnZfkdu3OTvBofRZGbizxTQleH/RRw7w+4vrFJtQgZaq9Qau/Ad3OIO8P9BDzt3HIb6bEaycmQkJ2WgtPadhq4F49raxtUaQ1idXVoxJdRWVaBQp5PdmYW0vR0pKkpKLKkSC4m02ExnXxtjsHV1XXUGr2IVqOu1FBWWi72rJhChYJ8WQ5yEcuTSkhNvkC7yXgWcI2KyipUKm38AygpLqUgvwC5TIZMmkGOJI2ctMtcOn+OVuPV/8Df8QYz5BSA1YsAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;analog input&quot;
+        title=&quot;analog input&quot;
+        src=&quot;/blog/static/606a084665d197053097c703189207d0/fcda8/digitalInput.png&quot;
+        srcset=&quot;/blog/static/606a084665d197053097c703189207d0/12f09/digitalInput.png 148w,
+/blog/static/606a084665d197053097c703189207d0/e4a3f/digitalInput.png 295w,
+/blog/static/606a084665d197053097c703189207d0/fcda8/digitalInput.png 590w,
+/blog/static/606a084665d197053097c703189207d0/efc66/digitalInput.png 885w,
+/blog/static/606a084665d197053097c703189207d0/c83ae/digitalInput.png 1180w,
+/blog/static/606a084665d197053097c703189207d0/07a9c/digitalInput.png 1440w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h1&gt;Programming the Arduino&lt;/h1&gt;
+&lt;p&gt;For this next part, I created a simple circuit using a button and two LEDs.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/9f4225236fbe67ee2328189b87ad04d0/07a9c/digitalInput2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 70.27027027027026%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAABYlAAAWJQFJUiTwAAAClElEQVQ4y43Q20vTcRjH8f6PQDIsW2qmTsxD7jd/mz/nNufc5tzmtnSebfOwdB2oFIXQDoioK0nKUQRB3pUVXtmFW5qa4oEg8Kq/IUV992N4U5DzCw+fq+f1fJ/nFEfv4OAgnlvb2/SEbhO80Ys/0ElLSxu++ga8tR6qrdWYjJVUyCWVltHoa2Rvby/ed3h4GM9T/4KbW9sEe0J0dAVpbQ/Q3NyKT260VVkwlOsx6g2USWUUFxXjdtWyt7t7PLixuYm/o5vuYBedXX4am9qo9zWhFUVsFivWKqv8SxOioMbtdLGbCFxb35ChAA8fBOgN1uFxW2kPBBHVaoqKrmI2ySsbjGjUJdR5vCcD/QE/3QEv/X19RMLDjI6OcFMeMhjqxm6vQVcqIaoE+a7uE4Br6zS1XMfp9jA9Nc7OziaDEy94PPWaHyvz2GqcSCUi6mIVHtcJVl5d/U5dXSNmq4PpyCt2fv0k9GiS9lsDfPk0g8XuRCsICIVFuB2OxODyygpOlweLzcHT8Dif5+cYDj9nbGiID+EBeZANVUEBqvwCXHb7/8H9I3Dp2zLVdhc6QxVj8u1iazGmwiNERvpZehfGYtRzRamkMFeJw2o5Btzfj+fi4hImsxWtRidDE8zOzTLzrJ/Ywnuik3exK9PIupxFXmYG1ZWmxGDs6yJ6nRF1hYXQk4dEIhO8HLvPxzfjrL8dxlQqkJp8hixFKhaD/gRg9CuSDOZdq8fX1cG9O720NHhpq9HT6zVzJSeTtJSzpMtl1kmJwWg0hqjVoZHKEa4KZGcpSVOko1CkkZJ8lozzKWRfvMDF5CRMkpgYXFiIolZrEUUJlaqEgvxCcnOUZF+6RE5GuowpyEw9R2rSaQwaQQZ//wX+AU7KNL1oHJi1AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;analog input&quot;
+        title=&quot;analog input&quot;
+        src=&quot;/blog/static/9f4225236fbe67ee2328189b87ad04d0/fcda8/digitalInput2.png&quot;
+        srcset=&quot;/blog/static/9f4225236fbe67ee2328189b87ad04d0/12f09/digitalInput2.png 148w,
+/blog/static/9f4225236fbe67ee2328189b87ad04d0/e4a3f/digitalInput2.png 295w,
+/blog/static/9f4225236fbe67ee2328189b87ad04d0/fcda8/digitalInput2.png 590w,
+/blog/static/9f4225236fbe67ee2328189b87ad04d0/efc66/digitalInput2.png 885w,
+/blog/static/9f4225236fbe67ee2328189b87ad04d0/c83ae/digitalInput2.png 1180w,
+/blog/static/9f4225236fbe67ee2328189b87ad04d0/07a9c/digitalInput2.png 1440w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I did not have any issues with setting the Arduino IDE for this lab. I easily was able to upload and test with the nano. This was my code for the first part of the lab:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;void setup() {
+    // put your setup code here, to run once:
+    pinMode(2, INPUT);
+    pinMode(3, OUTPUT);
+    pinMode(4, OUTPUT);
+}
+
+void loop() {
+    // put your main code here, to run repeatedly:
+    if (digitalRead(2) == HIGH){
+        digitalWrite(3, HIGH);
+        digitalWrite(4, LOW);
+    }
+    else{
+        digitalWrite(3, LOW);
+        digitalWrite(4, HIGH);
+    }
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;With the resulting circuit:
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/c774e1745106794a6dc5887d20122baf/07a9c/digitalInput3.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 70.27027027027026%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAABYlAAAWJQFJUiTwAAACmElEQVQ4y4XT60/SURzH8f6PWlZWzguWt0gUVBABES8g8PMHFqKZeelmpuQtymWZZaRlF1crsstm+aBaa6vWUJPUgfWkf0U29N1Pyic15WzffR+d1/l+ztnZxt+1uroa6+HlZRqbWjne1EZ9QyN1rjqcDieC1Y5Rb6CkWCtVCco8JY4akUgkEtu3trYW69v+BUPhH7S0NnPq5HEJbMDlqkcURIqL1JRKYIWpgrJSIwX5KuxWKysrK1uDP3+EuOJ10+tpoPOUgEMUaGo5g15noFBVQFWlmXKjKXaAU5owLhgOh2hvq6HOXc+xxgZOuC10nDuPuUxHblYW5ipzLLq6oDAGxo28uBTCLWHNjTbujY3wdsqPb3wc743rfHh2n/6+XimuEs06KAhENpswGt0AlxCdLiw2kUcPxwn9CtMx6KO2a4jvcx/p914kXy6nWAIdNtvmkaPRaKwvLCxitYvUHqnj+cuXfA0G6PFNcKTVw5vHY/R5+2OgRqlC3OpRNsBgcIEqsx2LxYbv9i1evJvm6t0J+jp7mR46i8fTgSI7myKFArG6eqvIf8Bv80HKKswYjJXcuXOb94FPjFwboLf7NPOTNxnsOo08PR3VoRxEc1V8cO7bPDqDCb1Gj//pE/yvJnnx4BKfv7xm3j/IVI+LvNQUcg+mI5Sb4oOzM7NodEbyrAIXvH0MjQwwedfDtDRd0H+Z651HSUvYSVbSPiwGXXxwJjCDXHRyWKihXbov3+gwo8PdjHiO4r94gma3SErCDg4k7qKyRB0fDMzOodDqUEv/VStVrvwwGQcyyEiTkb5/L7I9CWQmJSLbvZNyTWH8Vw5IExbkF6FRa1FK/3UdzMnMJFMmIyMlmazkJLKT95O6aztlauV/4G/iBjL+cbB/1wAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;digital input&quot;
+        title=&quot;digital input&quot;
+        src=&quot;/blog/static/c774e1745106794a6dc5887d20122baf/fcda8/digitalInput3.png&quot;
+        srcset=&quot;/blog/static/c774e1745106794a6dc5887d20122baf/12f09/digitalInput3.png 148w,
+/blog/static/c774e1745106794a6dc5887d20122baf/e4a3f/digitalInput3.png 295w,
+/blog/static/c774e1745106794a6dc5887d20122baf/fcda8/digitalInput3.png 590w,
+/blog/static/c774e1745106794a6dc5887d20122baf/efc66/digitalInput3.png 885w,
+/blog/static/c774e1745106794a6dc5887d20122baf/c83ae/digitalInput3.png 1180w,
+/blog/static/c774e1745106794a6dc5887d20122baf/07a9c/digitalInput3.png 1440w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/6f4304f1e552a459eaad8c9076f92791/07a9c/digitalInput4.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 70.27027027027026%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAABYlAAAWJQFJUiTwAAACg0lEQVQ4y43T3UuTYRjHcf+NDrSTCirRsBLb9uz1mdvcnHNO3ebc5rtzamlJWOLQIi2bDkQp0bI0QxJRkcLMSpcv+S79L3mifntanQluN1xcR/eH38V130n8P8fHx7G+t39ATaBeqiDlldW4PT5cLjdWixWz0YSo0WHUG1HKlBRY7RweHsbunZycxHrSKXDvgEBdHR2hWlrveQhUunA6PRJagkohkGPMIddsRacWceQ74oM7u/vU1FbysMWDv8xPoMJBmc9NQ8Md0q6kolRqseTkolXrKHYUJQLu4vVXUFvtozHo481QP4O9nfREerjfWEFPRxsmCVQp1Ikl3N75C5ZT4i3D7/eyvbnE1Mx7qtq6GJsYYe3rHHJBiyBTYbedAR4d/QO3tndii3B7vDQ1N7OxtczYzBSFje309XYzPzOBQtCjlGsosBWeBR7F+ubmFoXFbhxS1VRX8XFxlvDwEF2Rl/S3BJh48QyF0ohKELHnF8cHNzZ+YrMXYZHGqSov59v6IqPvXtHR3sqHwU5mXkeQq3OlhHpp5ATAtfUNcq02jOY8gvV1zC3MMTLwmC8Lb1n7PMlsTxidWIigMEgju+KDq6urGKQtCqU+nMFaIgNPGR8I8WkszNrcON+n5xGzXcjlRuzWBBL+WImiyTEjFBTg8/t50h1iaTTCdKiB4QcBnne2o5ISymUm7JYElhKNSqBKi0E0IOoMKKUnstx3l+5SK5cuXkejtkiVhyxTxGayxwdXpIQqQUO2BGZJb63e6+TXaAe2m2mkJKeiyNSivqUnM12GOTuPw9/xwOVo7BfoNCIKuYrJR7dZCTeRnnKe5HMXuHb1BlkZcq5dzsCgMZ0C/wDnfzh7I93A/QAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;digital input&quot;
+        title=&quot;digital input&quot;
+        src=&quot;/blog/static/6f4304f1e552a459eaad8c9076f92791/fcda8/digitalInput4.png&quot;
+        srcset=&quot;/blog/static/6f4304f1e552a459eaad8c9076f92791/12f09/digitalInput4.png 148w,
+/blog/static/6f4304f1e552a459eaad8c9076f92791/e4a3f/digitalInput4.png 295w,
+/blog/static/6f4304f1e552a459eaad8c9076f92791/fcda8/digitalInput4.png 590w,
+/blog/static/6f4304f1e552a459eaad8c9076f92791/efc66/digitalInput4.png 885w,
+/blog/static/6f4304f1e552a459eaad8c9076f92791/c83ae/digitalInput4.png 1180w,
+/blog/static/6f4304f1e552a459eaad8c9076f92791/07a9c/digitalInput4.png 1440w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Digital Input and Output&lt;/h2&gt;
+&lt;p&gt;The &lt;a href=&quot;https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/analog-in-with-an-arduino/&quot;&gt;second lab&lt;/a&gt; focused on digital input, meaning the input can have a spectrum and decimal values. I equate digital input like a “double” in programming.&lt;/p&gt;
+&lt;h1&gt;Potentiometer and LED&lt;/h1&gt;
+&lt;p&gt;The first part of this exercise was using a potentiometer. In the code below, I print out the corresponding voltage for each measurement of the pontentiometer. There isn’t too much of a difference in the photos between halfway (120) and full (255) brightness, but in person it was clear.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;const int ledPin = 9;
+int analogValue = 0;
+int brightness = 0;
+
+void setup() {
+    // put your setup code here, to run once:
+    Serial.begin(9600);
+    pinMode(ledPin, OUTPUT);
+}
+
+void loop() {
+    // put your main code here, to run repeatedly:
+    analogValue = analogRead(A0);
+    brightness = analogValue / 4;
+    analogWrite(ledPin, brightness);
+    Serial.println(brightness);
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/4ff83db3a0a6b7dd21f9e563bde2e917/07a9c/pent1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 70.27027027027026%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAABYlAAAWJQFJUiTwAAACwklEQVQ4y4XRSU+TURiGYX6IMUZFwEqZkQJlaBmkX0tboC1QBilQpoISLSCQaIwLoga7ECcUDCY4xwk1BoUKpQJtQRYGWPAHWBBWEMJw+9mgiUjsSd6c1XOdJ+8JYvdsb2/7b+/Md2xNDTiuN3DlYiX2pmJKyyxo1GoylUr0ujz0+gLq6urpaO9gdXXVn/2dD9oL+mbnRNBGu91CUVktthoTNVUlWKptJMTFoRY0GAoM+Hw+lpaWWFxcZHl5mc3Nzf3BmZlZLNYGzp6povlMJfX19Vw4b6WzzU6GPAGTwYghvwC32838/DwLCwt+cGtr629waxf0eH1UVFkxn67igr0R7/hHHj28S9e9PvpvXMb17ilCrpZio5GzTY2srKz42+3s7OwBd1+Y9ngpOW3BVFxCQ1sHn30T9A48wNh6nd6uTlxDgygyskhNlFGg17GxseHP/QJ/zT/g5JQHU6EZoVz8kG4H80s/6H/+hFL7FR47LjE18oa0dAXpyYkUGQ2sr6//Afdt6J6cIl9vIKPWRnOLHad7hO7e29y/4+C9o5UJ5wcU6WnIE+Ix5ecFBl3ub+RqdMjN5VhbWhgdH2bg5QB3r53jU08b0863KFKTkcVGY9DlBgbHXROo1FoUqlxK7M1MzHnweoaYE2d40IHr1T0/GBcRjl6tCgyOjbvIPCUgqHQUlZbRdfMqnb3vefDsNZ6hWzhf3EEhlxF9IgytKjsw6Bwb82PqHAGzyYC1ophIpYnC8hpuXWunr+cqyfFRRIQGo8lSiuDa/8GRUSdFeWbytCqyMwW0gkBSTCjSkKNIQo6RKosnWhKK5OghchTywOCXkVE0YsPm6mr0Kg3ZigRkJ+OIlkqJkoQhFZtFhgUjOXKQ7LQk1tcCgE7nV2RJKei1AkZdOsqUk8THxhIjDSfyeCgRIhYVJrY9fIAscZd7wZ+qiTxfu/oywgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;analog input&quot;
+        title=&quot;analog input&quot;
+        src=&quot;/blog/static/4ff83db3a0a6b7dd21f9e563bde2e917/fcda8/pent1.png&quot;
+        srcset=&quot;/blog/static/4ff83db3a0a6b7dd21f9e563bde2e917/12f09/pent1.png 148w,
+/blog/static/4ff83db3a0a6b7dd21f9e563bde2e917/e4a3f/pent1.png 295w,
+/blog/static/4ff83db3a0a6b7dd21f9e563bde2e917/fcda8/pent1.png 590w,
+/blog/static/4ff83db3a0a6b7dd21f9e563bde2e917/efc66/pent1.png 885w,
+/blog/static/4ff83db3a0a6b7dd21f9e563bde2e917/c83ae/pent1.png 1180w,
+/blog/static/4ff83db3a0a6b7dd21f9e563bde2e917/07a9c/pent1.png 1440w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/45cd1c4fe1bfb7bce4043009a7ae32f7/07a9c/pent2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 70.27027027027026%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAABYlAAAWJQFJUiTwAAACsUlEQVQ4y43T20/ScRjHcf+glmf4cRAMKEUwNQVrouNgihG2ZOQsW83MVMwDGjlXmrXatFq11WptFZJ4SIH0Qu1K572HC928UN/9ZK1Vruh781x9X99n38/zJPHj7O3txetsdA6P102Xz0VTo41z1VZMpRb0uXp0uuOUmk8zNDjE8INhRkdGWVtbY2dnJ353f3+fpD/BSGyeOo8L78VKKuxOPC4TjrPVGIyFZCmU2G0OItEoS0tLrKyssLy8zPr6+t/BWOwrVTVuGrwOnC4nNVUWvJ5aSosLSU1OwSqC4XCYaDTGwsJCHN3Y2PhHh+LrldXnsDkctN9o4PWzR/T09dDU2cHDlnr6/N18DAaZm5tjcXGR1dVVNjc3D4O7P8CZ2Qj2yipKzpTT1NPLVCTIFV83ZfXtjA+10OZrwyz+o91qpcbpZHt7+yf2O7i7G69fZmaxlNswOs9zb3SEhW8Rrvn7sdZeJvb8DtdabpKWmo5CkHFCDOlX8OAcAqcnpzGV28mpduHvus3Y9Cda+gIEOluZHPFzq8OHIJWhUanIz8tL3GF4coqSU2YEi43O/rsEx9/TPxygr/Es4Vf36OhoRSoRUIuJG3JyE3cYnpikoKCEbGMRzQN3mZ2fYn7mBR/ePSH0tBd/+/U4mCWTodfp2N7a+jf4eXxcnLkiCo2nuOCto/v+AM2PP/Pm5QMibwYItF1FLihQSiTotdrEYDg8RZnpjLgZx/G4a7HZKlCaL9HceJG3zwYZDPQiz5CgyBRBjSYxGApN4BY3pEpMushYzMk8HYq0I6SLQ23IMWAXAzvoTkhLJ0etTgwGx0LizhqwlZkpztegVavEVBUopHJUMiVqQY5aJkeakvqfYDBEdrYOjTYXzTEtCrkKmUSGkCFFnimgEkGVODaSo8mcyFIeAr8DT9JIuFKKR14AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;analog input&quot;
+        title=&quot;analog input&quot;
+        src=&quot;/blog/static/45cd1c4fe1bfb7bce4043009a7ae32f7/fcda8/pent2.png&quot;
+        srcset=&quot;/blog/static/45cd1c4fe1bfb7bce4043009a7ae32f7/12f09/pent2.png 148w,
+/blog/static/45cd1c4fe1bfb7bce4043009a7ae32f7/e4a3f/pent2.png 295w,
+/blog/static/45cd1c4fe1bfb7bce4043009a7ae32f7/fcda8/pent2.png 590w,
+/blog/static/45cd1c4fe1bfb7bce4043009a7ae32f7/efc66/pent2.png 885w,
+/blog/static/45cd1c4fe1bfb7bce4043009a7ae32f7/c83ae/pent2.png 1180w,
+/blog/static/45cd1c4fe1bfb7bce4043009a7ae32f7/07a9c/pent2.png 1440w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/998689e3b2a20caab6a36bdd27acec13/07a9c/pent3.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 70.27027027027026%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAABYlAAAWJQFJUiTwAAACo0lEQVQ4y43U2y/bYRzHcX+N7B9YHKutX+m5VcyxDj1ZKVssDpussQ3LdIvDbCabGLvYJsQkIkx1Wn5oSrlwOa4cIpHgD8B7vzWLbGGp5+Z79bzy+ebz5Engzzk/P4/N9egGbreTl+0OnrVYqa0qpKCgBJPRSLYgIEtN4ZXPRyAwT3AhyOHhIUdHR7G7FxcXJFwFN6n1uGiut1JUYqehJh97RTE6vRmlLB21SsXI8DA7Oztsb2+zt7fH/v7+/8GNjQ0cLjeN9yu46yzDkpeLs9JCqdXGrcREkpOSGR4a4qeE3QiMRqPYHS4cTgcNdeX0dT6hzfuA1qctuIuNPLpXQ3dPL6FQEFEU2d3d5eDg4Cp4dnYWm2tr61TY7FKiMqpqapj1T/Du/VvcHX2MvGhBnPyEQsgiM0OOXqPl+Pj4ErsWjEigtVRa1eakpasLMbJAd38vansTg+0PmRsfJiVdTlpyClmZAqcnJ5fg73MFDIcjFEqtatwevK1eNrfCdA9+oM3Xw3i3lx/fJ5FlKGNgtlTQyV/gtQlXVsPk5eQjlxLWNTXhD0zhG3hDn8/LWOcDAv4pFAoVaUkSKK1+Ei+huLyC2ZSLwmShrqONlcgic/6vTHx+zfTgc0IzY6gEtQSmoZFmXHBJXEZrMKPTminzePgWmGYxNEV4dQb/aB8Lo/0Y9TlkpCpuBi4uiZgMFowaPR6Xg8bmeu48/kLPwBBb8x+JzI5SWliOMl1Al6WLDy6LYVwlttiTqCxxUGUrQ67UUpBjobW5gfnpOdx2D4JcjTHbEL/lhWCIopwiGtzVmLV6tFmCtJ6c5NsyqQQzldZqivLLUQsGzGpTfDAUXEQmU6LXabAYVGTKpQ8hLROVQo1BY8Gkz8diKkSrMpOny5XA03/AX9SpSZLIrQsLAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;analog input&quot;
+        title=&quot;analog input&quot;
+        src=&quot;/blog/static/998689e3b2a20caab6a36bdd27acec13/fcda8/pent3.png&quot;
+        srcset=&quot;/blog/static/998689e3b2a20caab6a36bdd27acec13/12f09/pent3.png 148w,
+/blog/static/998689e3b2a20caab6a36bdd27acec13/e4a3f/pent3.png 295w,
+/blog/static/998689e3b2a20caab6a36bdd27acec13/fcda8/pent3.png 590w,
+/blog/static/998689e3b2a20caab6a36bdd27acec13/efc66/pent3.png 885w,
+/blog/static/998689e3b2a20caab6a36bdd27acec13/c83ae/pent3.png 1180w,
+/blog/static/998689e3b2a20caab6a36bdd27acec13/07a9c/pent3.png 1440w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h1&gt;Force-Sensing Resistors (FSR)&lt;/h1&gt;
+&lt;p&gt;I had two parts to this:&lt;/p&gt;
+&lt;h4&gt;Part 1 - Printing the Voltage&lt;/h4&gt;
+&lt;p&gt;In the below code I printed the voltage for the pressure sensor. &lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;void loop() {
+    // put your main code here, to run repeatedly:
+    int sensorValue = analogRead(A0);
+    
+    float voltage = sensorValue * (5.0 / 1023.0);
+    Serial.println(voltage);
+
+    analogWrite(9, brightness);
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h4&gt;Part 2 - Printing the Brightness with Mapping&lt;/h4&gt;
+&lt;p&gt;In the below code I printed the brightness, after mapping it to the corresponding values. I found the min and max by experimenting with the FSR and printing out the plain sensor value before trying to map it. &lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;void loop() {
+    // put your main code here, to run repeatedly:
+    int sensorValue = analogRead(A0);
+    
+    int brightness = map(sensorValue, 0, 700, 0, 255);
+    Serial.println(brightness);
+
+    analogWrite(9, brightness);
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/e6009b9ec63b3d3beb4b8555d580282d/07a9c/fsr1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 70.27027027027026%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAABYlAAAWJQFJUiTwAAAC7klEQVQ4y4XS+UvTcRzH8f6Nwl+ikuyybaVlHtOpm9Msbe7bPFLnZp541NQOofSXIih/iIoOxLT71kzLZbo5NUt0yxQpBKVAVPBIELyeff12UGj0gRefzy/vBx8+r88qfq6FhQVp73K6yMkvJDffQunpbEpOGjGbkoncrycsLBytNpKoKB3xcYdIMZoYHx9nbm5OytJatRKYlVeIpSCf4qIUTClG8jMFdAfjCQnRSGBR0XH6+npxuVwMDQ3R39/PxMTEP8BuJ9m5FrJyjlCQZ+RQspnMtAQseekEBfij1u7FYikQwT6cTieDg4PS+Z9gZ1c3aVm5pGbkYE41U/e4iruV17hYfp2r50u4ceEsRwuP8fnTJ3p7exkYGJDgsbGxlcH3nV0YUzNJMqVjNmdgf+fg4fMHxJ0oo/xKGY23LxObmEJlRQW3qqoYHh6WsJmZmb/B+fkfYMe798QnmYkTh4REMy97PvC2u52kY+d4eOUMthf3xYKieW1toLmpSXq/ycnJ3xf6A5yX9va3HcQYEhEMCUTEJlIpDtXVPebS1Qs0lpfS2vCUGL2Ay9lNT0+PBI6Oji5v+RfoaGtn3wED+3UGdEIcN1/VYnfUUH2vjOaKEtqtTxAEgQ9iw0tlLIEjIyPMzs6uDLY4WgnfpxMTgy46hupGK9WOWr58bqOjvpy2mmvoddHUPHuKteGV9G2mp6d/zy8D7S0ONOFRqMXE6hOw1j/jUe0d7A2VfO18xEfbfSLUwfgoZOwNVfFtakqaW1xclLIMtNlbCNFEogoNJ9lgovRUMZbsdLKSD3AkVSDvcDwJ+igUWzwIC/RjSizkF7jiDZttLaiCtQQFawhTR6IN1KL09sV7+1bWua1hvdtq5Js2oNjsTqjfrv+DTc12ApRqglQadu/xJ9BXyR4vb7xknnht24zMY4OY9SjEqHbv+D/4psmGr58KpTIEHx9/FPKdyLZ5It+yCbmHO57ua5FtXIdcTJC3QgQn/gK/A7DXTCOdb3zcAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;fsr1&quot;
+        title=&quot;fsr1&quot;
+        src=&quot;/blog/static/e6009b9ec63b3d3beb4b8555d580282d/fcda8/fsr1.png&quot;
+        srcset=&quot;/blog/static/e6009b9ec63b3d3beb4b8555d580282d/12f09/fsr1.png 148w,
+/blog/static/e6009b9ec63b3d3beb4b8555d580282d/e4a3f/fsr1.png 295w,
+/blog/static/e6009b9ec63b3d3beb4b8555d580282d/fcda8/fsr1.png 590w,
+/blog/static/e6009b9ec63b3d3beb4b8555d580282d/efc66/fsr1.png 885w,
+/blog/static/e6009b9ec63b3d3beb4b8555d580282d/c83ae/fsr1.png 1180w,
+/blog/static/e6009b9ec63b3d3beb4b8555d580282d/07a9c/fsr1.png 1440w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/10e69786dc13e532bf1a75dbb0876672/07a9c/fsr2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 70.27027027027026%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAABYlAAAWJQFJUiTwAAAC/ElEQVQ4y4XTi0vTURTA8f6EIIIeVCBRZpSpvcxKyOzh7KHOtJY9pmU+p8O5spytKA0Le618pSnTXjZLC0u0rJHNZsaaRWaipaKCSCqS728/p0mF1oHD73Lhfjj3nvObwlgMDg5ZvoY3RsIio1HGxBEVrSA4JJLAI2EcPBiAt/duPDx2WXLHdjG+PhK6uros54aHhy055W/wjbGSEJkSlUqBWhVGtDyIgMOheO/ag5enD55Cbt7kjvN6F9y2bKOnp2ccHIlxcGhoFKx8+04AFSijIwgPD8ZfKkEmkyH28WPV6vWciD3J/Twdqanp3Ll9l9bW1vGzf1Y4tmmsfEtQaCRBYXLkEUFcOR9Pcspl4tXHUAQf5kZGloC0YDabaW9vp6amht7e3gnAwcHRN6wwIg0QKhNSGhLBc0MZOTodaVcv8iTvJhlZWr42NFBVVUVjYyO1tbX/BsvLDUj2SvHx8ycwVo3BZCTz1h0uJpzhvi4HTXIazc3NmEwmWlpaaBDw/v7+yUG9/hVeXr7s9N1HgEpNUWkRGdpMriee4lHhPeSKGG6kZ6K5eo3sbC0dHR2TdXkULCt7iZu7ByKRB/sjoih4/YKHhdnkpiTwKF9LlPI4RmG09Ho91dXVNDU1MTAwMHmFpc/KcHV1Y8c2MaEh4WQU5GF4UUB56T3ytRpiYk/zXrhuRUUFdXV1/79ySckz1q3byJZNXpyQy/iYn8br5DhyNXEU6m4TfzZRaMRnS5dHRqa+vp6+vr7JweLiUra6uJKuVmLKSuDdlSguH3JD5GgvVO7JAYmUpAtJJJ5LJDU5hba2NobGhvoPcHhsDpvNlVRdOsq3Bxoeq6ScdV/BKYkIW5tl2CyyZ9liO+yXLsdhiQPOjk50d3dP/Kf8An98MfPp2nEeHPVj9/xpJImdkYmcmDPXmgVW1gJsi9NKJ9YsX8XWDRvp7OycuMu/wO91HyiO80dsPYPt82fzVFi7LJrH1KmzmD19JtZWC1lh68DKpXa4rnWm6zdwJH4CojdibX9Ry38AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;fsr2&quot;
+        title=&quot;fsr2&quot;
+        src=&quot;/blog/static/10e69786dc13e532bf1a75dbb0876672/fcda8/fsr2.png&quot;
+        srcset=&quot;/blog/static/10e69786dc13e532bf1a75dbb0876672/12f09/fsr2.png 148w,
+/blog/static/10e69786dc13e532bf1a75dbb0876672/e4a3f/fsr2.png 295w,
+/blog/static/10e69786dc13e532bf1a75dbb0876672/fcda8/fsr2.png 590w,
+/blog/static/10e69786dc13e532bf1a75dbb0876672/efc66/fsr2.png 885w,
+/blog/static/10e69786dc13e532bf1a75dbb0876672/c83ae/fsr2.png 1180w,
+/blog/static/10e69786dc13e532bf1a75dbb0876672/07a9c/fsr2.png 1440w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;And that’s that!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Week 1 Design Analysis]]></title><description><![CDATA[For our week 1 assignment, we were tasked with analyzing a particular design of our choice. I’m an avid book reader (as may be noticed by my…]]></description><link>http://blog.samheckle.com/visual-language/assignment-1/</link><guid isPermaLink="false">http://blog.samheckle.com/visual-language/assignment-1/</guid><pubDate>Fri, 11 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;For our week 1 assignment, we were tasked with analyzing a particular design of our choice. I’m an avid book reader (as may be noticed by my bookshelves, arranged by color 🙈), and one of my favorite books I’ve read in a long time is &lt;em&gt;The Poppy War&lt;/em&gt; by R. F. Kuang. &lt;/p&gt;
 &lt;p&gt;In a nutshell, it is a coming-of-age story where the protagonist (?) Rin is thrown into a world of anger. There are some delicious mythological aspects that tickle my interest in that area, and it touches on the Chinese pantheon. Loosely (and I mean extremely), based in Imperial China, there are references to real world events, but this is purely a work of fiction.&lt;/p&gt;
 &lt;p&gt;Regardless, let’s take a look at the cover. This is the softcover edition of the book.&lt;/p&gt;
 &lt;h2&gt;Color Story&lt;/h2&gt;
@@ -347,26 +707,26 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/blog/static/aef2abab23349ecc5439d5743ed438c5/07a9c/lab1-button.png&quot;
+    href=&quot;/blog/static/606a084665d197053097c703189207d0/07a9c/lab1-button.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 70.27027027027026%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAABYlAAAWJQFJUiTwAAACgElEQVQ4y43R+UvTcRzH8f4RO34JHWZbHpvOpn5lXjjPQqduus0558HUqZtHOjqImSH+JJbLzCsPUDOPosAModCcS82j7D/RZ5+kgoKYH3jz/un9+Lx4v8/x6x0fH5/2o6PvuFs76O5+iNfbRb2zGbPFhr7ISInBRPHPKjGRm1dIa1snJycnp3O/+7l/wcOv32hr99DR6RFYEx0dneTlF1CoN2ASsMFoEaCZnNwCWsTHQcH9g0OcjS6cArNVVosU7bjaPOQItERg+uIygRvJ1OXR1NwaHNzbP8Bur8HtdlNdJUDRG50N6DIyMZRayL9RJBIXkpqmo8HpOkNCAeqLjdzxeAi8f83QkwG8fY+ZeDbA3OQ46Vk30Yl0UnIaDofzDAm/7J3uzOWoY+PTKj39/aTa7zG1tMjS0jyJKToyMrLQJCRTU1sXHNzd3RUD2bTWO9nZ28A3PUuW7RZjU895ufCCeCkdrTadOHUi9qra4OD29g6SGHBUWPmwucaj8Ul6fSP4hocEOEesRoskaVHFaqisrPkz91/QH/hMfZqKwfJsVmcGGe3ziks7GB7xsbgwjzJeIkEjEROjxlZRFTxhIBBAG6/BYcjl1bSP6dEevHebWV9bZG5+hui4BOLVGqKiVFRYK4OD/s0ttCkJtDjMvFt7w8eVp7xdnmBleZaFqRnU6iRiVXFEXovGWm4LDq6v+7EYk8VRSpkc6+LBfTe93bdx1VdRZ7OikkejjFEhv6qg3Fx+xoSShKU0ndRkFaGXZaJCuXThIudDQpCFyYhURBIuu4LZZA4Obvm3SBJLj1VeRxUThzJaiUKkkUfIUUQoiAiPEF2OLDSMMmOpgP6+8g9zBkVemPNeTAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 70.27027027027026%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAABYlAAAWJQFJUiTwAAACkElEQVQ4y43U60vTURjAcf+JoEAoU+e8TDcVr9NtbnNeSqdzU7fpLk4399slUxNKojcpERGUmAa+qdC1ruAFpMTKKPA6rfxr1G8/l/ai0Hng8Lx6Pjznec45SRyt/f39ePz5a5feQJi+64P4hRDeHh9Op5tOuwNjg5EaQy21NfUolSoEf5CDg4N43nFM+hfc2fmBEOojGO4nGAridvfgcnVjbGzCoDdgajbT3GRCo9aKoPA370QwFovh9YcZuhHm9nAv1wJ2HM4u2m0OKpQVtJgsImpCr9MTDoUTV7glgh5vgIF+PwHBRa/PQ1+wi8H+AbTKUqxt7eLRG9GqNYQCh0feTwx2+wTcPQE8Hhfz76N8WHjLvSdTLLye5tnkGDpdNTqVipAgJAZj2zu4PF46xd5Z2hwsfVriW2yN1r4R5hfniDyfQq3SoFVVEvL7E/fwcCi2DjetNidmi43FpY98Xv/OwMgY0acPeDHxUBxIFeryMgSfN3EPDytsabXSbLbGwZmXEd7NRhl7NMrs42GiE/dRlispLyykt9tzhqFsxWhsMtPQbBHvXB2RmWm2d1b4svyG7dlJImN3KSkqoihPhtftPBncOwI3NreorW+kXtw6Qz2jE+N8XZlnZfkdu3OTvBofRZGbizxTQleH/RRw7w+4vrFJtQgZaq9Qau/Ad3OIO8P9BDzt3HIb6bEaycmQkJ2WgtPadhq4F49raxtUaQ1idXVoxJdRWVaBQp5PdmYW0vR0pKkpKLKkSC4m02ExnXxtjsHV1XXUGr2IVqOu1FBWWi72rJhChYJ8WQ5yEcuTSkhNvkC7yXgWcI2KyipUKm38AygpLqUgvwC5TIZMmkGOJI2ctMtcOn+OVuPV/8Df8QYz5BSA1YsAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Lab1 Button Off&quot;
         title=&quot;Lab1 Button Off&quot;
-        src=&quot;/blog/static/aef2abab23349ecc5439d5743ed438c5/fcda8/lab1-button.png&quot;
-        srcset=&quot;/blog/static/aef2abab23349ecc5439d5743ed438c5/12f09/lab1-button.png 148w,
-/blog/static/aef2abab23349ecc5439d5743ed438c5/e4a3f/lab1-button.png 295w,
-/blog/static/aef2abab23349ecc5439d5743ed438c5/fcda8/lab1-button.png 590w,
-/blog/static/aef2abab23349ecc5439d5743ed438c5/efc66/lab1-button.png 885w,
-/blog/static/aef2abab23349ecc5439d5743ed438c5/c83ae/lab1-button.png 1180w,
-/blog/static/aef2abab23349ecc5439d5743ed438c5/07a9c/lab1-button.png 1440w&quot;
+        src=&quot;/blog/static/606a084665d197053097c703189207d0/fcda8/lab1-button.png&quot;
+        srcset=&quot;/blog/static/606a084665d197053097c703189207d0/12f09/lab1-button.png 148w,
+/blog/static/606a084665d197053097c703189207d0/e4a3f/lab1-button.png 295w,
+/blog/static/606a084665d197053097c703189207d0/fcda8/lab1-button.png 590w,
+/blog/static/606a084665d197053097c703189207d0/efc66/lab1-button.png 885w,
+/blog/static/606a084665d197053097c703189207d0/c83ae/lab1-button.png 1180w,
+/blog/static/606a084665d197053097c703189207d0/07a9c/lab1-button.png 1440w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
