@@ -1,4 +1,203 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fridge notes]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>http://blog.samheckle.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 21 Sep 2020 02:27:16 GMT</lastBuildDate><item><title><![CDATA[Week 3 Lab]]></title><description><![CDATA[This is a blog post in a response to the third week assignment.  Analog Output and Input Lab 1 was all about setting the stage for analog…]]></description><link>http://blog.samheckle.com/physical-computing/assignment-2/</link><guid isPermaLink="false">http://blog.samheckle.com/physical-computing/assignment-2/</guid><pubDate>Sun, 20 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This is a blog post in a response to the third week assignment. &lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fridge notes]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>http://blog.samheckle.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 23 Sep 2020 15:04:10 GMT</lastBuildDate><item><title><![CDATA[Week 2 Plane Ticket Design and Expressive Words]]></title><description><![CDATA[Plane Ticket Redesign One of the assignments this week was to redesign an airline ticket. Given a set of information, how can we reformat it…]]></description><link>http://blog.samheckle.com/visual-language/assignment-2/</link><guid isPermaLink="false">http://blog.samheckle.com/visual-language/assignment-2/</guid><pubDate>Tue, 22 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Plane Ticket Redesign&lt;/h1&gt;
+&lt;p&gt;One of the assignments this week was to redesign an airline ticket. Given a set of information, how can we reformat it to make it look both beautiful and functional?&lt;/p&gt;
+&lt;p&gt;Below was my first iteration on the design. I knew I had particular elements to focus on, based on previous airport experiences, and highlighted them using different colors. I also started making a first pass at a grid.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/3ec7adbdde736c5ee5a0028171eda506/bc3ae/iteration1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 47.2972972972973%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAAAsSAAALEgHS3X78AAACBUlEQVQoz01Sa28SQRTlPzfxs8YP9ZHYiLS0tLXfNCZNrSkpKBExQlmehX3w2F2WUpJGeUZbgWWhx3Mn/eAkN3P3zt5zzzkzodX9PRaMFaDCZz5frbBYr+Ez7nwf/Zsb/BqNIGsp/7C+5h5wD/i/LJ890h8a394iX6vhOB7Hx2QSWr2O1tUVdNtGs9uF2enAYK6320hns0hkMrA8D1++pRH/nFT1eCqFEXH+EjQ0mkyQL5VwfHqKs0QCxWoVZquFCoEt7pI3GE02Zi8ukCsUYDF/e3iAvd0ddHs9aMUi7mYzLJZLhIbjsWrK5jVcGiaqep27gW6/j0tdh8Ezj0wdsuqx1iGAw+8YwV4+38TPwQA/cjmMpxMsheGA3rRcF17Phe1JdBmeqlmWBavZhMPcofS22OA4cAn44tkmHm1soHd9jVKlgt+U7AeBMBzBYFM0ViVLG5nsdyVXZ63AyYV8HjqBXQ4ps1GjPQL4JvwaT588VgzbHCLWKYZjSq5R6qezNCo1E6n0VxTLFeWNyLTJzP0vpCaAH96/w8HeLv7IpWoaZvM5AiV5OESTktquTaYN5Y/eaCiWDZov34ZpQpegt2W+CBkSDofxamsLJ7zMw6MjnPOFzPnEQtPpFAYB5KZEjlxEsVxWRpusd/iEzAew+sNZh0Oi0Shi+/uIRCKIbG+rfEkP/wH5CnORo6nC5wAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;iteration1&quot;
+        title=&quot;iteration1&quot;
+        src=&quot;/blog/static/3ec7adbdde736c5ee5a0028171eda506/fcda8/iteration1.png&quot;
+        srcset=&quot;/blog/static/3ec7adbdde736c5ee5a0028171eda506/12f09/iteration1.png 148w,
+/blog/static/3ec7adbdde736c5ee5a0028171eda506/e4a3f/iteration1.png 295w,
+/blog/static/3ec7adbdde736c5ee5a0028171eda506/fcda8/iteration1.png 590w,
+/blog/static/3ec7adbdde736c5ee5a0028171eda506/efc66/iteration1.png 885w,
+/blog/static/3ec7adbdde736c5ee5a0028171eda506/c83ae/iteration1.png 1180w,
+/blog/static/3ec7adbdde736c5ee5a0028171eda506/bc3ae/iteration1.png 1268w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Next I focused on adding color to block out the information. I wanted to chunk information that is useful to the passenger vs. information that is useful to airline agents. Green is an accent color I particularly like, but looking back perhaps I should have focused on the branding.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/e5177d6f2613b42d1fca5556bf50a3aa/2d2d6/iteration2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 47.2972972972973%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAAAsSAAALEgHS3X78AAACIElEQVQozz2S61PaUBDF8/9PbWvt+KhQwQcPAYlQDQgBgiDKKwglEB4hQoZqpx9kxOm0X369Saf9cObc3Xvvntk9K/38/QvTmWEsph4GAkPH8tiNrSeHu75O/raMPjYYLW368zHOj0fWLy88Pz+zWq08rNdrJN0acJA/Q2mVSd7mOVDP2FbC+HJxdpUIJ6U0gYLMp6tT9rKn3pvTisJlvcRsNsOyLKbTKZPJhPF4jFQf90SBCKHrC/xqnP2rmPfRLbiTiRB28/kE25dhkY/yWQju5+NEtQt0XafVanHf6WAYhicgLZ6WyKpCIpsmXytT6TTI1TTShaw419EaN158021Sbt+SKmRQrlXKzRpvNjbY2nxPLByi1+sxn8+RVmIG7WaLbuce25rxMLMxh0OMr30WD3MGQrnT1hn0DazJVNyZjMwRQ2NAMBjk0+4OAd8+U2uK4zhIr+tX5PMMobDM3J4LPNDRO56IM1/QrDfQSiUmYzGj0QhbCLpCblGf38/HzU223r3Ftm0eH5+QnO/fCCSj7IYC5ISTVdFaLJPiQ2APtVFBa9W4KOe9tpWKSrFRRROtV9p3HB4eEj45ISUnvfktl0uku1GXQFEmWVf/OpuJcqSlSTWLHAuOCkeDxXORj3hmuQa5fFw4xzRNz1nXZZc9l7u2SVCVSdxcEatmOBZrclRMEa9mPchiTULaF3zCfX8u4Z3dNTotK/9X5h/c+A8qglPSz0uNkQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;iteration2&quot;
+        title=&quot;iteration2&quot;
+        src=&quot;/blog/static/e5177d6f2613b42d1fca5556bf50a3aa/fcda8/iteration2.png&quot;
+        srcset=&quot;/blog/static/e5177d6f2613b42d1fca5556bf50a3aa/12f09/iteration2.png 148w,
+/blog/static/e5177d6f2613b42d1fca5556bf50a3aa/e4a3f/iteration2.png 295w,
+/blog/static/e5177d6f2613b42d1fca5556bf50a3aa/fcda8/iteration2.png 590w,
+/blog/static/e5177d6f2613b42d1fca5556bf50a3aa/efc66/iteration2.png 885w,
+/blog/static/e5177d6f2613b42d1fca5556bf50a3aa/c83ae/iteration2.png 1180w,
+/blog/static/e5177d6f2613b42d1fca5556bf50a3aa/2d2d6/iteration2.png 1205w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Now I focused on cleanup and making the shape of the ticket myself. This iteration I wanted to change up the way the barcodes were represented. Since I think they are the most important information for the airline, and getting on the plane, they needed to take up a significant amount of space.
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/2884142d208aadf25d3d05b0651647f3/84cc5/iteration3.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 45.27027027027027%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAAAsSAAALEgHS3X78AAACE0lEQVQoz12S608aQRTF/fPbD01s0ypEa7QWATUiFHmsII8VUGQtbx/gAxWoLZCUhV0Ull/HoalJJ5m5M+feOXfuPTOHGGNrTN8YoBtDdHPIYGQwEHY4MqW9vW9w32pK/PdQxxD4/8OyLGnnmMB+Lo33OEpQS+JSA6xGPXw52MWR+MbmYZDPyjbL4S08RxF2xYwWMnR7XQzDYDKZoOu6JJtOp8w9P4/5GvOxFvOyGvewGHTxKbCBLezGHnKzJogXgk4++NdZie6wpGyxcxyhXK3gcDg4PzunWCjQ6XRmL5yK5bJ5Q1zLkC5pVO+vyNerqPksFwIvXp9TuD7jonVLqpgjUz6l3r7j8ddPbHY7Xp+PsKKgqurfkl+eOrG4uqyJRkwl+GSOGOoDue91ujy2f8iY8dMz5tCQePOxzUn+lINEjMB+mMrF2SvhaDTCueGk1+1KsN1qUalUZhcfHrhr3GEapuyXaZoiridLbDRuWV1ewm63kcvlZoTW1EKtaHjTEfaycZR8isBJgt1DhYPiEYnyCcFcUvpCmoo/GyNRynJ9cyOSlnn39g2LCwtomjYjHE/GUlm3UHM97pNNX4nssJ1WcKtBqbQ9vMnHPYfEbSEXrsMAl/Ua5VKJbbeT9/PzZDKZ15JT1VPWhcovX+SF3JncYyPpZysVlt9JnhN+4Q/JBMr3FP1+n64ou9VsUq/V/qn8Bwr1cla2uHPIAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;iteration3&quot;
+        title=&quot;iteration3&quot;
+        src=&quot;/blog/static/2884142d208aadf25d3d05b0651647f3/fcda8/iteration3.png&quot;
+        srcset=&quot;/blog/static/2884142d208aadf25d3d05b0651647f3/12f09/iteration3.png 148w,
+/blog/static/2884142d208aadf25d3d05b0651647f3/e4a3f/iteration3.png 295w,
+/blog/static/2884142d208aadf25d3d05b0651647f3/fcda8/iteration3.png 590w,
+/blog/static/2884142d208aadf25d3d05b0651647f3/efc66/iteration3.png 885w,
+/blog/static/2884142d208aadf25d3d05b0651647f3/84cc5/iteration3.png 898w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;Final Plane Ticket&lt;/h4&gt;
+&lt;p&gt;Finally, cleaning up some alignment and font size consistency issues and we have the final product!
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/cf91046ebf3f1f27943e3d65eb9fa238/40601/final_plane_ticket-01.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 47.2972972972973%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAAAsTAAALEwEAmpwYAAACYElEQVQozz1S2VIaQRSdz8hX5APyOaEqlV/IUx4iiTGJC1ECaArLhcUJmxg1yKCDGyBOoBi2QjZBIIiMSxQdGk4umKSrTtXpc27fPtW3uekd/umkYBsd91tHPm1ZRohrpwJ27bjfojUEnVrjrou4daiRN0L83fsfi6+a1+0XAEYJb3q93lvCa1VVn3BjvqU5bzkKb+YQzvQujEdrMERWYYx4YZY2sRDzQR/2YDrkxnLcDz4pwhRZQ+OmjUatjsFSFAV/l4ajVCZzdANfD1bvZkRepRQqpRlCLzpU065bpVQq1T3u99wDr1s+r7M506zK87wqHUudVDIJgoZr3iimfKOCaCo+KOo3fyuQC1mkijlc3F7h5KyMUvMMLeJyPtuP51Ion9f6HfWhvyX44XC7+lLsJ0tnM/AHBA1HMWcv2wqUi3b3X+6bq2uwLhvy2lkNv+oNqPcP6LMeuqo61C8uFWTyOUhxqS/sCEwQt1GslB8bRsJhBEXxf0M5kUAmnR7yQr6AymkFd7e3uO906KIu6rUarunSVqsFr8vZ1+um2LzZTGcyGo4/FozfMyHYIr4He9TPvkkBZo9sMUtok3niQbaePGRUw8hnPPkOaZtZwpssW86zUrHEHPwK002Mq1arFScnueecdmN+YVEWYNz34Mu+C5PiCgwHHpiP1jEfWcdcaG2ojQUs0JM/s+fER9GGIr1rqVBE+PAANssyzJSQGr7kaIIammxBF7DHP2/ziQnBKg9AmmwIumT6hzL9SZmmPNASusBK8oNv6ZgGJVZPK6lCPp+Ix2KJYDCYrFarz/4A/vxEBNEOpCsAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;final&quot;
+        title=&quot;final&quot;
+        src=&quot;/blog/static/cf91046ebf3f1f27943e3d65eb9fa238/fcda8/final_plane_ticket-01.png&quot;
+        srcset=&quot;/blog/static/cf91046ebf3f1f27943e3d65eb9fa238/12f09/final_plane_ticket-01.png 148w,
+/blog/static/cf91046ebf3f1f27943e3d65eb9fa238/e4a3f/final_plane_ticket-01.png 295w,
+/blog/static/cf91046ebf3f1f27943e3d65eb9fa238/fcda8/final_plane_ticket-01.png 590w,
+/blog/static/cf91046ebf3f1f27943e3d65eb9fa238/efc66/final_plane_ticket-01.png 885w,
+/blog/static/cf91046ebf3f1f27943e3d65eb9fa238/40601/final_plane_ticket-01.png 945w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h1&gt;Expressive Words&lt;/h1&gt;
+&lt;p&gt;Next we have some expressive words. &lt;/p&gt;
+&lt;p&gt;My first word came easily to me. I live in Seattle and am surrounded by beautiful mountain ranges and stunning views.
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/fb615195f492e197b3643211d6628fc9/7527b/mountain.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 68.24324324324324%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsSAAALEgHS3X78AAACR0lEQVQ4y6VTP6iSURS//hlyahIStJcYplLxTBIRNVx0EZcEHQ1cFNLBZiNKUPTR1GRESpji4BJtQouk6OQgYoplODSEQmjlM2/n3O71+ejf8A7c7/y55/zO7zvn+wjhYjAYpKjNZvMtr9d7hPZ8Pmd3FouFeDweZrvdbmK32yUOh4P5TqeT/FFGo5EMdSaTedrtdmkkErmOfiKRkFJKWY5OpyPCFvo3cblcJB6PS7h7vlAovIdkWq/XX/BCxlypVEr2ytRwdr5erz8NCoCMXTAYvN1utxHvx2Qy2cDrMJY+n08GMQYQCoUeQNM11ByiHwgEZCqV6gQMOu9YpNPpl4vFAgG/4qNWqz3jLOUc+H6z2aT8rrRPSiqV/jKi0SjrrFarL5RKpc+MHgjq8Xi8ttlsBrz3+/0PW60Whjf4mE6n32CRdtyZRqM5t0NOpVLsdcPh8J1er8cKAG8L+hidcrn8xGq13ut0OqLXFoTdAYHnUHpFq9XiTIlCoZAQMZtsNvtquVxi3jFWcJK03+/TRqNBORpeUd4QWS5gZG4ovyGXy0+WZjQaL1WrVYYGsmVV3EAlYiLM8xjLSqXyGCBssOlD+DbZrEksFrs7GAxYEmdxClQwEz1EDAPD4fALLOSqyWTywkwvMsB8Pv9mvV6z+fHCf8peP8ayWCzmAOYaLPYAfzUjfMTfeR4CIh0c4F+PyAHZcJafAPAmnMskmUw+ms1m9KwCLPP4a5NcLvd6tVp9xEbQdYQH7P8ekQcs34H+AJ/cWwA8+AlJQYQobAusSgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;mountain&quot;
+        title=&quot;mountain&quot;
+        src=&quot;/blog/static/fb615195f492e197b3643211d6628fc9/fcda8/mountain.png&quot;
+        srcset=&quot;/blog/static/fb615195f492e197b3643211d6628fc9/12f09/mountain.png 148w,
+/blog/static/fb615195f492e197b3643211d6628fc9/e4a3f/mountain.png 295w,
+/blog/static/fb615195f492e197b3643211d6628fc9/fcda8/mountain.png 590w,
+/blog/static/fb615195f492e197b3643211d6628fc9/7527b/mountain.png 754w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Next up I was somewhat intimidated by seeing some other work, and started with the word “inferior”. I was not sure if my idea was coming across, but added the word “superior” to add more context.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/e91d8b030ea7d11c2267cac8395086f8/3534c/inferior-03.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 72.97297297297297%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsSAAALEgHS3X78AAABDElEQVQ4y62TzauCQBTF+///EjcFBsJbPIWiNunbuKi0XJgfgYJvIYaKzmlGDcwmtY8Dl7mL4cc5985MUItgQISQqng9Vdlc+52MAXIA3X48kAcrigJ5nr/nkOdMkiSYpllbK8vxQB7s7PtYLhZwXfc1IA8WRRGckwNFUV5z2IWx85Jc8E+BzJkoirAsaxjIexqs2ALiOIbrONBUFbPpDJ7nPV8KaefqxGQOkiSpALvtFupmA0EQ+oFth21omqbV3GzbhrHf40/ToMgy5uIchmE8j0xq3cXMsgxhGMKnW/Xo3I6HA3Rdx3q1gkyhQRD0R+4Cx2jop9xVn2hM0sz9dj4APxVpA/MvVNoAf66p+ZNEsB3V3AAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;inferior&quot;
+        title=&quot;inferior&quot;
+        src=&quot;/blog/static/e91d8b030ea7d11c2267cac8395086f8/fcda8/inferior-03.png&quot;
+        srcset=&quot;/blog/static/e91d8b030ea7d11c2267cac8395086f8/12f09/inferior-03.png 148w,
+/blog/static/e91d8b030ea7d11c2267cac8395086f8/e4a3f/inferior-03.png 295w,
+/blog/static/e91d8b030ea7d11c2267cac8395086f8/fcda8/inferior-03.png 590w,
+/blog/static/e91d8b030ea7d11c2267cac8395086f8/3534c/inferior-03.png 808w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Finally, and my favorite of the 3 words, is a simple animation with the word “pen”. This was only my second time using AE, and I’m pretty proud at how quickly I’ve gotten used to keyframes. Next up is learning the hotkeys!
+&lt;img src=&quot;/blog/17afac7284be86574460eb266904abb5/pen.gif&quot; alt=&quot;pen&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Overall I enjoyed delving more into Illustrator. I had no experience prior to this week, and I watched the zoom workshop to become more familiar. By the end of creating the 3 words, I was getting more adapt at pressing the hotkeys for the pen tool (V, A, +, -, and shift+c). Hopefully my flow will get smoother as I become a better designer.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Week 3 Lab]]></title><description><![CDATA[This is a blog post in a response to the third week assignment.  Analog Output and Input Lab 1 was all about setting the stage for analog…]]></description><link>http://blog.samheckle.com/physical-computing/assignment-2/</link><guid isPermaLink="false">http://blog.samheckle.com/physical-computing/assignment-2/</guid><pubDate>Sun, 20 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This is a blog post in a response to the third week assignment. &lt;/p&gt;
 &lt;h2&gt;Analog Output and Input&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/digital-input-and-output-with-an-arduino/&quot;&gt;Lab 1&lt;/a&gt; was all about setting the stage for analog inputs.&lt;/p&gt;
 &lt;h1&gt;Analog Input&lt;/h1&gt;
