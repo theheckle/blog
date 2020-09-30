@@ -1,4 +1,361 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fridge notes]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>http://blog.samheckle.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 23 Sep 2020 15:04:10 GMT</lastBuildDate><item><title><![CDATA[Week 2 Plane Ticket Design and Expressive Words]]></title><description><![CDATA[Plane Ticket Redesign One of the assignments this week was to redesign an airline ticket. Given a set of information, how can we reformat it…]]></description><link>http://blog.samheckle.com/visual-language/assignment-2/</link><guid isPermaLink="false">http://blog.samheckle.com/visual-language/assignment-2/</guid><pubDate>Tue, 22 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Plane Ticket Redesign&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fridge notes]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>http://blog.samheckle.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 30 Sep 2020 06:20:57 GMT</lastBuildDate><item><title><![CDATA[Week 5 Color]]></title><link>http://blog.samheckle.com/visual-language/assignment-3/</link><guid isPermaLink="false">http://blog.samheckle.com/visual-language/assignment-3/</guid><pubDate>Tue, 29 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/1932de95894fc2d2f71488d65af76dcb/29114/colors.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAABSElEQVQoz7WSz0oCURSH79boCWzTwhcoH6BFi9q36VlaGdS6jWUUgW4SMhALYkIKxSRb1C6QIMksy0hzRAVn7p2vmakRKaZN9eN+cM659/4494+wLItR8In9cDSaC77I8on95Jl6Esou9KWkJ00MpewV0h59mx4oE2XXTNNwcTYbhkG323UxTfN7h9e6zuxZgenTLGuVB2ifI4szqPwUPCep3D+xvxcjuRuj3X4hGl0nEAgQDAbRNM01lHZDQ8OrtxaTxxrjB2mWynfQPEFmJ1BHY1CLUb6tsbO1yubGCq1mnUhkGSGESyqVGhp6nYqbTofFUon5Qp7tah30S4yLBYziHDQyVB8bHGYSpNMJdP2VeDxBKBQiHA6Ty+Vco8Fg4Jo61yMcVyeQNsq7CyU/+MydeYfhWnvz6DF/fOXfSvz7P/x1h39t+A7Hwzhn8Zt0CgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;colors&quot;
+        title=&quot;colors&quot;
+        src=&quot;/blog/static/1932de95894fc2d2f71488d65af76dcb/fcda8/colors.png&quot;
+        srcset=&quot;/blog/static/1932de95894fc2d2f71488d65af76dcb/12f09/colors.png 148w,
+/blog/static/1932de95894fc2d2f71488d65af76dcb/e4a3f/colors.png 295w,
+/blog/static/1932de95894fc2d2f71488d65af76dcb/fcda8/colors.png 590w,
+/blog/static/1932de95894fc2d2f71488d65af76dcb/efc66/colors.png 885w,
+/blog/static/1932de95894fc2d2f71488d65af76dcb/c83ae/colors.png 1180w,
+/blog/static/1932de95894fc2d2f71488d65af76dcb/29114/colors.png 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/c1445b64fc2f664dc6be6131a85bfda6/0f98f/composition_0000s_0001_comp-week4-06.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIBBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAe/NDQf/xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAEFAl//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAY/Al//xAAXEAEBAQEAAAAAAAAAAAAAAAABABAR/9oACAEBAAE/IV4Q4xn/2gAMAwEAAgADAAAAEGAP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGhABAAMAAwAAAAAAAAAAAAAAAQAQESExYf/aAAgBAQABPxDkImjujQER6gMPK//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;comp1&quot;
+        title=&quot;comp1&quot;
+        src=&quot;/blog/static/c1445b64fc2f664dc6be6131a85bfda6/1c72d/composition_0000s_0001_comp-week4-06.jpg&quot;
+        srcset=&quot;/blog/static/c1445b64fc2f664dc6be6131a85bfda6/a80bd/composition_0000s_0001_comp-week4-06.jpg 148w,
+/blog/static/c1445b64fc2f664dc6be6131a85bfda6/1c91a/composition_0000s_0001_comp-week4-06.jpg 295w,
+/blog/static/c1445b64fc2f664dc6be6131a85bfda6/1c72d/composition_0000s_0001_comp-week4-06.jpg 590w,
+/blog/static/c1445b64fc2f664dc6be6131a85bfda6/a8a14/composition_0000s_0001_comp-week4-06.jpg 885w,
+/blog/static/c1445b64fc2f664dc6be6131a85bfda6/fbd2c/composition_0000s_0001_comp-week4-06.jpg 1180w,
+/blog/static/c1445b64fc2f664dc6be6131a85bfda6/0f98f/composition_0000s_0001_comp-week4-06.jpg 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/907832cce66434b42f9ecbdc8e9245be/0f98f/composition_0000s_0002_comp-week4-05.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUCBv/EABQBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAdy68UOzC//EABsQAAEEAwAAAAAAAAAAAAAAAAACAwUyARMh/9oACAEBAAEFApOjjetZI1x1R//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/Aaf/xAAWEQADAAAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8BhX//xAAcEAAABgMAAAAAAAAAAAAAAAAAAQIQEXEDIVH/2gAIAQEABj8CRYx6MphkWCnrf//EABwQAQABBAMAAAAAAAAAAAAAAAERABAhMUFRof/aAAgBAQABPyH2qwmATLzYjP2rZlw22//aAAwDAQACAAMAAAAQt8//xAAWEQEBAQAAAAAAAAAAAAAAAAABERD/2gAIAQMBAT8Qko5//8QAFhEBAQEAAAAAAAAAAAAAAAAAARAh/9oACAECAQE/EFERyf/EAB4QAAIABgMAAAAAAAAAAAAAAAERABAhMUFRYbHw/9oACAEBAAE/EPV0IBmpiuDHGJLU10QJoXQ0qo3L/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;comp1&quot;
+        title=&quot;comp1&quot;
+        src=&quot;/blog/static/907832cce66434b42f9ecbdc8e9245be/1c72d/composition_0000s_0002_comp-week4-05.jpg&quot;
+        srcset=&quot;/blog/static/907832cce66434b42f9ecbdc8e9245be/a80bd/composition_0000s_0002_comp-week4-05.jpg 148w,
+/blog/static/907832cce66434b42f9ecbdc8e9245be/1c91a/composition_0000s_0002_comp-week4-05.jpg 295w,
+/blog/static/907832cce66434b42f9ecbdc8e9245be/1c72d/composition_0000s_0002_comp-week4-05.jpg 590w,
+/blog/static/907832cce66434b42f9ecbdc8e9245be/a8a14/composition_0000s_0002_comp-week4-05.jpg 885w,
+/blog/static/907832cce66434b42f9ecbdc8e9245be/fbd2c/composition_0000s_0002_comp-week4-05.jpg 1180w,
+/blog/static/907832cce66434b42f9ecbdc8e9245be/0f98f/composition_0000s_0002_comp-week4-05.jpg 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/c7c1b21c0c0f3ad16ccc2b3b669a07e2/0f98f/composition_0000s_0003_comp-week4-04.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/2gAMAwEAAhADEAAAAdWSmFy7QFX/xAAaEAACAgMAAAAAAAAAAAAAAAAAARExAwQQ/9oACAEBAAEFAsykjmzSs//EABcRAQADAAAAAAAAAAAAAAAAAAIDEBH/2gAIAQMBAT8BkWKv/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8BCf/EABgQAAMBAQAAAAAAAAAAAAAAAAEQMQAC/9oACAEBAAY/AuRrCg//xAAbEAACAwADAAAAAAAAAAAAAAABEQAQITFxof/aAAgBAQABPyF0xTMRE7wFemcHdf/aAAwDAQACAAMAAAAQA8//xAAXEQEBAQEAAAAAAAAAAAAAAAABERDw/9oACAEDAQE/EAQnTP/EABYRAQEBAAAAAAAAAAAAAAAAABEBEP/aAAgBAgEBPxBI5//EABwQAAIBBQEAAAAAAAAAAAAAAAERABAhMaGxgf/aAAgBAQABPxASQFD8gOCwNjIdqbbk13af/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;comp1&quot;
+        title=&quot;comp1&quot;
+        src=&quot;/blog/static/c7c1b21c0c0f3ad16ccc2b3b669a07e2/1c72d/composition_0000s_0003_comp-week4-04.jpg&quot;
+        srcset=&quot;/blog/static/c7c1b21c0c0f3ad16ccc2b3b669a07e2/a80bd/composition_0000s_0003_comp-week4-04.jpg 148w,
+/blog/static/c7c1b21c0c0f3ad16ccc2b3b669a07e2/1c91a/composition_0000s_0003_comp-week4-04.jpg 295w,
+/blog/static/c7c1b21c0c0f3ad16ccc2b3b669a07e2/1c72d/composition_0000s_0003_comp-week4-04.jpg 590w,
+/blog/static/c7c1b21c0c0f3ad16ccc2b3b669a07e2/a8a14/composition_0000s_0003_comp-week4-04.jpg 885w,
+/blog/static/c7c1b21c0c0f3ad16ccc2b3b669a07e2/fbd2c/composition_0000s_0003_comp-week4-04.jpg 1180w,
+/blog/static/c7c1b21c0c0f3ad16ccc2b3b669a07e2/0f98f/composition_0000s_0003_comp-week4-04.jpg 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/6c081a29c2a14c7b2d5196d4f808eea3/0f98f/composition_0000s_0004_comp-week4-03.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQAF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB3iRmP//EABcQAAMBAAAAAAAAAAAAAAAAAAABEDH/2gAIAQEAAQUCrFh//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGRAAAgMBAAAAAAAAAAAAAAAAAREAECEx/9oACAEBAAE/ISHGs01zOFf/2gAMAwEAAgADAAAAEPMP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGhAAAgMBAQAAAAAAAAAAAAAAAREAECExcf/aAAgBAQABPxBRNQEYXDtC5x4V/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;comp1&quot;
+        title=&quot;comp1&quot;
+        src=&quot;/blog/static/6c081a29c2a14c7b2d5196d4f808eea3/1c72d/composition_0000s_0004_comp-week4-03.jpg&quot;
+        srcset=&quot;/blog/static/6c081a29c2a14c7b2d5196d4f808eea3/a80bd/composition_0000s_0004_comp-week4-03.jpg 148w,
+/blog/static/6c081a29c2a14c7b2d5196d4f808eea3/1c91a/composition_0000s_0004_comp-week4-03.jpg 295w,
+/blog/static/6c081a29c2a14c7b2d5196d4f808eea3/1c72d/composition_0000s_0004_comp-week4-03.jpg 590w,
+/blog/static/6c081a29c2a14c7b2d5196d4f808eea3/a8a14/composition_0000s_0004_comp-week4-03.jpg 885w,
+/blog/static/6c081a29c2a14c7b2d5196d4f808eea3/fbd2c/composition_0000s_0004_comp-week4-03.jpg 1180w,
+/blog/static/6c081a29c2a14c7b2d5196d4f808eea3/0f98f/composition_0000s_0004_comp-week4-03.jpg 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/c0c9ba35bd3e15e52478c5b6963320b3/0f98f/composition_0000s_0005_comp-week4-02.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHvyyNCv//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEAAQUCX//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABUQAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEBAAE/IWt//9oADAMBAAIAAwAAABAUD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAECAQE/EGf/xAAaEAEAAwADAAAAAAAAAAAAAAABABARITFB/9oACAEBAAE/EPMHpXKAnMyv/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;comp1&quot;
+        title=&quot;comp1&quot;
+        src=&quot;/blog/static/c0c9ba35bd3e15e52478c5b6963320b3/1c72d/composition_0000s_0005_comp-week4-02.jpg&quot;
+        srcset=&quot;/blog/static/c0c9ba35bd3e15e52478c5b6963320b3/a80bd/composition_0000s_0005_comp-week4-02.jpg 148w,
+/blog/static/c0c9ba35bd3e15e52478c5b6963320b3/1c91a/composition_0000s_0005_comp-week4-02.jpg 295w,
+/blog/static/c0c9ba35bd3e15e52478c5b6963320b3/1c72d/composition_0000s_0005_comp-week4-02.jpg 590w,
+/blog/static/c0c9ba35bd3e15e52478c5b6963320b3/a8a14/composition_0000s_0005_comp-week4-02.jpg 885w,
+/blog/static/c0c9ba35bd3e15e52478c5b6963320b3/fbd2c/composition_0000s_0005_comp-week4-02.jpg 1180w,
+/blog/static/c0c9ba35bd3e15e52478c5b6963320b3/0f98f/composition_0000s_0005_comp-week4-02.jpg 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/57541e54cf41bf74f11b737725ef085c/0f98f/composition_0000s_0000_comp-week4-07.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUBAwT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABcVzlhoBX/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAECAxARQf/aAAgBAQABBQK1bJRSxedP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFhABAQEAAAAAAAAAAAAAAAAAEAEC/9oACAEBAAY/Assf/8QAHRABAAEDBQAAAAAAAAAAAAAAAREAECExUWFxof/aAAgBAQABPyEEHeo6Ekto70enPNv/2gAMAwEAAgADAAAAECPP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QZ//EABwQAQABBAMAAAAAAAAAAAAAAAERABAhsTFRYf/aAAgBAQABPxDgYlqilMjA5LJHGGWqwKAJqAFe92//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;comp1&quot;
+        title=&quot;comp1&quot;
+        src=&quot;/blog/static/57541e54cf41bf74f11b737725ef085c/1c72d/composition_0000s_0000_comp-week4-07.jpg&quot;
+        srcset=&quot;/blog/static/57541e54cf41bf74f11b737725ef085c/a80bd/composition_0000s_0000_comp-week4-07.jpg 148w,
+/blog/static/57541e54cf41bf74f11b737725ef085c/1c91a/composition_0000s_0000_comp-week4-07.jpg 295w,
+/blog/static/57541e54cf41bf74f11b737725ef085c/1c72d/composition_0000s_0000_comp-week4-07.jpg 590w,
+/blog/static/57541e54cf41bf74f11b737725ef085c/a8a14/composition_0000s_0000_comp-week4-07.jpg 885w,
+/blog/static/57541e54cf41bf74f11b737725ef085c/fbd2c/composition_0000s_0000_comp-week4-07.jpg 1180w,
+/blog/static/57541e54cf41bf74f11b737725ef085c/0f98f/composition_0000s_0000_comp-week4-07.jpg 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Project 1 Idea]]></title><description><![CDATA[Project 1 Idea I think I am going to try an attempt an LED etch-a-sketch.]]></description><link>http://blog.samheckle.com/physical-computing/project-1-idea/</link><guid isPermaLink="false">http://blog.samheckle.com/physical-computing/project-1-idea/</guid><pubDate>Tue, 29 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Project 1 Idea&lt;/h2&gt;
+&lt;p&gt;I think I am going to try an attempt an LED etch-a-sketch.
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 468px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/b55d1cdd2a43f926adac34bf19710cd8/7883a/etch.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 81.75675675675677%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgT/2gAMAwEAAhADEAAAAdW2edNZ2D//xAAaEAACAgMAAAAAAAAAAAAAAAADEgACASMx/9oACAEBAAEFArVYiQPCayPBUyv/xAAXEQEBAQEAAAAAAAAAAAAAAAABABMy/9oACAEDAQE/AXR5lL//xAAVEQEBAAAAAAAAAAAAAAAAAAAQIf/aAAgBAgEBPwGH/8QAHRAAAgIBBQAAAAAAAAAAAAAAAAERITICAzFBcf/aAAgBAQAGPwLct8mTH6au5c0YsmVdn//EABwQAAMAAgMBAAAAAAAAAAAAAAABESExQVGRwf/aAAgBAQABPyGwa46wzb6mC63OY7Ta8wXQ7kcLo//aAAwDAQACAAMAAAAQkB//xAAZEQEAAgMAAAAAAAAAAAAAAAABACERMVH/2gAIAQMBAT8QKZ0rkY2z/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQBR/9oACAECAQE/EDcF/8QAGhABAAMBAQEAAAAAAAAAAAAAAQARITFBYf/aAAgBAQABPxDDEwrJTEbX7gCreENBaFr6cfs6pPdX0F2DHO5P/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;etch&quot;
+        title=&quot;etch&quot;
+        src=&quot;/blog/static/b55d1cdd2a43f926adac34bf19710cd8/7883a/etch.jpg&quot;
+        srcset=&quot;/blog/static/b55d1cdd2a43f926adac34bf19710cd8/a80bd/etch.jpg 148w,
+/blog/static/b55d1cdd2a43f926adac34bf19710cd8/1c91a/etch.jpg 295w,
+/blog/static/b55d1cdd2a43f926adac34bf19710cd8/7883a/etch.jpg 468w&quot;
+        sizes=&quot;(max-width: 468px) 100vw, 468px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Week 4 Lab]]></title><description><![CDATA[This is a blog post in a response to the fourth week assignment.  Tone Output Using An Arduino Lab 1  Connecting the Sensors and the Speaker…]]></description><link>http://blog.samheckle.com/physical-computing/assignment-3/</link><guid isPermaLink="false">http://blog.samheckle.com/physical-computing/assignment-3/</guid><pubDate>Sun, 27 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This is a blog post in a response to the fourth week assignment. &lt;/p&gt;
+&lt;h2&gt;Tone Output Using An Arduino&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/tone-output-using-an-arduino/&quot;&gt;Lab 1&lt;/a&gt; &lt;/p&gt;
+&lt;h1&gt;Connecting the Sensors and the Speaker&lt;/h1&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/3fe72b589e818633f64571d260999279/29114/lab1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAAB0UlEQVQoz5XSS08TURTAcT6GK7e2QAJOO1V5uKB0w0iREq11OjK1tlpiYtQgxBgeoQ2tBgUSIg7V+ECMxGgicUH8AtRaKaChFAU26MadcWXL32uNCQtiOje5uWdx8rvn3HMr2LUKhULpfJ9OY5Ns1NfV09TkQpaP0NZ+Ep8aQNXOoennWc2tlXKLxeJugoq9wHepFNWVVch2u8AcHBLb3XqcDq+G2hlGC1wQYL58MCXASouV2poaekJn6bkxwPDIGDf7+vD5dPzBCKtrJkGrACUBJpOTRKITjM285uWzGYKeU1wSYC7/2QS4sIDlgAWHeMdoIsaVxB3GjSQjdw0UX5CwaHsrv24O/FOhLEnEY1GMF4+Ymr3P1PhtekMBLobCrHzKmRxKVTWH7TLxxDDP387y+NUD5idvkZmIYVwNsbj0sXwwLb6NVHuQxsaj+FWNcJdOd6yXudF+5ge7mO7u5OsXE0P5kMnQUNeA09mMorThsDmw7t9Hv6qQNYZ4ek3n1/ftUu7Ozn/Af7dlF7O4nC6OKa14vadF3ExcP8HomRY2p+PMDUb4sb3xFyyWAS4vLeNuUejweFBFy+1uN08u+3lzPcD6wyEy9wb4+W1rzwp/Az39wfU73GpEAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;first circuit&quot;
+        title=&quot;first circuit&quot;
+        src=&quot;/blog/static/3fe72b589e818633f64571d260999279/fcda8/lab1.png&quot;
+        srcset=&quot;/blog/static/3fe72b589e818633f64571d260999279/12f09/lab1.png 148w,
+/blog/static/3fe72b589e818633f64571d260999279/e4a3f/lab1.png 295w,
+/blog/static/3fe72b589e818633f64571d260999279/fcda8/lab1.png 590w,
+/blog/static/3fe72b589e818633f64571d260999279/efc66/lab1.png 885w,
+/blog/static/3fe72b589e818633f64571d260999279/c83ae/lab1.png 1180w,
+/blog/static/3fe72b589e818633f64571d260999279/29114/lab1.png 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden; &quot; &gt; &lt;div class=&quot;embedVideo-container&quot;&gt; &lt;iframe title src=&quot;https://www.youtube-nocookie.com/embed/NxcxCt4jipw?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot; allowfullscreen&gt;&lt;/iframe&gt; &lt;/div&gt; &lt;/div&gt;&lt;/p&gt;
+&lt;h1&gt;A Musical Instrument&lt;/h1&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/3305a0225c002a8732e84175fc5ef70a/29114/lab2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAAB3UlEQVQoz5WT20uTARTA/QsUwrysddNuZNRk1ipDtrIvLZ20rcDLwKysgYVuVhvNYdjSlaT1EjkflmOT0LCSoJB6iKBvFyrnpKBeLIgSoSdJY/PX13rxwYd9Bw7n5fDjdzjnZLAsEolEqkbCEYp3qlAVl7B1WxG71Rp0gp5DRw1UmxqkNBOf/pjqTSaTyxFkrAQMiSJbNm3GeESgpaEOm7MTp5QuRwcGQx011SeYnJpOHyhKwMJ163E77ASDPvRtt+j3P+LxkA/zMQOnKvR8isXlGIbYqFjDVZeL0329qE/a8Az6eTg+zt5KE/vKq4jFpuQZbshXcKndSr27i3qrC7vnJvYOB7XG47Q1mYm+ey8D+FZEmZePo8XCFcnwbKeVbt8dvKMBHnS1Mjl0j5kvn+UtRZmTx8XzZ7gxcJseXw9j4jMCT4fpszYSH7jG79lvqd6lpTSA4VCItZJhszSad/g+3rFB3nx4TXAkwOUmI6/c55j/MfMfmI5h+N/ZFBQi6MqoNdVgsVm46+9n5MVzrrc3M+G5wJ9fP+UZ7tq+A7VKjSI7h+zMLITKKg6UlVOkzOVlbyuLc9/TB0YjUTTSlwi6g2hLS8nNykSzZz9a7WEKVq/iibORhdmvK478FxClwHOPl27HAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;analog input&quot;
+        title=&quot;analog input&quot;
+        src=&quot;/blog/static/3305a0225c002a8732e84175fc5ef70a/fcda8/lab2.png&quot;
+        srcset=&quot;/blog/static/3305a0225c002a8732e84175fc5ef70a/12f09/lab2.png 148w,
+/blog/static/3305a0225c002a8732e84175fc5ef70a/e4a3f/lab2.png 295w,
+/blog/static/3305a0225c002a8732e84175fc5ef70a/fcda8/lab2.png 590w,
+/blog/static/3305a0225c002a8732e84175fc5ef70a/efc66/lab2.png 885w,
+/blog/static/3305a0225c002a8732e84175fc5ef70a/c83ae/lab2.png 1180w,
+/blog/static/3305a0225c002a8732e84175fc5ef70a/29114/lab2.png 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden; &quot; &gt; &lt;div class=&quot;embedVideo-container&quot;&gt; &lt;iframe title src=&quot;https://www.youtube-nocookie.com/embed/0vRH2xaw9r0?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot; allowfullscreen&gt;&lt;/iframe&gt; &lt;/div&gt; &lt;/div&gt;&lt;/p&gt;
+&lt;h2&gt;Server Motor Control&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/servo-motor-control-with-an-arduino/&quot;&gt;second lab&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/f7f568072b901b8cc46d03c849034de1/29114/lab3.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAABzElEQVQoz5XQ0WtSYRjH8f0zIXPVtpa6aHPVQiioVioqW05zU9TjPIhzWotTnAYt1lxJRCx2UWbspm6KoIt2IUy0jt26Zot21lVFsGv120kKFgTpAy8PD7zPhx9PB3uqXq83e7lcZuDoIBbLKc6eOY/N6sTpGGNs1IPb7cPr9VOpfPhr50917B1qtdpv8D1Gg5Eh8zFGRmzY7S7GPRNM+kNc8gXwa31jow1QURT0+i4O7O/WUp7GqoH+oIAQEYmKcSKRGJub1dbBYrHI8BETXo+Xe5m7xBJJnBe9TASniCcuk0zNUq1utQ6uvVlDikWQl+6z8uwFD7NZzlldTIVDpGYlZlJX+bj1qT3Q7bIjpxdJP3rMq+dPkcJurkd9+F02pmeuoKpfWgfz+TyHu/SsZB+w/jpHRXuiKBKOTiMEwzzJrfL12/fm30aj8X+wVChg7jdxcznDam6ZTOYOkwGBRCKFPDfPYjrDtrrTesK3pRJmo4megz0YDP2cOG7BM+4jHk8iSTLyjXk+b6utgyUN1O3T0anr5FBvHyeHLTgcowiCiHRNZuH2EupOGwmVdwp93b3NhL/AwYEhrBfsBAIhFm7NUVh/ye7uj3/e8CezYMTmhR0IEQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;lab 3&quot;
+        title=&quot;lab 3&quot;
+        src=&quot;/blog/static/f7f568072b901b8cc46d03c849034de1/fcda8/lab3.png&quot;
+        srcset=&quot;/blog/static/f7f568072b901b8cc46d03c849034de1/12f09/lab3.png 148w,
+/blog/static/f7f568072b901b8cc46d03c849034de1/e4a3f/lab3.png 295w,
+/blog/static/f7f568072b901b8cc46d03c849034de1/fcda8/lab3.png 590w,
+/blog/static/f7f568072b901b8cc46d03c849034de1/efc66/lab3.png 885w,
+/blog/static/f7f568072b901b8cc46d03c849034de1/c83ae/lab3.png 1180w,
+/blog/static/f7f568072b901b8cc46d03c849034de1/29114/lab3.png 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Week 2 Plane Ticket Design and Expressive Words]]></title><description><![CDATA[Plane Ticket Redesign One of the assignments this week was to redesign an airline ticket. Given a set of information, how can we reformat it…]]></description><link>http://blog.samheckle.com/visual-language/assignment-2/</link><guid isPermaLink="false">http://blog.samheckle.com/visual-language/assignment-2/</guid><pubDate>Tue, 22 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Plane Ticket Redesign&lt;/h1&gt;
 &lt;p&gt;One of the assignments this week was to redesign an airline ticket. Given a set of information, how can we reformat it to make it look both beautiful and functional?&lt;/p&gt;
 &lt;p&gt;Below was my first iteration on the design. I knew I had particular elements to focus on, based on previous airport experiences, and highlighted them using different colors. I also started making a first pass at a grid.&lt;/p&gt;
 &lt;p&gt;&lt;span
