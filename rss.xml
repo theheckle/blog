@@ -1,4 +1,102 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fridge notes]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>http://blog.samheckle.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 30 Sep 2020 06:20:57 GMT</lastBuildDate><item><title><![CDATA[Week 5 Color]]></title><link>http://blog.samheckle.com/visual-language/assignment-3/</link><guid isPermaLink="false">http://blog.samheckle.com/visual-language/assignment-3/</guid><pubDate>Tue, 29 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fridge notes]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>http://blog.samheckle.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 05 Oct 2020 04:40:49 GMT</lastBuildDate><item><title><![CDATA[Week 6 Composition]]></title><description><![CDATA[Iteration 1  Iteration 2  Iteration 3]]></description><link>http://blog.samheckle.com/visual-language/assignment-4/</link><guid isPermaLink="false">http://blog.samheckle.com/visual-language/assignment-4/</guid><pubDate>Sun, 04 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Iteration 1&lt;/h1&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/d9fc3567a45eea98abff8d691c301762/0f98f/iteration1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUCAwT/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAF7XHGjQAf/xAAZEAACAwEAAAAAAAAAAAAAAAAAAQIDMxH/2gAIAQEAAQUCb4lOLZfnVof/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPwGH/8QAGBAAAgMAAAAAAAAAAAAAAAAAEBEAASH/2gAIAQEABj8C2Jmh/8QAGRABAAIDAAAAAAAAAAAAAAAAARARADFx/9oACAEBAAE/ISuVGVAFY2dJ/wD/2gAMAwEAAgADAAAAEPvP/8QAFhEBAQEAAAAAAAAAAAAAAAAAAREQ/9oACAEDAQE/EFjM/8QAFhEBAQEAAAAAAAAAAAAAAAAAAREQ/9oACAECAQE/ECi5/8QAGhABAAIDAQAAAAAAAAAAAAAAAQAREDGxwf/aAAgBAQABPxB6SzbDqwaC8JGN+k6+OP/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;comp1&quot;
+        title=&quot;comp1&quot;
+        src=&quot;/blog/static/d9fc3567a45eea98abff8d691c301762/1c72d/iteration1.jpg&quot;
+        srcset=&quot;/blog/static/d9fc3567a45eea98abff8d691c301762/a80bd/iteration1.jpg 148w,
+/blog/static/d9fc3567a45eea98abff8d691c301762/1c91a/iteration1.jpg 295w,
+/blog/static/d9fc3567a45eea98abff8d691c301762/1c72d/iteration1.jpg 590w,
+/blog/static/d9fc3567a45eea98abff8d691c301762/a8a14/iteration1.jpg 885w,
+/blog/static/d9fc3567a45eea98abff8d691c301762/fbd2c/iteration1.jpg 1180w,
+/blog/static/d9fc3567a45eea98abff8d691c301762/0f98f/iteration1.jpg 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h1&gt;Iteration 2&lt;/h1&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/8c796f0db44bef81d8b5f91bb844cfb9/0f98f/iteration2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUDBP/EABQBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAbmTjSoB/8QAGRAAAgMBAAAAAAAAAAAAAAAAAgMAETMB/9oACAEBAAEFAj7Qiyyj81aT/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Bh//EABcQAAMBAAAAAAAAAAAAAAAAAAABEOH/2gAIAQEABj8CMqn/xAAZEAEAAgMAAAAAAAAAAAAAAAABEDEAEXH/2gAIAQEAAT8hFlwiN3CzpP8A/9oADAMBAAIAAwAAABC7z//EABcRAQADAAAAAAAAAAAAAAAAAAEQESH/2gAIAQMBAT8QXaj/xAAWEQEBAQAAAAAAAAAAAAAAAAABERD/2gAIAQIBAT8QKLn/xAAdEAABBAIDAAAAAAAAAAAAAAABABEhMRBRobHw/9oACAEBAAE/ECJMIFPKknLmkOceRtOvNno4/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;comp1&quot;
+        title=&quot;comp1&quot;
+        src=&quot;/blog/static/8c796f0db44bef81d8b5f91bb844cfb9/1c72d/iteration2.jpg&quot;
+        srcset=&quot;/blog/static/8c796f0db44bef81d8b5f91bb844cfb9/a80bd/iteration2.jpg 148w,
+/blog/static/8c796f0db44bef81d8b5f91bb844cfb9/1c91a/iteration2.jpg 295w,
+/blog/static/8c796f0db44bef81d8b5f91bb844cfb9/1c72d/iteration2.jpg 590w,
+/blog/static/8c796f0db44bef81d8b5f91bb844cfb9/a8a14/iteration2.jpg 885w,
+/blog/static/8c796f0db44bef81d8b5f91bb844cfb9/fbd2c/iteration2.jpg 1180w,
+/blog/static/8c796f0db44bef81d8b5f91bb844cfb9/0f98f/iteration2.jpg 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h1&gt;Iteration 3&lt;/h1&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/dad09f7bcff56588374b2f1088851e61/0f98f/iteration3.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUDBP/EABQBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAbmTkSmB/8QAGRAAAgMBAAAAAAAAAAAAAAAAAAIDETMB/9oACAEBAAEFAn7Sq9sT5xaH/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Bh//EABcQAAMBAAAAAAAAAAAAAAAAAAABENH/2gAIAQEABj8CFlU//8QAGRABAAIDAAAAAAAAAAAAAAAAARAxABFx/9oACAEBAAE/IRZcEG7hZ0l//9oADAMBAAIAAwAAABDrz//EABYRAQEBAAAAAAAAAAAAAAAAAAEREP/aAAgBAwEBPxBYzP/EABYRAQEBAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPxAouf/EAB0QAQACAgIDAAAAAAAAAAAAAAERIQAxEFFhgfD/2gAIAQEAAT8QRKCjU3l+TOLE++Pkd41nV3t8PH//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;comp1&quot;
+        title=&quot;comp1&quot;
+        src=&quot;/blog/static/dad09f7bcff56588374b2f1088851e61/1c72d/iteration3.jpg&quot;
+        srcset=&quot;/blog/static/dad09f7bcff56588374b2f1088851e61/a80bd/iteration3.jpg 148w,
+/blog/static/dad09f7bcff56588374b2f1088851e61/1c91a/iteration3.jpg 295w,
+/blog/static/dad09f7bcff56588374b2f1088851e61/1c72d/iteration3.jpg 590w,
+/blog/static/dad09f7bcff56588374b2f1088851e61/a8a14/iteration3.jpg 885w,
+/blog/static/dad09f7bcff56588374b2f1088851e61/fbd2c/iteration3.jpg 1180w,
+/blog/static/dad09f7bcff56588374b2f1088851e61/0f98f/iteration3.jpg 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Week 5 Color]]></title><link>http://blog.samheckle.com/visual-language/assignment-3/</link><guid isPermaLink="false">http://blog.samheckle.com/visual-language/assignment-3/</guid><pubDate>Tue, 29 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
     &gt;
