@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fridge notes]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>http://blog.samheckle.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 12 Oct 2020 13:42:36 GMT</lastBuildDate><item><title><![CDATA[Week 7 Logo]]></title><description><![CDATA[Sketches translated from sticky notes I had about 12 sticky notes that had some original ideas, which were all scrapped. I attempted first…]]></description><link>http://blog.samheckle.com/visual-language/assignment-5/</link><guid isPermaLink="false">http://blog.samheckle.com/visual-language/assignment-5/</guid><pubDate>Mon, 12 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Sketches translated from sticky notes&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fridge notes]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>http://blog.samheckle.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 20 Oct 2020 22:28:39 GMT</lastBuildDate><item><title><![CDATA[Week 6 Labs]]></title><description><![CDATA[Getting On Board Accelerometer It took me a bit to get the on board accelerometer to work. I tried following the first library, and was…]]></description><link>http://blog.samheckle.com/physical-computing/assignment-4/</link><guid isPermaLink="false">http://blog.samheckle.com/physical-computing/assignment-4/</guid><pubDate>Sun, 18 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Getting On Board Accelerometer&lt;/h2&gt;
+&lt;p&gt;It took me a bit to get the on board accelerometer to work. I tried following the first library, and was having difficulties. I tried using this &lt;a href=&quot;https://maker.pro/arduino/tutorial/how-to-use-the-arduino-nano-33-bles-built-in-imu&quot;&gt;second tutorial&lt;/a&gt; and had issues with using both the &lt;code class=&quot;language-text&quot;&gt;Serial&lt;/code&gt; and &lt;code class=&quot;language-text&quot;&gt;IMU&lt;/code&gt; parts of the library. After more soul searching, I found this &lt;a href=&quot;https://desertbot.io/blog/arduino-nano-33-iot-imu&quot;&gt;other tutorial&lt;/a&gt; which actually used the first library. As it turns out, however, I didn’t need this at all for the first lab…&lt;/p&gt;
+&lt;h1&gt;Intro to Asynchronous Serial Communications&lt;/h1&gt;
+&lt;p&gt;The &lt;a href=&quot;https://itp.nyu.edu/physcomp/lab-intro-to-serial-communications/&quot;&gt;first lab&lt;/a&gt; brought little trouble.&lt;/p&gt;
+&lt;h1&gt;Serial Input to P5.js&lt;/h1&gt;
+&lt;p&gt;The &lt;a href=&quot;https://itp.nyu.edu/physcomp/labs/labs-serial-communication/lab-serial-input-to-the-p5-js-ide/&quot;&gt;second lab&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Following the tutorial I was able to get the sensor value printing to the screen. It took me a few tries — I was using the wrong input value for my analog read, my output wire was connected to ground instead of the output, and I had problems with the code (I restarted and went through more carefully). After all this, I finally printed out the sensor value:&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/5f223f52c3bd5311a39f3e68cc890c65/0f98f/sensor_value.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIFBv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAacrQKOAf//EABoQAAIDAQEAAAAAAAAAAAAAAAEDAAIEEBH/2gAIAQEAAQUC1sspGbW1j4R7BWo5/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGxAAAgMAAwAAAAAAAAAAAAAAAQIAECERMWH/2gAIAQEABj8CLL3FViOD5WzFFf/EABsQAQACAgMAAAAAAAAAAAAAAAEAERBhITFR/9oACAEBAAE/IaD6J3Of4rrTACgJuKWF9DH/2gAMAwEAAgADAAAAECPP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGxABAAEFAQAAAAAAAAAAAAAAAREAECExQYH/2gAIAQEAAT8QdMGCJMoU5akADhO/LN2rgkoaRaCJb//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;sensor value&quot;
+        title=&quot;sensor value&quot;
+        src=&quot;/blog/static/5f223f52c3bd5311a39f3e68cc890c65/1c72d/sensor_value.jpg&quot;
+        srcset=&quot;/blog/static/5f223f52c3bd5311a39f3e68cc890c65/a80bd/sensor_value.jpg 148w,
+/blog/static/5f223f52c3bd5311a39f3e68cc890c65/1c91a/sensor_value.jpg 295w,
+/blog/static/5f223f52c3bd5311a39f3e68cc890c65/1c72d/sensor_value.jpg 590w,
+/blog/static/5f223f52c3bd5311a39f3e68cc890c65/a8a14/sensor_value.jpg 885w,
+/blog/static/5f223f52c3bd5311a39f3e68cc890c65/fbd2c/sensor_value.jpg 1180w,
+/blog/static/5f223f52c3bd5311a39f3e68cc890c65/0f98f/sensor_value.jpg 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;And with the addition of the graphing function I was able to get the pentiometer graph working as well!
+&lt;img src=&quot;/blog/4ba01b9af6f07bd2f962154a7b7df839/graph.gif&quot; alt=&quot;graph&quot;&gt;&lt;/p&gt;
+&lt;h1&gt;Serial output from P5.js&lt;/h1&gt;
+&lt;p&gt;The &lt;a href=&quot;https://itp.nyu.edu/physcomp/labs/labs-serial-communication/lab-serial-output-from-p5-js/&quot;&gt;third lab&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Week 7 Logo]]></title><description><![CDATA[Sketches translated from sticky notes I had about 12 sticky notes that had some original ideas, which were all scrapped. I attempted first…]]></description><link>http://blog.samheckle.com/visual-language/assignment-5/</link><guid isPermaLink="false">http://blog.samheckle.com/visual-language/assignment-5/</guid><pubDate>Mon, 12 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Sketches translated from sticky notes&lt;/h2&gt;
 &lt;p&gt;I had about 12 sticky notes that had some original ideas, which were all scrapped. I attempted first in photoshop, but quickly realized I don’t have the artistic ability to do this by hand.
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
