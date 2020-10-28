@@ -1,4 +1,62 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fridge notes]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>http://blog.samheckle.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 21 Oct 2020 22:03:24 GMT</lastBuildDate><item><title><![CDATA[Week 6 Labs]]></title><description><![CDATA[Getting On Board Accelerometer It took me a bit to get the on board accelerometer to work. I tried following the first library, and was…]]></description><link>http://blog.samheckle.com/physical-computing/assignment-4/</link><guid isPermaLink="false">http://blog.samheckle.com/physical-computing/assignment-4/</guid><pubDate>Sun, 18 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Getting On Board Accelerometer&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fridge notes]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>http://blog.samheckle.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 28 Oct 2020 05:13:49 GMT</lastBuildDate><item><title><![CDATA[Project 2 Idea]]></title><description><![CDATA[Project 2 Idea The story I want to tell is playing with how intuitive technology can be, and having two different tactile experiences that…]]></description><link>http://blog.samheckle.com/physical-computing/project-2-idea/</link><guid isPermaLink="false">http://blog.samheckle.com/physical-computing/project-2-idea/</guid><pubDate>Tue, 27 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Project 2 Idea&lt;/h2&gt;
+&lt;p&gt;The story I want to tell is playing with how intuitive technology can be, and having two different tactile experiences that have different interactions on the screen. One will be a very complicated task to “undo” whatever it is you are drawing. &lt;/p&gt;
+&lt;p&gt;Perhaps a digitized etch-a-sketch 🤔 &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Week 7 Lab]]></title><description><![CDATA[Two-Way (Duplex) Serial Communication Using An Arduino and P5.js lab This lab was pretty simple to follow but I ran into small errors…]]></description><link>http://blog.samheckle.com/physical-computing/assignment-5/</link><guid isPermaLink="false">http://blog.samheckle.com/physical-computing/assignment-5/</guid><pubDate>Tue, 27 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Two-Way (Duplex) Serial Communication Using An Arduino and P5.js&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://itp.nyu.edu/physcomp/labs/labs-serial-communication/two-way-duplex-serial-communication-using-p5js/&quot;&gt;lab&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This lab was pretty simple to follow but I ran into small errors throughout the way. Since I was using the on board accelerometer I had to modify the startup on the Adrduino:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;void setup() {
+    Serial.begin(9600);
+
+    // for on board arduino accelermeter 
+    while (!Serial) {
+        ; // wait for serial port to connect. Needed for native USB port only
+    }
+    if (!IMU.begin()) {
+        Serial.println(&amp;quot;Failed to initialize IMU!&amp;quot;);
+        while (true); // halt program
+    }
+    Serial.println(&amp;quot;IMU initialized!&amp;quot;);
+
+    // configure the digital input:
+    pinMode(buttonPin, INPUT_PULLDOWN);
+
+    while (Serial.available() &amp;lt;= 0) {
+        Serial.println(&amp;quot;hello&amp;quot;); 
+        delay(300);              
+    }
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;I also was running into issues connecting to the localhost and it was not connecting.
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/fe1eacf53da30ea12e952a561904ba2b/21b4d/error.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.67567567567568%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAa0lEQVQ4y+2OsQlAIRBDTxu1ExVsXMsplFvAEdzCRfPxBvhYWFo8kiI8QmsttNbQewczSx9jYM6JWiuICFprKKV+2TtrLcg5h5QSYoxCCAE5Z5RS4L2X4SnGmJ2EW8jDm8LrD5/wCZ/wVPgBZNg5EmmJLsoAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;error.png&quot;
+        title=&quot;error.png&quot;
+        src=&quot;/blog/static/fe1eacf53da30ea12e952a561904ba2b/fcda8/error.png&quot;
+        srcset=&quot;/blog/static/fe1eacf53da30ea12e952a561904ba2b/12f09/error.png 148w,
+/blog/static/fe1eacf53da30ea12e952a561904ba2b/e4a3f/error.png 295w,
+/blog/static/fe1eacf53da30ea12e952a561904ba2b/fcda8/error.png 590w,
+/blog/static/fe1eacf53da30ea12e952a561904ba2b/efc66/error.png 885w,
+/blog/static/fe1eacf53da30ea12e952a561904ba2b/c83ae/error.png 1180w,
+/blog/static/fe1eacf53da30ea12e952a561904ba2b/21b4d/error.png 1280w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Week 6 Labs]]></title><description><![CDATA[Getting On Board Accelerometer It took me a bit to get the on board accelerometer to work. I tried following the first library, and was…]]></description><link>http://blog.samheckle.com/physical-computing/assignment-4/</link><guid isPermaLink="false">http://blog.samheckle.com/physical-computing/assignment-4/</guid><pubDate>Sun, 18 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Getting On Board Accelerometer&lt;/h2&gt;
 &lt;p&gt;It took me a bit to get the on board accelerometer to work. I tried following the first library, and was having difficulties. I tried using this &lt;a href=&quot;https://maker.pro/arduino/tutorial/how-to-use-the-arduino-nano-33-bles-built-in-imu&quot;&gt;second tutorial&lt;/a&gt; and had issues with using both the &lt;code class=&quot;language-text&quot;&gt;Serial&lt;/code&gt; and &lt;code class=&quot;language-text&quot;&gt;IMU&lt;/code&gt; parts of the library. After more soul searching, I found this &lt;a href=&quot;https://desertbot.io/blog/arduino-nano-33-iot-imu&quot;&gt;other tutorial&lt;/a&gt; which actually used the first library. As it turns out, however, I didn’t need this at all for the first lab…&lt;/p&gt;
 &lt;h1&gt;Intro to Asynchronous Serial Communications&lt;/h1&gt;
 &lt;p&gt;The &lt;a href=&quot;https://itp.nyu.edu/physcomp/lab-intro-to-serial-communications/&quot;&gt;first lab&lt;/a&gt; brought little trouble.&lt;/p&gt;
