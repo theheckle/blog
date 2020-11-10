@@ -1,4 +1,262 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fridge notes]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>http://blog.samheckle.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 03 Nov 2020 20:47:02 GMT</lastBuildDate><item><title><![CDATA[First Stop Motion]]></title><description><![CDATA[Idea I am very limited by supplies in my apartment — so I wanted to play around with what I had: sticky notes. I toyed around with lots of…]]></description><link>http://blog.samheckle.com/animation/assignment-1/</link><guid isPermaLink="false">http://blog.samheckle.com/animation/assignment-1/</guid><pubDate>Mon, 02 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Idea&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fridge notes]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>http://blog.samheckle.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 10 Nov 2020 02:56:22 GMT</lastBuildDate><item><title><![CDATA[Project 2]]></title><description><![CDATA[Project 2 New Concepts: Rotary Encoder I was looking around for rotary encoder tutorials for using one as a part of my etch a sketch.
+This…]]></description><link>http://blog.samheckle.com/physical-computing/project-2/</link><guid isPermaLink="false">http://blog.samheckle.com/physical-computing/project-2/</guid><pubDate>Mon, 09 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Project 2&lt;/h2&gt;
+&lt;h1&gt;New Concepts: Rotary Encoder&lt;/h1&gt;
+&lt;p&gt;I was looking around for rotary encoder tutorials for using one as a part of my etch a sketch.
+This was the &lt;a href=&quot;https://bildr.org/2012/08/rotary-encoder-arduino/&quot;&gt;initial tutorial&lt;/a&gt; I had found but ultimately followed &lt;a href=&quot;https://bit.ly/3nakt49&quot;&gt;this&lt;/a&gt; when my parts arrived.&lt;/p&gt;
+&lt;p&gt;Fundamentally, I am working with two rotary encoders and my on board accelerometer.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/80cb8c09c975eb6951819b2bd73f76c4/0f98f/items.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAQT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABfP61RbNK/8QAGRAAAgMBAAAAAAAAAAAAAAAAAgMABDMB/9oACAEBAAEFAniJWR5EZW9wis//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAbEAACAQUAAAAAAAAAAAAAAAAAARACERIhgf/aAAgBAQAGPwJ5O2opOQj/xAAbEAACAQUAAAAAAAAAAAAAAAAAAREQIUFxsf/aAAgBAQABPyGIJEuYHlmo5Kv/AP/aAAwDAQACAAMAAAAQb8//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAeEAACAgEFAQAAAAAAAAAAAAAAAREhsTFBUWGh8P/aAAgBAQABPxBcOLU2W5SJGzuhIXDZYvy7E0PO8s//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;parts&quot;
+        title=&quot;parts&quot;
+        src=&quot;/blog/static/80cb8c09c975eb6951819b2bd73f76c4/1c72d/items.jpg&quot;
+        srcset=&quot;/blog/static/80cb8c09c975eb6951819b2bd73f76c4/a80bd/items.jpg 148w,
+/blog/static/80cb8c09c975eb6951819b2bd73f76c4/1c91a/items.jpg 295w,
+/blog/static/80cb8c09c975eb6951819b2bd73f76c4/1c72d/items.jpg 590w,
+/blog/static/80cb8c09c975eb6951819b2bd73f76c4/a8a14/items.jpg 885w,
+/blog/static/80cb8c09c975eb6951819b2bd73f76c4/fbd2c/items.jpg 1180w,
+/blog/static/80cb8c09c975eb6951819b2bd73f76c4/0f98f/items.jpg 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I also had an etch-a-sketch on hand, but unfortunately to take it apart I would need a Dremel saw and I could not access one.
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/56640ff27ac3e12a620d33c773922efc/0f98f/etch.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBBQb/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//aAAwDAQACEAMQAAABYuK400wCn//EABsQAAMAAgMAAAAAAAAAAAAAAAECBBM0AAMR/9oACAEBAAEFAqB7S/UMcmtcTlV2HJdb/8QAFREBAQAAAAAAAAAAAAAAAAAAEBL/2gAIAQMBAT8Bo//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/AYf/xAAZEAEAAwEBAAAAAAAAAAAAAAAAAQIRIYH/2gAIAQEABj8C8bCjHJUf/8QAGxABAAICAwAAAAAAAAAAAAAAAQARMaFBUYH/2gAIAQEAAT8hNx6wyIuacMBVUOJw55NWf//aAAwDAQACAAMAAAAQlM//xAAYEQEBAAMAAAAAAAAAAAAAAAABERAhQf/aAAgBAwEBPxAgGuuY/8QAFhEAAwAAAAAAAAAAAAAAAAAAARAh/9oACAECAQE/EDS//8QAHBABAAICAwEAAAAAAAAAAAAAAQARMUEhcbGh/9oACAEBAAE/EAlE39sflCYRanDs+scgaRd87zBKpXeE+z6z/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;etch&quot;
+        title=&quot;etch&quot;
+        src=&quot;/blog/static/56640ff27ac3e12a620d33c773922efc/1c72d/etch.jpg&quot;
+        srcset=&quot;/blog/static/56640ff27ac3e12a620d33c773922efc/a80bd/etch.jpg 148w,
+/blog/static/56640ff27ac3e12a620d33c773922efc/1c91a/etch.jpg 295w,
+/blog/static/56640ff27ac3e12a620d33c773922efc/1c72d/etch.jpg 590w,
+/blog/static/56640ff27ac3e12a620d33c773922efc/a8a14/etch.jpg 885w,
+/blog/static/56640ff27ac3e12a620d33c773922efc/fbd2c/etch.jpg 1180w,
+/blog/static/56640ff27ac3e12a620d33c773922efc/0f98f/etch.jpg 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;So I opted to make do with what I had and make a small controller.&lt;/p&gt;
+&lt;p&gt;From there I wired up a prototype to make sure the encoders worked.
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/4cf82c8d4d0043f7ceafa7421ee1e0f5/0f98f/test.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQD/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAFUZkofqP/EABkQAAIDAQAAAAAAAAAAAAAAAAQzAAIDEv/aAAgBAQABBQIpFM+C4SjF0//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABkQAQACAwAAAAAAAAAAAAAAAAIAEBFRcf/aAAgBAQAGPwJQY3Sg7X//xAAbEAABBAMAAAAAAAAAAAAAAAABABARsSFRgf/aAAgBAQABPyHLlaCLKN2rWhEjP//aAAwDAQACAAMAAAAQc8//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAcEAEAAgMAAwAAAAAAAAAAAAABACERMUEQwfD/2gAIAQEAAT8QAN0+iEq2rWc1U5LD8pNoKUVzx8f/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;test&quot;
+        title=&quot;test&quot;
+        src=&quot;/blog/static/4cf82c8d4d0043f7ceafa7421ee1e0f5/1c72d/test.jpg&quot;
+        srcset=&quot;/blog/static/4cf82c8d4d0043f7ceafa7421ee1e0f5/a80bd/test.jpg 148w,
+/blog/static/4cf82c8d4d0043f7ceafa7421ee1e0f5/1c91a/test.jpg 295w,
+/blog/static/4cf82c8d4d0043f7ceafa7421ee1e0f5/1c72d/test.jpg 590w,
+/blog/static/4cf82c8d4d0043f7ceafa7421ee1e0f5/a8a14/test.jpg 885w,
+/blog/static/4cf82c8d4d0043f7ceafa7421ee1e0f5/fbd2c/test.jpg 1180w,
+/blog/static/4cf82c8d4d0043f7ceafa7421ee1e0f5/0f98f/test.jpg 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;And included this code:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;#define CLK 4
+#define DT 3
+#define SW 2
+
+int counter = 0;
+int currentStateCLK;
+int lastStateCLK;
+String currentDir =&amp;quot;&amp;quot;;
+unsigned long lastButtonPress = 0;
+
+void setup() {
+
+    // Set encoder pins as inputs
+    pinMode(CLK,INPUT);
+    pinMode(DT,INPUT);
+    pinMode(SW, INPUT_PULLUP);
+
+    // Setup Serial Monitor
+    Serial.begin(9600);
+
+    // Read the initial state of CLK
+    lastStateCLK = digitalRead(CLK);
+}
+
+void loop() {
+
+    currentStateCLK = digitalRead(CLK);
+    if (currentStateCLK != lastStateCLK  &amp;amp;&amp;amp; currentStateCLK == 1){
+        if (digitalRead(DT) != currentStateCLK) {
+        counter --;
+        currentDir =&amp;quot;CCW&amp;quot;;
+        } else {
+        // Encoder is rotating CW so increment
+        counter ++;
+        currentDir =&amp;quot;CW&amp;quot;;
+        }
+
+        Serial.print(&amp;quot;Direction: &amp;quot;);
+        Serial.print(currentDir);
+        Serial.print(&amp;quot; | Counter: &amp;quot;);
+        Serial.println(counter);
+    }
+
+    lastStateCLK = currentStateCLK;
+
+    int btnState = digitalRead(SW);
+
+    if (btnState == LOW) {
+        if (millis() - lastButtonPress &amp;gt; 50) {
+            Serial.println(&amp;quot;Button pressed!&amp;quot;);
+        }
+        lastButtonPress = millis();
+    }
+
+    delay(1);
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Next up was soldering my rotary encoders so they did not require to be directly in the breadboard. &lt;/p&gt;
+&lt;p&gt;After soldering I worked on my code getting &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Understanding Comics]]></title><description><![CDATA[Overall Thoughts on Reading Simply put: I enjoyed “Understanding Comics” by Scot McCloud and would recommend it. Keeping the comic format…]]></description><link>http://blog.samheckle.com/animation/assignment-2/</link><guid isPermaLink="false">http://blog.samheckle.com/animation/assignment-2/</guid><pubDate>Wed, 04 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Overall Thoughts on Reading&lt;/h2&gt;
+&lt;p&gt;Simply put: I enjoyed “Understanding Comics” by Scot McCloud and would recommend it. Keeping the comic format made the academic writing easier to digest because it was easy to visualize the concepts presented. &lt;/p&gt;
+&lt;p&gt;One of the most striking concepts is the conversation around cartoons are the embodiment of “me” or “I” injected into the story. I personally don’t have a ton of exposure to comics &amp;#x26; manga, but I definitely find myself trying to identify with characters in novels. This was slightly more challenging with a comic because I don’t necessarily identify with the character that was presenting the information. But, knowing that it is my voice hearing the words my perspective changed slightly. Because the concepts were presented in a story-like manner, I was learning along with the avatar. On top of that, this brings a whole extra layer to “self-learning”, learning new content from “yourself” idenifying as the teacher in the comic. &lt;/p&gt;
+&lt;h2&gt;Personal Notes from Reading&lt;/h2&gt;
+&lt;h1&gt;How to Define Comics&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Will Eisner - Sequential Art &lt;/li&gt;
+&lt;li&gt;How to seperate form from content and how the content is delivered&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;what is the form? more specific juxtaposed sequential visual art&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;dictionary definition of juxtaposed pictorial and other images in deliberate sequence&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;comics vs cartoons (one panel)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Vocab&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;icons - images to represent a person place thing or idea&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;cartoon is icon (lol at disney blackout)&lt;/li&gt;
+&lt;li&gt;abstracting the face — we never see our own face but now in the day of zoom it is hard to not see our faces all the time&lt;/li&gt;
+&lt;li&gt;cartoons become the embodiment of “I” as a concept because reading especially is bringing to life something that wouldn’t otherwise&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;pictures = received info&lt;/li&gt;
+&lt;li&gt;writing = perceived info&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Blood in the Gutter&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Senses can only reveal a world that is fragmented and incomplete&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;closure = observing the parts be perceiving the whole&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;comics must use closure more often - primary means of simulating time and motion&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Transitions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Moment to moment - little closure, shows actions frame by frame&lt;/li&gt;
+&lt;li&gt;Action to action - single subject&lt;/li&gt;
+&lt;li&gt;subject to subject - reader involvement&lt;/li&gt;
+&lt;li&gt;scene to scene - transfer between time and space&lt;/li&gt;
+&lt;li&gt;aspect to aspect&lt;/li&gt;
+&lt;li&gt;non sequitur&lt;/li&gt;
+&lt;li&gt;2-4 show things happening in concise efficient ways&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;west vs. east transitions &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;east uses more type 5 because of tradition of cyclical and labrynthine works of art&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Time Frames&lt;/h1&gt;
+&lt;p&gt;panel is most important comic icon&lt;/p&gt;
+&lt;h1&gt;Show and Tell&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Words used to be pictures but now are sound only. &lt;/li&gt;
+&lt;li&gt;evolution of language to more direct, like pictures&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;combinations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;word specific— pictures illustrate but don’t add to complete text&lt;/li&gt;
+&lt;li&gt;picture specific — words add only soundtrack&lt;/li&gt;
+&lt;li&gt;duo-specific— words and pictures tell the same message&lt;/li&gt;
+&lt;li&gt;additive— words amplify message&lt;/li&gt;
+&lt;li&gt;parallel — words and pictures follow very different courses&lt;/li&gt;
+&lt;li&gt;montage — words are a part of the picture&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;interdependent— words and picutres go hand in hand&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;can have a specturum between words and pictures&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;the six steps&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;definition of art — doesn’t grow out of survival or reproduction&lt;/li&gt;
+&lt;li&gt;creativity follows 6 steps
+idea / purpose = content
+form = medium (book, chair, drawing etc)
+idiom = genre belongs to
+structure = how to compose work
+craft = constructing work, applying skills
+surface = production value, finishing &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;a word about color&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;dependent on commerce and techonology&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[First Stop Motion]]></title><description><![CDATA[Idea I am very limited by supplies in my apartment — so I wanted to play around with what I had: sticky notes. I toyed around with lots of…]]></description><link>http://blog.samheckle.com/animation/assignment-1/</link><guid isPermaLink="false">http://blog.samheckle.com/animation/assignment-1/</guid><pubDate>Mon, 02 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Idea&lt;/h2&gt;
 &lt;p&gt;I am very limited by supplies in my apartment — so I wanted to play around with what I had: sticky notes. I toyed around with lots of different shapes but I figured, hey since it is a pink sticky not I should do something that is traditionally pink. I followed this basic theme of a heart and had multiple different cut-outs of what I thought I wanted to achieve.&lt;/p&gt;
 &lt;h2&gt;Setup&lt;/h2&gt;
 &lt;p&gt;I also had issues with my tripod — I ended up having to jury rig a phone mount from the tripod that I currently had.&lt;/p&gt;
@@ -66,10 +324,7 @@
 &lt;p&gt;I don’t think I figured this out quite yet. I still had issues that I had yet to debug and will have questions in class about. &lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSfyf_0SW0tkYssxTkGT7F9ifwIdruQQ50jhac1dHqLOXU-aUg/viewform?edit2=2_ABaOnufbfCNNEvpx_6I1Yzj9KdsOQGibS9YaBqfwQNSHIrXczANQvs04ai4Fg3LuX56yoIs&quot;&gt;here&lt;/a&gt; is my quiz from the week.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Project 2 Idea]]></title><description><![CDATA[Project 2 Idea The story I want to tell is playing with how intuitive technology can be, and having two different tactile experiences that…]]></description><link>http://blog.samheckle.com/physical-computing/project-2-idea/</link><guid isPermaLink="false">http://blog.samheckle.com/physical-computing/project-2-idea/</guid><pubDate>Tue, 27 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Project 2 Idea&lt;/h2&gt;
 &lt;p&gt;The story I want to tell is playing with how intuitive technology can be, and having two different tactile experiences that have different interactions on the screen. One will be a very complicated task to “undo” whatever it is you are drawing. &lt;/p&gt;
-&lt;p&gt;Perhaps a digitized etch-a-sketch 🤔 &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Project 2 Idea]]></title><description><![CDATA[Project 2 Idea The story I want to tell is playing with how intuitive technology can be, and having two different tactile experiences that…]]></description><link>http://blog.samheckle.com/physical-computing/project-2/</link><guid isPermaLink="false">http://blog.samheckle.com/physical-computing/project-2/</guid><pubDate>Tue, 27 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Project 2 Idea&lt;/h2&gt;
-&lt;p&gt;The story I want to tell is playing with how intuitive technology can be, and having two different tactile experiences that have different interactions on the screen. One will be a very complicated task to “undo” whatever it is you are drawing. &lt;/p&gt;
-&lt;p&gt;Perhaps a digitized etch-a-sketch 🤔 &lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://bildr.org/2012/08/rotary-encoder-arduino/&quot;&gt;https://bildr.org/2012/08/rotary-encoder-arduino/&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Week 6 Labs]]></title><description><![CDATA[Getting On Board Accelerometer It took me a bit to get the on board accelerometer to work. I tried following the first library, and was…]]></description><link>http://blog.samheckle.com/physical-computing/assignment-4/</link><guid isPermaLink="false">http://blog.samheckle.com/physical-computing/assignment-4/</guid><pubDate>Sun, 18 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Getting On Board Accelerometer&lt;/h2&gt;
+&lt;p&gt;Perhaps a digitized etch-a-sketch 🤔 &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Week 6 Labs]]></title><description><![CDATA[Getting On Board Accelerometer It took me a bit to get the on board accelerometer to work. I tried following the first library, and was…]]></description><link>http://blog.samheckle.com/physical-computing/assignment-4/</link><guid isPermaLink="false">http://blog.samheckle.com/physical-computing/assignment-4/</guid><pubDate>Sun, 18 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Getting On Board Accelerometer&lt;/h2&gt;
 &lt;p&gt;It took me a bit to get the on board accelerometer to work. I tried following the first library, and was having difficulties. I tried using this &lt;a href=&quot;https://maker.pro/arduino/tutorial/how-to-use-the-arduino-nano-33-bles-built-in-imu&quot;&gt;second tutorial&lt;/a&gt; and had issues with using both the &lt;code class=&quot;language-text&quot;&gt;Serial&lt;/code&gt; and &lt;code class=&quot;language-text&quot;&gt;IMU&lt;/code&gt; parts of the library. After more soul searching, I found this &lt;a href=&quot;https://desertbot.io/blog/arduino-nano-33-iot-imu&quot;&gt;other tutorial&lt;/a&gt; which actually used the first library. As it turns out, however, I didn’t need this at all for the first lab…&lt;/p&gt;
 &lt;h1&gt;Intro to Asynchronous Serial Communications&lt;/h1&gt;
 &lt;p&gt;The &lt;a href=&quot;https://itp.nyu.edu/physcomp/lab-intro-to-serial-communications/&quot;&gt;first lab&lt;/a&gt; brought little trouble.&lt;/p&gt;
