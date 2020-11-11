@@ -1,4 +1,94 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fridge notes]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>http://blog.samheckle.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 10 Nov 2020 02:56:22 GMT</lastBuildDate><item><title><![CDATA[Project 2]]></title><description><![CDATA[Project 2 New Concepts: Rotary Encoder I was looking around for rotary encoder tutorials for using one as a part of my etch a sketch.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fridge notes]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>http://blog.samheckle.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 11 Nov 2020 00:08:25 GMT</lastBuildDate><item><title><![CDATA[Storyboarding (Project 1 Part 1)]]></title><description><![CDATA[TLDR: google doc link We are Mega Group and creating 2 sets of animations that are tackling a main theme of the transformation of childhood…]]></description><link>http://blog.samheckle.com/animation/storyboarding/</link><guid isPermaLink="false">http://blog.samheckle.com/animation/storyboarding/</guid><pubDate>Tue, 10 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;TLDR: &lt;a href=&quot;https://docs.google.com/document/d/1c9Oznjak5a2E5llc3Vn_KMuBrBWjiunRhCeVb0J8FT8/edit?usp=sharing&quot;&gt;google doc link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We are Mega Group and creating 2 sets of animations that are tackling a main theme of the transformation of childhood fears into adult ones. We have 1 poem and have derived a literal interpretation vs. a conceptual interpretation of it. Our team split up into two groups falling into the two concepts, and my group focused on the literal poem.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;CLOSET
+
+My closet is booming,
+something&amp;#39;s not right.
+The moon is looming,
+shining real bright.
+Shadows dance across the bedroom floor,
+slowly creeping towards my closet door.
+
+My palms are sweaty,
+gripping the sheets.
+My heart is heavy,
+I can&amp;#39;t fall asleep.
+
+I shut my eyes then open them brave,
+There are toys in the closet I must hurry to save.
+Barbie and Ken, Rick and Morty and friends,
+I promise we will be united by the night&amp;#39;s end.
+
+I muster up courage, emerge from under the covers.
+Then POP!
+Out of the closet jumps my older brother.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;My first thoughts on reading it brought me back to reading Shel Silverstein as a child. So I rolled with that. I brought together some mood that I thought I wanted to achieve. &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/cce6f1777856b49cb706218fe5a036ad/0f98f/mood.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBBAX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHdRZUNJD//xAAYEAADAQEAAAAAAAAAAAAAAAABAhASMv/aAAgBAQABBQJuUY5iAT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAZEAACAwEAAAAAAAAAAAAAAAABEAARIUH/2gAIAQEABj8CyDbPWV//xAAZEAEBAAMBAAAAAAAAAAAAAAABEQAQIUH/2gAIAQEAAT8hqur5McDEyNkWHV1//9oADAMBAAIAAwAAABDzD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABsQAQACAgMAAAAAAAAAAAAAAAEQEQBBIVFh/9oACAEBAAE/EFxSZWy8vLMlHfki8E29x//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;mood board&quot;
+        title=&quot;mood board&quot;
+        src=&quot;/blog/static/cce6f1777856b49cb706218fe5a036ad/1c72d/mood.jpg&quot;
+        srcset=&quot;/blog/static/cce6f1777856b49cb706218fe5a036ad/a80bd/mood.jpg 148w,
+/blog/static/cce6f1777856b49cb706218fe5a036ad/1c91a/mood.jpg 295w,
+/blog/static/cce6f1777856b49cb706218fe5a036ad/1c72d/mood.jpg 590w,
+/blog/static/cce6f1777856b49cb706218fe5a036ad/a8a14/mood.jpg 885w,
+/blog/static/cce6f1777856b49cb706218fe5a036ad/fbd2c/mood.jpg 1180w,
+/blog/static/cce6f1777856b49cb706218fe5a036ad/0f98f/mood.jpg 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;From that inspiration I wanted to use bold black and white lines to achieve a very stark look. &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/35bbedf5d55b4a60f22626a8da9d1a88/0f98f/story.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAbeGksaAf//EABsQAAIBBQAAAAAAAAAAAAAAAAIDBAAQEhMy/9oACAEBAAEFAmDmuPG1HZfFf//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAICAwAAAAAAAAAAAAAAAAECEBIAIVH/2gAIAQEABj8CZejLXJ1IMf/EABoQAAICAwAAAAAAAAAAAAAAAAERECEAMVH/2gAIAQEAAT8hvFVPB8SIiSZGzH//2gAMAwEAAgADAAAAECAP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAHBABAAEEAwAAAAAAAAAAAAAAAREAECExQWGB/9oACAEBAAE/EMmZkWyTdQK8WGM+9WdUjFQlXlt//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;story&quot;
+        title=&quot;story&quot;
+        src=&quot;/blog/static/35bbedf5d55b4a60f22626a8da9d1a88/1c72d/story.jpg&quot;
+        srcset=&quot;/blog/static/35bbedf5d55b4a60f22626a8da9d1a88/a80bd/story.jpg 148w,
+/blog/static/35bbedf5d55b4a60f22626a8da9d1a88/1c91a/story.jpg 295w,
+/blog/static/35bbedf5d55b4a60f22626a8da9d1a88/1c72d/story.jpg 590w,
+/blog/static/35bbedf5d55b4a60f22626a8da9d1a88/a8a14/story.jpg 885w,
+/blog/static/35bbedf5d55b4a60f22626a8da9d1a88/fbd2c/story.jpg 1180w,
+/blog/static/35bbedf5d55b4a60f22626a8da9d1a88/0f98f/story.jpg 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This was only my part of the project and my specific interpretation of it. But if you would like to see the collaborative work please check out this &lt;a href=&quot;https://docs.google.com/document/d/1c9Oznjak5a2E5llc3Vn_KMuBrBWjiunRhCeVb0J8FT8/edit?usp=sharing&quot;&gt;google doc&lt;/a&gt; available for NYU addresses.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Project 2]]></title><description><![CDATA[Project 2 New Concepts: Rotary Encoder I was looking around for rotary encoder tutorials for using one as a part of my etch a sketch.
 This…]]></description><link>http://blog.samheckle.com/physical-computing/project-2/</link><guid isPermaLink="false">http://blog.samheckle.com/physical-computing/project-2/</guid><pubDate>Mon, 09 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Project 2&lt;/h2&gt;
 &lt;h1&gt;New Concepts: Rotary Encoder&lt;/h1&gt;
 &lt;p&gt;I was looking around for rotary encoder tutorials for using one as a part of my etch a sketch.
@@ -160,6 +250,36 @@ void loop() {
 
     delay(1);
 }&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;This code produced the below output when turning the rotary switch:
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 448px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/6ced6a3db9cb2f118d02c4cdff41b2e0/33b38/output.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 85.13513513513513%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAABYlAAAWJQFJUiTwAAACYklEQVQ4y2XUWU9qQRAEYP7/T/HNxAc1ERN3RcAdVwQUxH0Ft4e++drMXXJJJjPnnO7qquoeKjMzM1Gr1WJ5eTk2NzdjfX09VldXY2dnJ8bjcUxMTMTW1lY8Pz/H2dlZLC4uxvz8fK6FhYU4Pz+P19fX2N7eDr9Kq9WKy8vL/HBxcRGdTif36+vr+Pr6inq9HoPBID4+PuLm5iaOj4+j2+1Gu93Os0IK93q9H8C1tbVkY280GtFsNpPx3t5evL+/x9zcXCa+vb1Fv99PBViurKzE0tJSAr28vMTh4eEPoOSTk5NM8vLg4CCOjo6SMcAiazQaJeD+/n7GsIG64XAYT09PGZOAWJ2enuZHHgEHrPLn52cC+k6WZD5ToagdO4XlJiAJqvLKTioLADNboenp6Uz4/v5OcA0QT538x8fH9FxOBQiDi2yV7ZpDJgAqNARjzBUl25IHUPH7+/uoVKvV9EMliSRtbGxkMDnOk5OTyVCnd3d3sykaYmkmoNvb2z8MmW1Urq6ucoQ8393dJQC2ivGvMLTEl1ETpzjQbAoJ/OBN8Yd3ZAAs48FDVmBlbOS4BIAeHh5yXiuCAZINrOy81L2pqamUosvAgJRm2IGYURjZZZ6QKdjuFli6RqIksgB6h7FGaSRfSSVZbgKijBHzjQuGRbLA2dnZZEu+JAXIlWf3DuhvhsBUUrkMNQZYAuSXpDLYEhUoY4M1wH/usg9YYWiVm1DusgLlLlOCHaZyTQZAZP67y8bA2eIbD83p34AUsKMwNV4GW34CCiBZgHORUwaZJVhga4A9l1FzCQD6c9Akv18fgcC6oXh3dwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;output&quot;
+        title=&quot;output&quot;
+        src=&quot;/blog/static/6ced6a3db9cb2f118d02c4cdff41b2e0/33b38/output.png&quot;
+        srcset=&quot;/blog/static/6ced6a3db9cb2f118d02c4cdff41b2e0/12f09/output.png 148w,
+/blog/static/6ced6a3db9cb2f118d02c4cdff41b2e0/e4a3f/output.png 295w,
+/blog/static/6ced6a3db9cb2f118d02c4cdff41b2e0/33b38/output.png 448w&quot;
+        sizes=&quot;(max-width: 448px) 100vw, 448px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Next up was soldering my rotary encoders so they did not require to be directly in the breadboard. &lt;/p&gt;
 &lt;p&gt;After soldering I worked on my code getting &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Understanding Comics]]></title><description><![CDATA[Overall Thoughts on Reading Simply put: I enjoyed “Understanding Comics” by Scot McCloud and would recommend it. Keeping the comic format…]]></description><link>http://blog.samheckle.com/animation/assignment-2/</link><guid isPermaLink="false">http://blog.samheckle.com/animation/assignment-2/</guid><pubDate>Wed, 04 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Overall Thoughts on Reading&lt;/h2&gt;
 &lt;p&gt;Simply put: I enjoyed “Understanding Comics” by Scot McCloud and would recommend it. Keeping the comic format made the academic writing easier to digest because it was easy to visualize the concepts presented. &lt;/p&gt;
