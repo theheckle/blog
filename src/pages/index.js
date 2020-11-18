@@ -16,6 +16,7 @@ const BlogIndex = ({ data, location }) => {
       <Link to="/general">General</Link>
       <Link to="/physical-computing">Physical Computing</Link>
       <Link to="/visual-language">Visual Language</Link>
+      <Link to="/animation">Animation</Link>
       <footer>
         © {new Date().getFullYear()}
       </footer>
