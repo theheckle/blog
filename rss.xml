@@ -1,4 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fridge notes]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>http://blog.samheckle.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 11 Nov 2020 14:51:00 GMT</lastBuildDate><item><title><![CDATA[Storyboarding (Project 1 Part 1)]]></title><description><![CDATA[TLDR: google doc link We are Mega Group and creating 2 sets of animations that are tackling a main theme of the transformation of childhood…]]></description><link>http://blog.samheckle.com/animation/storyboarding/</link><guid isPermaLink="false">http://blog.samheckle.com/animation/storyboarding/</guid><pubDate>Tue, 10 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;TLDR: &lt;a href=&quot;https://docs.google.com/document/d/1c9Oznjak5a2E5llc3Vn_KMuBrBWjiunRhCeVb0J8FT8/edit?usp=sharing&quot;&gt;google doc link&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fridge notes]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>http://blog.samheckle.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 18 Nov 2020 03:14:30 GMT</lastBuildDate><item><title><![CDATA[Week 10 Lab]]></title><description><![CDATA[Lab: Transistor and relay lab lab 1 After setting up my pentiometer I realized that I do not have a DC power adaptor or a DC motor in my…]]></description><link>http://blog.samheckle.com/physical-computing/assignment-7/</link><guid isPermaLink="false">http://blog.samheckle.com/physical-computing/assignment-7/</guid><pubDate>Tue, 17 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Lab: Transistor and relay lab&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://itp.nyu.edu/physcomp/labs/motors-and-transistors/using-a-transistor-to-control-high-current-loads-with-an-arduino/&quot;&gt;lab 1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;After setting up my pentiometer I realized that I do not have a DC power adaptor or a DC motor in my apartment. I tried using my servo motor which worked, but I believe we had done this in a previous class.&lt;/p&gt;
+&lt;h1&gt;Lab: Controlling a DC Motor with an H-Bridge&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://itp.nyu.edu/physcomp/labs/motors-and-transistors/dc-motor-control-using-an-h-bridge/&quot;&gt;lab 2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In this lab I was missing the H-bridge, DC motor, and the DC power adaptor. &lt;/p&gt;
+&lt;h1&gt;Lab: Controlling a Stepper Motor With an H-Bridge&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://itp.nyu.edu/physcomp/labs/motors-and-transistors/lab-controlling-a-stepper-motor-with-an-h-bridge/&quot;&gt;lab 3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In this lab I was missing the H-bridge, stepper motor, and DC power adaptor.&lt;/p&gt;
+&lt;h1&gt;Alternative Research&lt;/h1&gt;
+&lt;p&gt;I definitely went through the labs and watched the videos. I haven’t heard of a stepper motor before, but it felt similar to using a rotary encoder. It was interesting seeing the breakdown of a stepper motor and how it is a series of magnets.
+&lt;a href=&quot;https://itp.nyu.edu/physcomp/videos/videos-transistors-and-motors/#Stepper_Motors&quot;&gt;videos&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Project 1 Part 2]]></title><description><![CDATA[Working Together This week Mega Group figured out a good system for working together by breaking the assets down by scene and having one…]]></description><link>http://blog.samheckle.com/animation/assignment-3/</link><guid isPermaLink="false">http://blog.samheckle.com/animation/assignment-3/</guid><pubDate>Mon, 16 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Working Together&lt;/h1&gt;
+&lt;p&gt;This week Mega Group figured out a good system for working together by breaking the assets down by scene and having one person work on part of the scene to have it be cohesive throughout the entire animation. &lt;/p&gt;
+&lt;h1&gt;Work&lt;/h1&gt;
+&lt;p&gt;My part this week was working on the text and minor animations in each scenes. I took the first stanza from the poem:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;My closet is booming, 
+something&amp;#39;s not right.
+The moon is looming, 
+shining real bright.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;And created the first scenes we are introduced to as the audience.&lt;/p&gt;
+&lt;p&gt;&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden; &quot; &gt; &lt;div class=&quot;embedVideo-container&quot;&gt; &lt;iframe title src=&quot;https://www.youtube-nocookie.com/embed/GdV5lwUl1gE?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot; allowfullscreen&gt;&lt;/iframe&gt; &lt;/div&gt; &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden; &quot; &gt; &lt;div class=&quot;embedVideo-container&quot;&gt; &lt;iframe title src=&quot;https://www.youtube-nocookie.com/embed/FP51RSlcfgQ?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot; allowfullscreen&gt;&lt;/iframe&gt; &lt;/div&gt; &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;These were both experiments in initial animation of the text. I also used the “wave” effect on the curtains to animate them pretty easily!&lt;/p&gt;
+&lt;p&gt;Eden and Meena also solidified a style for the character designs, going from a realistic character to a more cartoonish character:&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/06b6a70b11a9f2e32f7ba78ebe4176ce/47218/character.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100.67567567567568%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAABYlAAAWJQFJUiTwAAACXklEQVQ4y4WUOYsyQRCG50cZmgjGJuYbGCmCwmK6mBlqpKBorLiBB4iImGggiIqsJ4i76nrifd/WflXSQ+98I1vQOtPd89TRb7UA/+x+vwOzQqEAsVgMRqMRvd9uN+D38Ht3ux20221YrVbiXoF98Pn5Ca+vr6DRaGi8vLxAsViUheJ7Op2Gt7c3+iYajUKz2aQ1AX9OpxOYTCaw2+0QCoXA4XCAXq8HrVYLrVZLhFyvV3r2eDzk1Ofzgc1mg1KpBFarFWq12gM4GAzAbDbD9/e3mM77+zuo1WoqARrCGFCn0xGUOapUKqBSqSCZTD6AGK7L5SJPx+MR6vU6xONxUCqVkMvlRCBL3ev1kkMEocNUKgUKhYJSJ2Cn06HF7XZL8M1mA7PZDIxGIzQaDTESVsOvry8q036/h/l8Dv1+nxxUq9UHEDciAOuFYa/XawIvFotfh8L+sTQYBAaAYMwMy0aHwryiBLrdLm0sl8t06tIT5iVjMBggHA5ThJlMRsxABGJUTE8IHQ6HsvpjDlAJmCJmgdmxPQL/wXg8ptAnk8kvkBTKZ4WB8HOCVP1MGtJ5KfjZmvAskr9g/ODnBWkqf4HlnnkTpBNSGJaAyeR8PpP2LpeLrENZoFzxEYB6Q0Po4XB4GqUgBfFesUuy2SxJCOWB+uz1erBcLqlF5aCCXN3QUJOJRAKcTid1BFogEAC32013IK89fgjPTg07BdvQYrGA3++nfs3n8wTDlFGDcjWXPRT84OPjAyKRCASDQboMMCKcn06ndBOxW0ia9n8R8hepnOE6RopXFouS9TGOHzjF00k56WOiAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;character initial&quot;
+        title=&quot;character initial&quot;
+        src=&quot;/blog/static/06b6a70b11a9f2e32f7ba78ebe4176ce/fcda8/character.png&quot;
+        srcset=&quot;/blog/static/06b6a70b11a9f2e32f7ba78ebe4176ce/12f09/character.png 148w,
+/blog/static/06b6a70b11a9f2e32f7ba78ebe4176ce/e4a3f/character.png 295w,
+/blog/static/06b6a70b11a9f2e32f7ba78ebe4176ce/fcda8/character.png 590w,
+/blog/static/06b6a70b11a9f2e32f7ba78ebe4176ce/efc66/character.png 885w,
+/blog/static/06b6a70b11a9f2e32f7ba78ebe4176ce/c83ae/character.png 1180w,
+/blog/static/06b6a70b11a9f2e32f7ba78ebe4176ce/47218/character.png 1344w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/1a8cc686d778c99ac7ab73984dbd44cb/5faa8/character-final.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 62.16216216216216%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAABD0lEQVQoz52TwcpEUACFPY5nsVSymIU38RBk5R2UYoOdZiUbWwtpSkREpgbDme4t0zTDP/45Jbfb8d1z7r0YvGlZlo9nnufn+NWzJWYLuPfRESizB1t1uVzgeR7atqVJ93xfE97vd/i+D1VVEQQBiqJAFEUYhmEXtpmQgIh0XQfHcbBtG2maIkkSCIIAWZafCx6qvAJPpxMkSUJVVRRGqvM8D5ZlP9ocAlqWBcMw4LouhTqOgzAMoSgKbrfb//cwz3PEcUwXyLKMzpH3Oj68h6uRnGhZlhTY9z2u1yvquv6z7mbCd7OmaTBNkyYm4J+uzWocxxGiKOJ8PmOaJjRN89uf8noXSVVyCF3Xfa1L9ABaoJeBHA8EvAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;character final&quot;
+        title=&quot;character final&quot;
+        src=&quot;/blog/static/1a8cc686d778c99ac7ab73984dbd44cb/fcda8/character-final.png&quot;
+        srcset=&quot;/blog/static/1a8cc686d778c99ac7ab73984dbd44cb/12f09/character-final.png 148w,
+/blog/static/1a8cc686d778c99ac7ab73984dbd44cb/e4a3f/character-final.png 295w,
+/blog/static/1a8cc686d778c99ac7ab73984dbd44cb/fcda8/character-final.png 590w,
+/blog/static/1a8cc686d778c99ac7ab73984dbd44cb/efc66/character-final.png 885w,
+/blog/static/1a8cc686d778c99ac7ab73984dbd44cb/c83ae/character-final.png 1180w,
+/blog/static/1a8cc686d778c99ac7ab73984dbd44cb/5faa8/character-final.png 1444w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;We also solidified a plan with our storyboard, which you can see &lt;a href=&quot;https://docs.google.com/document/d/14sx11nm23F5pZOAc9rnBY-SmblrqBLTdTrxsFMRB9DY/edit&quot;&gt;here&lt;/a&gt; &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Storyboarding (Project 1 Part 1)]]></title><description><![CDATA[TLDR: google doc link We are Mega Group and creating 2 sets of animations that are tackling a main theme of the transformation of childhood…]]></description><link>http://blog.samheckle.com/animation/storyboarding/</link><guid isPermaLink="false">http://blog.samheckle.com/animation/storyboarding/</guid><pubDate>Tue, 10 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;TLDR: &lt;a href=&quot;https://docs.google.com/document/d/1c9Oznjak5a2E5llc3Vn_KMuBrBWjiunRhCeVb0J8FT8/edit?usp=sharing&quot;&gt;google doc link&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;We are Mega Group and creating 2 sets of animations that are tackling a main theme of the transformation of childhood fears into adult ones. We have 1 poem and have derived a literal interpretation vs. a conceptual interpretation of it. Our team split up into two groups falling into the two concepts, and my group focused on the literal poem.&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;CLOSET
 
