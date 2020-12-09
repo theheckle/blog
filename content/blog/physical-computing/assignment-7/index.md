@@ -19,4 +19,5 @@ In this lab I was missing the H-bridge, DC motor, and the DC power adaptor.
 In this lab I was missing the H-bridge, stepper motor, and DC power adaptor.
 
 # Alternative Research
-I definitely went through the labs and watched the videos. I haven't heard of a stepper motor before 
+I definitely went through the labs and watched the videos. I haven't heard of a stepper motor before, but it felt similar to using a rotary encoder. It was interesting seeing the breakdown of a stepper motor and how it is a series of magnets.
+[videos](https://itp.nyu.edu/physcomp/videos/videos-transistors-and-motors/#Stepper_Motors)
