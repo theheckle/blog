@@ -1,4 +1,141 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fridge notes]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>http://blog.samheckle.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 09 Dec 2020 07:37:09 GMT</lastBuildDate><item><title><![CDATA[Project 3]]></title><description><![CDATA[Project 3 Original Goals Original goals for this upgraded version: ❌ upgraded housing with etch-a-sketch using a circular dremel saw…]]></description><link>http://blog.samheckle.com/physical-computing/project-3/</link><guid isPermaLink="false">http://blog.samheckle.com/physical-computing/project-3/</guid><pubDate>Tue, 08 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Project 3 Original Goals&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fridge notes]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>http://blog.samheckle.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 13 Feb 2021 20:26:48 GMT</lastBuildDate><item><title><![CDATA[Assignment 1]]></title><description><![CDATA[assignment github Letters and Numbers in Python When thinking about this assignment, I immediately thought of a distinct page from my…]]></description><link>http://blog.samheckle.com/material-of-language/assignment-1/</link><guid isPermaLink="false">http://blog.samheckle.com/material-of-language/assignment-1/</guid><pubDate>Thu, 11 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://github.com/theheckle/mol/blob/master/ever.ipynb&quot;&gt;assignment github&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Letters and Numbers in Python&lt;/h1&gt;
+&lt;p&gt;When thinking about this assignment, I immediately thought of a distinct page from my childhood. In one of Lemony Snicket’s &lt;em&gt;Series of Unfortunate Events&lt;/em&gt; novels there was an entire page filled with ‘ever’.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 500px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/f7dbde44d69ac1cdbf84f90cb94a1b3e/41099/ever.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 145.27027027027026%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAdABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAECAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB7kkxsIInZDAP/8QAGRAAAwADAAAAAAAAAAAAAAAAAQIQABEg/9oACAEBAAEFAic3Grdf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAFBABAAAAAAAAAAAAAAAAAAAAMP/aAAgBAQAGPwJP/8QAGhAAAgMBAQAAAAAAAAAAAAAAATEAEBEh8P/aAAgBAQABPyHCedgUaghGoIVlf//aAAwDAQACAAMAAAAQdN1B/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPxAf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPxAf/8QAHxAAAgIBBAMAAAAAAAAAAAAAAAERMRAhUXGhQWGR/9oACAEBAAE/EJkR7uBa6Y1I9yng8nWKeMdYaTtJkNl8x//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;ever&quot;
+        title=&quot;ever&quot;
+        src=&quot;/blog/static/f7dbde44d69ac1cdbf84f90cb94a1b3e/41099/ever.jpg&quot;
+        srcset=&quot;/blog/static/f7dbde44d69ac1cdbf84f90cb94a1b3e/a80bd/ever.jpg 148w,
+/blog/static/f7dbde44d69ac1cdbf84f90cb94a1b3e/1c91a/ever.jpg 295w,
+/blog/static/f7dbde44d69ac1cdbf84f90cb94a1b3e/41099/ever.jpg 500w&quot;
+        sizes=&quot;(max-width: 500px) 100vw, 500px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;First I counted how many evers on the page, and decided to do some basic printing to get the hang of python&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/8b13644a37fff020da5c861896d27f5b/96191/basic.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 33.108108108108105%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAYAAAAIy204AAAACXBIWXMAABYlAAAWJQFJUiTwAAAArElEQVQoz6WP2Q6CMBBF+/9fiAmFUhDZtDZl6fJwZWo0cUkUfThpMrdzZoaZacS8zAg+wDn3F957sNMwQJ01rLdwwSOEEINfoF52NApcpkiyBDzdYST5Os0uC6y1m2HjZFBVJfZlhbKQONQ12rb9mqZp7q9SCkxrjSzLIAqxUkAIgTzPX6D6jXc5OUjMjDHxk5TyoekTz8NI2HXddUPOeQzq9dy+72OwFdqOXBebkA/bA3P2MAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;intro&quot;
+        title=&quot;intro&quot;
+        src=&quot;/blog/static/8b13644a37fff020da5c861896d27f5b/fcda8/basic.png&quot;
+        srcset=&quot;/blog/static/8b13644a37fff020da5c861896d27f5b/12f09/basic.png 148w,
+/blog/static/8b13644a37fff020da5c861896d27f5b/e4a3f/basic.png 295w,
+/blog/static/8b13644a37fff020da5c861896d27f5b/fcda8/basic.png 590w,
+/blog/static/8b13644a37fff020da5c861896d27f5b/efc66/basic.png 885w,
+/blog/static/8b13644a37fff020da5c861896d27f5b/c83ae/basic.png 1180w,
+/blog/static/8b13644a37fff020da5c861896d27f5b/96191/basic.png 2176w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;From there I was experimenting with the unicode representation of the individual characters.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/c91fc3ab96cb6a5f55da69c0a2284fdc/b5c8e/exp.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 52.02702702702703%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAABYlAAAWJQFJUiTwAAABB0lEQVQoz51S2W6EMBDb//+y9rVqpapcYZf7DhAOocrFodCU7ssWybIznniEJpdp+kRWlAjCEHmdo5Y1BqWg/oFxHHHB+i3LAsuy8PTyjJv7ASU7bQ7D8BCmadoC1axgOxbe3l8hfAeq6zHPs254FDpQKolrdEW5/npRFCjLElVVaZj63tmst227BfZ9D+EJeJ4HIQQcx9Hg2XXdX2zb9p8awf4sy4xAX8D3fY09mPrM97y9nuf5Fth13WEkSaInpWl6MBupyXv97FFLKb+Xsq48jmMEQaADqQnqKIoO5iXTM5lomuYnMFzfIS8RpuaQfdjZJ+8eNZejA/mGzAayqc/M3nNtD/wCerru03qlMyQAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;exp&quot;
+        title=&quot;exp&quot;
+        src=&quot;/blog/static/c91fc3ab96cb6a5f55da69c0a2284fdc/fcda8/exp.png&quot;
+        srcset=&quot;/blog/static/c91fc3ab96cb6a5f55da69c0a2284fdc/12f09/exp.png 148w,
+/blog/static/c91fc3ab96cb6a5f55da69c0a2284fdc/e4a3f/exp.png 295w,
+/blog/static/c91fc3ab96cb6a5f55da69c0a2284fdc/fcda8/exp.png 590w,
+/blog/static/c91fc3ab96cb6a5f55da69c0a2284fdc/efc66/exp.png 885w,
+/blog/static/c91fc3ab96cb6a5f55da69c0a2284fdc/c83ae/exp.png 1180w,
+/blog/static/c91fc3ab96cb6a5f55da69c0a2284fdc/b5c8e/exp.png 2194w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Each character has a number representation:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;e = 101
+v = 118
+e = 101
+r = 118&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Since this was my first time playing around with python in this context, I fiddled with some graphs and printing without using new lines &lt;code class=&quot;language-text&quot;&gt;print(char, end=&amp;#39; | &amp;#39;)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;My final composition was messing with loops and utilizing randomly generated tabs throughout. &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/ea7bdded49b3e7951e715753bab680d8/d8fc6/final.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 54.72972972972974%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAABMElEQVQoz03T27KCMAyFYd7/Lb3EA+IBUFG658vMctuZTFua/FlpSrdtW1vXtd1ut/b5fGr9er3asizNeD6fZefz+WvDMJTf4/Go2cBhnQ3AOI5tnud2vV5rz5lDoLvdrp1Op/Z+v2tvNu73eyUJuIAOgUA5TNNUCim2tw481RwOh4ojQqLL5fKvMCUBUMesleY7tZIEBsRyLfz5+VbAgGTb7/elNAopBwakQJA5CZ0TJGkBbcByH5zso4BJINCaT66BScScU9n9djZQ2VKKtTL7vq8gvjFA58fjsZJiVcm/I+VFQTqvEqWaBeaZABMBSMD32Qg06xZAOqp0ATqZTucMJO8xzeryKPN0gKMQKIkEUibYN+vcs7uL3/cdJpMuB0YteO6Uj0BqJHdmbc4f9Qek+Vm5PNq3vQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;final&quot;
+        title=&quot;final&quot;
+        src=&quot;/blog/static/ea7bdded49b3e7951e715753bab680d8/fcda8/final.png&quot;
+        srcset=&quot;/blog/static/ea7bdded49b3e7951e715753bab680d8/12f09/final.png 148w,
+/blog/static/ea7bdded49b3e7951e715753bab680d8/e4a3f/final.png 295w,
+/blog/static/ea7bdded49b3e7951e715753bab680d8/fcda8/final.png 590w,
+/blog/static/ea7bdded49b3e7951e715753bab680d8/efc66/final.png 885w,
+/blog/static/ea7bdded49b3e7951e715753bab680d8/c83ae/final.png 1180w,
+/blog/static/ea7bdded49b3e7951e715753bab680d8/d8fc6/final.png 2052w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I hope to make work that is less pseudo-random and more “noise”-like, utilizing algorithms related to Perlin Noise.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Project 3]]></title><description><![CDATA[Project 3 Original Goals Original goals for this upgraded version: ❌ upgraded housing with etch-a-sketch using a circular dremel saw…]]></description><link>http://blog.samheckle.com/physical-computing/project-3/</link><guid isPermaLink="false">http://blog.samheckle.com/physical-computing/project-3/</guid><pubDate>Tue, 08 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Project 3 Original Goals&lt;/h2&gt;
 &lt;p&gt;Original goals for this upgraded version:&lt;/p&gt;
 &lt;p&gt;❌ upgraded housing with etch-a-sketch using a circular dremel saw
 ✅ modify the controller to look clean on the housing and solder wires
