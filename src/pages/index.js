@@ -13,6 +13,10 @@ const BlogIndex = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="All Categories" />
       <Bio />
+
+      <Link to="/collective-play">Collective Play</Link>
+      <Link to="/material-of-language">Material Of Language</Link>
+      <hr margin="2px"></hr>
       <Link to="/general">General</Link>
       <Link to="/physical-computing">Physical Computing</Link>
       <Link to="/visual-language">Visual Language</Link>

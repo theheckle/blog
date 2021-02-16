@@ -9,6 +9,7 @@ const Layout = ({ location, title, children }) => {
 
   let pc = new RegExp("/physical-computing/a*")
   let vl = new RegExp("/visual-language/a*")
+  let mol = new RegExp("/material-of-language/a*")
 
   if (location.pathname === rootPath) {
     header = (
@@ -39,7 +40,17 @@ const Layout = ({ location, title, children }) => {
         </Link>
       </h3>
     );
-  }
+  } else if(location.pathname.match(mol)){
+    header = (
+      <h3>
+        <Link
+          to={`/material-of-language`}
+        >
+          material of language
+        </Link>
+      </h3>
+    );
+    }
   else {
     header = (
       <h3>

@@ -88,4 +88,6 @@ and I was able to get the drawer, fan, and pan moving on screen with the encoder
 
 It's a bit awkward due to how the rotaries are attached to the etch-a-sketch (glued and taped on). The left one operates the drawer and the right one operates the ceiling fan. Shaking the etch-a-sketch makes the pan move!
 
+![final](./final.gif)
+
 Overall I had fun with this project seeing it grow and if I were to take it further I would have bought several back up etch-a-sketches and refined the housing even further.

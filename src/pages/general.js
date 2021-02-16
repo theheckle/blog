@@ -15,7 +15,7 @@ const PhysicalComputing = ({ data, location }) => {
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug;
 
-        if(node.fields.slug.includes("/visual-language") || node.fields.slug.includes("/physical-computing")) return;
+        if(node.fields.slug.includes("/visual-language") || node.fields.slug.includes("/physical-computing") || node.fields.slug.includes("/material-of-language") ) return;
 
         return (
           <article key={node.fields.slug}>
