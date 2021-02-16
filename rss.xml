@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fridge notes]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>http://blog.samheckle.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 16 Feb 2021 07:10:42 GMT</lastBuildDate><item><title><![CDATA[Absurd Things I Do]]></title><description><![CDATA[In the context of a being living on a planet, the most absurd thing I do is stare at a computer screen all day and night.  In the context of…]]></description><link>http://blog.samheckle.com/collective-play/assignment-1/</link><guid isPermaLink="false">http://blog.samheckle.com/collective-play/assignment-1/</guid><pubDate>Mon, 15 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;In the context of a being living on a planet, the most absurd thing I do is stare at a computer screen all day and night.&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fridge notes]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>http://blog.samheckle.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 16 Feb 2021 07:12:58 GMT</lastBuildDate><item><title><![CDATA[Absurd Things I Do]]></title><description><![CDATA[In the context of a being living on a planet, the most absurd thing I do is stare at a computer screen all day and night.  In the context of…]]></description><link>http://blog.samheckle.com/collective-play/assignment-1/</link><guid isPermaLink="false">http://blog.samheckle.com/collective-play/assignment-1/</guid><pubDate>Mon, 15 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;In the context of a being living on a planet, the most absurd thing I do is stare at a computer screen all day and night.&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
@@ -84,6 +84,39 @@
 /blog/static/4f60ce6e88674d66c95239810e7b8542/1c91a/homework.jpg 295w,
 /blog/static/4f60ce6e88674d66c95239810e7b8542/1c72d/homework.jpg 590w,
 /blog/static/4f60ce6e88674d66c95239810e7b8542/b4294/homework.jpg 600w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;hr margin=&quot;2px&quot;&gt;&lt;/hr&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/675dd48ac8720bb13779fef8cce30e45/29114/diagram.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAABzElEQVQoz3VTTUvrQBTtX9CVSzeuRDcKLoSn6EqoiAu18kBxJYKfC8WNK7EbN+7ee//A3+FGREQeD6W2aZPWNkmT2KTVJE0z6XkzYxuTqheGDHPPnHvOnZsEaLTbbXS/3T0Lr+Vj7SCN5MYxVndOMb2yj/M/lzwXBEGIi95JfHXoE8K/Ta+F8eQmhmfX8WNpF30jSWyfXPAcoRhCApAOcfd+oldhy/dRUXUEdG87LubWjjCxsIWZ1AEGJ1M4PPsVFma4F7MRc5eI2mRVtRcTNavByZjlqeU9DIwtYmjqJ/pH53GY/s2xjVcbjtuE7xPuKFTICSMqNcNEoShTsAfLsnB1fYe7f1nc/s3g5v4RD095BJTArL9C1Wuc9I0W77YpZpk1WlE1yHTVTBOapuGrKIgi6nWLOvLheV7scWKWZVlGNidAKIgQ8nkoivL+SNQWaz4r6NMeS5QwJxSQFfKQikXouh4nDNVRAqNWh6Kb/KKqKp/GyXEcVKtVOM0WqobFFTIhPQo7VqiyTE6C+KygLKsol8ufCF3XDc9Z2LaNSqXyvWVRkihAjlmOYpjyIrXJsGyVSiUYhvFB2DvUAR9YEv4J0Vx0Xhkx6WCjuf/2SjH7EMoANwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;diagram&quot;
+        title=&quot;diagram&quot;
+        src=&quot;/blog/static/675dd48ac8720bb13779fef8cce30e45/fcda8/diagram.png&quot;
+        srcset=&quot;/blog/static/675dd48ac8720bb13779fef8cce30e45/12f09/diagram.png 148w,
+/blog/static/675dd48ac8720bb13779fef8cce30e45/e4a3f/diagram.png 295w,
+/blog/static/675dd48ac8720bb13779fef8cce30e45/fcda8/diagram.png 590w,
+/blog/static/675dd48ac8720bb13779fef8cce30e45/efc66/diagram.png 885w,
+/blog/static/675dd48ac8720bb13779fef8cce30e45/c83ae/diagram.png 1180w,
+/blog/static/675dd48ac8720bb13779fef8cce30e45/29114/diagram.png 1920w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
