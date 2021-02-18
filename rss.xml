@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fridge notes]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>http://blog.samheckle.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 18 Feb 2021 03:18:04 GMT</lastBuildDate><item><title><![CDATA[Art by Divination]]></title><link>http://blog.samheckle.com/blessed/assignment-1/</link><guid isPermaLink="false">http://blog.samheckle.com/blessed/assignment-1/</guid><pubDate>Wed, 17 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fridge notes]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>http://blog.samheckle.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 18 Feb 2021 05:15:45 GMT</lastBuildDate><item><title><![CDATA[Art by Divination -- Oology]]></title><description><![CDATA[WTF Is Oology]]></description><link>http://blog.samheckle.com/blessed/assignment-1/</link><guid isPermaLink="false">http://blog.samheckle.com/blessed/assignment-1/</guid><pubDate>Wed, 17 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;WTF Is Oology&lt;/h1&gt;
+&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
     &gt;
@@ -57,6 +58,35 @@
 /blog/static/46734f33ab2be61849591ec9fa9e97d1/c83ae/combined.png 1180w,
 /blog/static/46734f33ab2be61849591ec9fa9e97d1/29114/combined.png 1920w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 576px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/61d1890505c0e20e94250668849b570f/ac097/deep-fried-sketch.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 135.8108108108108%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQX/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAesy4VEIlNTOmMI//8QAGxAAAgIDAQAAAAAAAAAAAAAAAQIAERAhMjH/2gAIAQEAAQUCXi8LyWAa4G0asag8x//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABgQAQADAQAAAAAAAAAAAAAAAAEAECAx/9oACAEBAAY/AiyBROZ//8QAHRAAAwACAgMAAAAAAAAAAAAAAAEREDFBcVGBkf/aAAgBAQABPyF/jlXqOUrQlm6T6hGqL5GiI09YR//aAAwDAQACAAMAAAAQcCU8/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEQ/9oACAEDAQE/EMiP/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAECAQE/EGpa2v/EAB0QAQADAQACAwAAAAAAAAAAAAEAESExQVGBkaH/2gAIAQEAAT8QMsXnalXnv8iD6jAicVGS7H4IkJQmJsYQGCBskQ8t7KNsIvoS25o2f//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;final sketch&quot;
+        title=&quot;final sketch&quot;
+        src=&quot;/blog/static/61d1890505c0e20e94250668849b570f/ac097/deep-fried-sketch.jpg&quot;
+        srcset=&quot;/blog/static/61d1890505c0e20e94250668849b570f/a80bd/deep-fried-sketch.jpg 148w,
+/blog/static/61d1890505c0e20e94250668849b570f/1c91a/deep-fried-sketch.jpg 295w,
+/blog/static/61d1890505c0e20e94250668849b570f/ac097/deep-fried-sketch.jpg 576w&quot;
+        sizes=&quot;(max-width: 576px) 100vw, 576px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
