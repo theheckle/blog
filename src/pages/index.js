@@ -14,6 +14,7 @@ const BlogIndex = ({ data, location }) => {
       <SEO title="All Categories" />
       <Bio />
 
+      <Link to="/blessed">Blessed/Blursed/Cursed</Link>
       <Link to="/collective-play">Collective Play</Link>
       <Link to="/material-of-language">Material Of Language</Link>
       <hr margin="2px"></hr>
