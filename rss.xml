@@ -1,4 +1,167 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fridge notes]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>http://blog.samheckle.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 15 Mar 2021 03:48:25 GMT</lastBuildDate><item><title><![CDATA[Midterm Proposal - Cursed Mocap]]></title><description><![CDATA[project description a series of tiktoks creating cursed mocap models dancing to the beat of blessed / cursed music.  inspiration i was given…]]></description><link>http://blog.samheckle.com/blessed/midterm-proposal/</link><guid isPermaLink="false">http://blog.samheckle.com/blessed/midterm-proposal/</guid><pubDate>Sun, 14 Mar 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;project description&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fridge notes]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>http://blog.samheckle.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 02 Apr 2021 15:49:43 GMT</lastBuildDate><item><title><![CDATA[Assignment 4]]></title><description><![CDATA[assignment github More Experiments with Scribbles For this assignment I was looking into more handwriting and fiddled with some of the…]]></description><link>http://blog.samheckle.com/material-of-language/assignment-4/</link><guid isPermaLink="false">http://blog.samheckle.com/material-of-language/assignment-4/</guid><pubDate>Fri, 02 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://github.com/theheckle/mol/blob/master/asemic%20exploration.ipynb&quot;&gt;assignment github&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;More Experiments with Scribbles&lt;/h1&gt;
+&lt;p&gt;For this assignment I was looking into more handwriting and fiddled with some of the sample code:
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/dab3ec8c576b99acd2595046cd85d694/29114/first.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAAAiElEQVQoz63RjQpAMBQFYO//liJF/m2m5By71oRCsVNrbauv013EmwDY9qEHsxSsSlAr7G/+/ZroDVwWsG0cOI4BQGMRrcFpArs2BGjAvgOL3KLmJ+hXU7t20vQ3KFEDWFd2hqFAwZI4ICgzFMyfP4HHjxFwnnG6u8tDQ55meATd+gBeG721k6z9e2kVu2M3rwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;first&quot;
+        title=&quot;first&quot;
+        src=&quot;/blog/static/dab3ec8c576b99acd2595046cd85d694/fcda8/first.png&quot;
+        srcset=&quot;/blog/static/dab3ec8c576b99acd2595046cd85d694/12f09/first.png 148w,
+/blog/static/dab3ec8c576b99acd2595046cd85d694/e4a3f/first.png 295w,
+/blog/static/dab3ec8c576b99acd2595046cd85d694/fcda8/first.png 590w,
+/blog/static/dab3ec8c576b99acd2595046cd85d694/efc66/first.png 885w,
+/blog/static/dab3ec8c576b99acd2595046cd85d694/c83ae/first.png 1180w,
+/blog/static/dab3ec8c576b99acd2595046cd85d694/29114/first.png 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/3ecbd994c1f7a409c10d20ea827001aa/29114/letter.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAABBElEQVQoz5WRiW7DMAxD+/8fWWw9siRNz9wXVbOclzRwi86AoUSWn0hrBcC4uS5n2H6LR8xvsLZV3p+Hlj/zcTUHpjEsjgTbbWBlIWjfw5If993ATkd3nsOyVNHDgkAqi/YOVMLqSuDzCdbUeDTjxqgmXecadXivkEVUdUgn4PWifyorCuXTRDHaqf615US2WHi76j2zA2zoZZF1zBPeNFJe13PbC+DXWha92qqcbHGPoyChIQUVsivt0er2W9Y4pGPm4JWGwGENg+5wWGwyf8cnYPtrg+qSeMoRzEERyKa0OTpokauW0JdAFixtfLKClqmAXX3uP/tPYVDNoih00Zc/583uoWth2Nh54xYAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;letter&quot;
+        title=&quot;letter&quot;
+        src=&quot;/blog/static/3ecbd994c1f7a409c10d20ea827001aa/fcda8/letter.png&quot;
+        srcset=&quot;/blog/static/3ecbd994c1f7a409c10d20ea827001aa/12f09/letter.png 148w,
+/blog/static/3ecbd994c1f7a409c10d20ea827001aa/e4a3f/letter.png 295w,
+/blog/static/3ecbd994c1f7a409c10d20ea827001aa/fcda8/letter.png 590w,
+/blog/static/3ecbd994c1f7a409c10d20ea827001aa/efc66/letter.png 885w,
+/blog/static/3ecbd994c1f7a409c10d20ea827001aa/c83ae/letter.png 1180w,
+/blog/static/3ecbd994c1f7a409c10d20ea827001aa/29114/letter.png 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h1&gt;Refining the Letters&lt;/h1&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/19ac80c8861246cf0a729c8c4300626c/29114/attempt1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAABQUlEQVQoz6WS2U5CQQyGz/u/iHfqhRdGiQsYBaOAgCAgu+BBdoTDYuCzpUoQNCTSpJmlM//SGYddYj7/mRIO3hiiBeh7UGlCogTncci5UKhbDuVMMCO1MtS7kK7a+A26QuDgduDyEfyScQHbD9p4HIHTKFwkIFuT+QPcpCFZgesnOAxB6sWAtK4kC4XFN7kchnAeTgTAFzNFZzI2+wboE7D7nDkJCmhI1O4FDFhJAknoDL4Ayw0rlBp24SBkF8I5a4MCKak3gZ6se0PoDsyyEtfadm5pWQFjRbjNmmwF9QvjVQra79ZPBdR6Xvr5/Gq9dLubD7RQqM0/ujPZEbFdbYldAcnUrA1qWUmUoCUEg5Hl5GPjhU3heMripdWSzmczO6yhexPZm8p6NP3926yFs9PfW10vAdc/57b8Q9n/FW6JTy4CUBKRs9YaAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;attempt1&quot;
+        title=&quot;attempt1&quot;
+        src=&quot;/blog/static/19ac80c8861246cf0a729c8c4300626c/fcda8/attempt1.png&quot;
+        srcset=&quot;/blog/static/19ac80c8861246cf0a729c8c4300626c/12f09/attempt1.png 148w,
+/blog/static/19ac80c8861246cf0a729c8c4300626c/e4a3f/attempt1.png 295w,
+/blog/static/19ac80c8861246cf0a729c8c4300626c/fcda8/attempt1.png 590w,
+/blog/static/19ac80c8861246cf0a729c8c4300626c/efc66/attempt1.png 885w,
+/blog/static/19ac80c8861246cf0a729c8c4300626c/c83ae/attempt1.png 1180w,
+/blog/static/19ac80c8861246cf0a729c8c4300626c/29114/attempt1.png 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/b98a66d8729d63123eeaf4c652557091/29114/attempt2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAABIklEQVQoz52S23KDMAxE+f+f7PQh04Y0VyBcra2ODYNJ6Es98WAsdLTSppCZ/0xxlXfp5PvnId2f0sN3N0htL/Vjih/O0tPfl5xswSkiDCgXH0fZrZbVncyhdm9kXxeZFzGHW9XKhkk2hZhsM8QyUYVmYFyou9Z5yfQMtqto724LpBV2CNI4SU0nHW+p3T3An8AliLpbk2bG7IB6e3H1Q1IKnFgIa14GXhWyMQMjaP3k53Ml+czUOuD7KvkMo2LiU3hXiSmbCiikzdoTS0+8VMlViqCWOE4vRbjLVb4BP8sEALpAgAOgRebLu7v/qmzfFFoGirJpNoaZcgZ6qde5AmfWw6jch2JTgQ85D3MS2/+T8RkVdus3GAPspe2ty/9dWe4vXcJkXighefYAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;attempt2&quot;
+        title=&quot;attempt2&quot;
+        src=&quot;/blog/static/b98a66d8729d63123eeaf4c652557091/fcda8/attempt2.png&quot;
+        srcset=&quot;/blog/static/b98a66d8729d63123eeaf4c652557091/12f09/attempt2.png 148w,
+/blog/static/b98a66d8729d63123eeaf4c652557091/e4a3f/attempt2.png 295w,
+/blog/static/b98a66d8729d63123eeaf4c652557091/fcda8/attempt2.png 590w,
+/blog/static/b98a66d8729d63123eeaf4c652557091/efc66/attempt2.png 885w,
+/blog/static/b98a66d8729d63123eeaf4c652557091/c83ae/attempt2.png 1180w,
+/blog/static/b98a66d8729d63123eeaf4c652557091/29114/attempt2.png 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/780b954c7ef8dbd7d24abf95849f4005/29114/attempt3.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAAA4UlEQVQoz5WS6w6CMAyFef8H9J9GQ6IoMhXGlIsce+zigii6Jgt0676dXhIMA55WOuBS4+n3dyA7qV9dgfSoMWfxTQXcWsA1GnssAXvTc/GTF5AHvEhYLQHrgz7CPYJpBF0bjel6BXKP/gTYdApa7WVlQCEP7IwC2g4/zXMCkLILSWeRKpAgKmRq+SVc+rYmCiunsKXATjak+abgl41TJohKWXzna/VBxRw8ANm9TS6ptuNGRKoMwK1RUF5qDc9+ZLionN8ohWxC7RvT+FFgU6yAjNX/v4ARBY9LeW4kIpryAGDAZHeEIf12AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;attempt3&quot;
+        title=&quot;attempt3&quot;
+        src=&quot;/blog/static/780b954c7ef8dbd7d24abf95849f4005/fcda8/attempt3.png&quot;
+        srcset=&quot;/blog/static/780b954c7ef8dbd7d24abf95849f4005/12f09/attempt3.png 148w,
+/blog/static/780b954c7ef8dbd7d24abf95849f4005/e4a3f/attempt3.png 295w,
+/blog/static/780b954c7ef8dbd7d24abf95849f4005/fcda8/attempt3.png 590w,
+/blog/static/780b954c7ef8dbd7d24abf95849f4005/efc66/attempt3.png 885w,
+/blog/static/780b954c7ef8dbd7d24abf95849f4005/c83ae/attempt3.png 1180w,
+/blog/static/780b954c7ef8dbd7d24abf95849f4005/29114/attempt3.png 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Midterm Proposal - Cursed Mocap]]></title><description><![CDATA[project description a series of tiktoks creating cursed mocap models dancing to the beat of blessed / cursed music.  inspiration i was given…]]></description><link>http://blog.samheckle.com/blessed/midterm-proposal/</link><guid isPermaLink="false">http://blog.samheckle.com/blessed/midterm-proposal/</guid><pubDate>Sun, 14 Mar 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;project description&lt;/h1&gt;
 &lt;p&gt;a series of tiktoks creating cursed mocap models dancing to the beat of blessed / cursed music. &lt;/p&gt;
 &lt;h1&gt;inspiration&lt;/h1&gt;
 &lt;p&gt;i was given a tutorial by a classmate (viola he &lt;a href=&quot;https://www.instagram.com/bodies.moving/&quot;&gt;@bodies.moving&lt;/a&gt;) from their mocap exploration throughout their 100 days.&lt;/p&gt;
