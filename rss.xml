@@ -1,5 +1,91 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fridge notes]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>http://blog.samheckle.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 29 Apr 2021 03:19:39 GMT</lastBuildDate><item><title><![CDATA[Prototyping Final]]></title><link>http://blog.samheckle.com/religious-robots/final-prototype/</link><guid isPermaLink="false">http://blog.samheckle.com/religious-robots/final-prototype/</guid><pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden; &quot; &gt; &lt;div class=&quot;embedVideo-container&quot;&gt; &lt;iframe title src=&quot;https://www.youtube-nocookie.com/embed/0PvOSylK1wg?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot; allowfullscreen&gt;&lt;/iframe&gt; &lt;/div&gt; &lt;/div&gt;&lt;/p&gt;
-&lt;p&gt;&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden; &quot; &gt; &lt;div class=&quot;embedVideo-container&quot;&gt; &lt;iframe title src=&quot;https://www.youtube-nocookie.com/embed/RN5G4IG0Jlg?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot; allowfullscreen&gt;&lt;/iframe&gt; &lt;/div&gt; &lt;/div&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Text to Speech]]></title><description><![CDATA[following this tutorial but I ended up needing to look up the documentation for the say library First Tests My first test I received an…]]></description><link>http://blog.samheckle.com/religious-robots/text-to-speech/</link><guid isPermaLink="false">http://blog.samheckle.com/religious-robots/text-to-speech/</guid><pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://www.techradar.com/how-to/computing/apple/terminal-101-making-your-mac-talk-with-say-1305649&quot;&gt;following this tutorial&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fridge notes]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>http://blog.samheckle.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 29 Apr 2021 03:32:59 GMT</lastBuildDate><item><title><![CDATA[Prototyping Final]]></title><description><![CDATA[Idea For my final, I am combining my classes of Material of Language, Blessed/Blursed/Cursed, and Religious Robots.  I intend to create a…]]></description><link>http://blog.samheckle.com/religious-robots/final-prototype/</link><guid isPermaLink="false">http://blog.samheckle.com/religious-robots/final-prototype/</guid><pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Idea&lt;/h2&gt;
+&lt;p&gt;For my final, I am combining my classes of Material of Language, Blessed/Blursed/Cursed, and Religious Robots. &lt;/p&gt;
+&lt;p&gt;I intend to create a robot that has 3 parts:&lt;/p&gt;
+&lt;h1&gt;Part 1&lt;/h1&gt;
+&lt;p&gt;Mechanical Arm shaped in a hand holding pen or pencil&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;arm goes up, down, left, right&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Part 2&lt;/h1&gt;
+&lt;p&gt;Digital component that draws fake bible verses &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Manages text that is being drawn&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Flow&lt;/h1&gt;
+&lt;p&gt;The robot begins the experience with the user replacing the paper and pushing a button. The bot will write asemically from the bible. The experience ends with the pen being lifted up.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Stretch goal #1 - spread salt circle after button push to protect&lt;/li&gt;
+&lt;li&gt;Stretch goal #2 - have the bot push the pen around the circle breaking it&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Work So Far&lt;/h2&gt;
+&lt;p&gt;&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden; &quot; &gt; &lt;div class=&quot;embedVideo-container&quot;&gt; &lt;iframe title src=&quot;https://www.youtube-nocookie.com/embed/0PvOSylK1wg?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot; allowfullscreen&gt;&lt;/iframe&gt; &lt;/div&gt; &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 50%; position: relative; height: 0; overflow: hidden; &quot; &gt; &lt;div class=&quot;embedVideo-container&quot;&gt; &lt;iframe title src=&quot;https://www.youtube-nocookie.com/embed/RN5G4IG0Jlg?rel=0&quot; class=&quot;embedVideo-iframe&quot; style=&quot;border:0; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot; allowfullscreen&gt;&lt;/iframe&gt; &lt;/div&gt; &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;These are some of the products created by the moving vehicle:&lt;/p&gt;
+&lt;h1&gt;A Y&lt;/h1&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/5f2d6d6809516b221e7fff2d42a3664b/29114/y.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAABaklEQVQoz52S207CQBRF+f8XX3yBBIyAlKuUtrT0MtCWAuUi/yBEI1DaQnyF7elEjSYkUieZTHKSWbPOPpPBj3U+n/l5PERY+g5mHsNiNMBi4sAfMoxsE1OvjxnVDnH0687XylwCvh9jLCc2pgRJYBPXgtEVoXZa/wNG+4DDlr6LsWOiryuwNAlCsQBT7WA+thFH4RXA04mfL+sVfALNycSxVLCeDKlVQ1Mo0QOMW8bRPo3hDjZZDQhkaR2IDQHeQMeT75EdRTBMCwwDmMojpKYAsV4hSw3Dvk7Z2XxPXIY4TAHc77YoF7Kol+5gG12+B4YC2+x+DykVcPP2iloxD0btziivpH1TaUMVGxyWDCxKAwyDHdrVMhkp8Po9jG0DLrXtkGECHFItpJyvBm43byjlszSMB+iUZWLq0rRdpnEY60kIdpu/gafPb7NePSN3e4PKfQ5yqwpdbsJS2/QfJcpShtltI9heBn4AOxsgYtoEmssAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;y&quot;
+        title=&quot;y&quot;
+        src=&quot;/blog/static/5f2d6d6809516b221e7fff2d42a3664b/fcda8/y.png&quot;
+        srcset=&quot;/blog/static/5f2d6d6809516b221e7fff2d42a3664b/12f09/y.png 148w,
+/blog/static/5f2d6d6809516b221e7fff2d42a3664b/e4a3f/y.png 295w,
+/blog/static/5f2d6d6809516b221e7fff2d42a3664b/fcda8/y.png 590w,
+/blog/static/5f2d6d6809516b221e7fff2d42a3664b/efc66/y.png 885w,
+/blog/static/5f2d6d6809516b221e7fff2d42a3664b/c83ae/y.png 1180w,
+/blog/static/5f2d6d6809516b221e7fff2d42a3664b/29114/y.png 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h1&gt;Dynamic Drawing&lt;/h1&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/74eb8d0b3eaa599e28e0bb6bbf43d94a/47311/drawing.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 177.7027027027027%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAkABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAEDBAIF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAa/Qu5iRCa4O2UXZg1iv/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIAAxESMP/aAAgBAQABBQKyh+lXPDYLFaaxMRAjCf/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BX//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BX//EABwQAAIABwAAAAAAAAAAAAAAAAEQACEiMDEyQf/aAAgBAQAGPwKjFqUHZEjq/8QAHhABAAICAQUAAAAAAAAAAAAAAQAhETFREEFhgaH/2gAIAQEAAT8hEU6fZg0A+IPM9wKuXzHB0VlFYwisnYHDiNk3CbZmk//aAAwDAQACAAMAAAAQN/rPDB//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/EF//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/EF//xAAcEAEAAwEBAQEBAAAAAAAAAAABABEhMUFRgWH/2gAIAQEAAT8QIEMemelvyGZTNTVsJOBjXT8MctS+5CGA+vPsd719gHNJqRivbacjixoWhZRp/JtGWQKql+zi+us//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;drawing&quot;
+        title=&quot;drawing&quot;
+        src=&quot;/blog/static/74eb8d0b3eaa599e28e0bb6bbf43d94a/1c72d/drawing.jpg&quot;
+        srcset=&quot;/blog/static/74eb8d0b3eaa599e28e0bb6bbf43d94a/a80bd/drawing.jpg 148w,
+/blog/static/74eb8d0b3eaa599e28e0bb6bbf43d94a/1c91a/drawing.jpg 295w,
+/blog/static/74eb8d0b3eaa599e28e0bb6bbf43d94a/1c72d/drawing.jpg 590w,
+/blog/static/74eb8d0b3eaa599e28e0bb6bbf43d94a/a8a14/drawing.jpg 885w,
+/blog/static/74eb8d0b3eaa599e28e0bb6bbf43d94a/47311/drawing.jpg 1080w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Text to Speech]]></title><description><![CDATA[following this tutorial but I ended up needing to look up the documentation for the say library First Tests My first test I received an…]]></description><link>http://blog.samheckle.com/religious-robots/text-to-speech/</link><guid isPermaLink="false">http://blog.samheckle.com/religious-robots/text-to-speech/</guid><pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://www.techradar.com/how-to/computing/apple/terminal-101-making-your-mac-talk-with-say-1305649&quot;&gt;following this tutorial&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;but I ended up needing to look up the documentation for the &lt;a href=&quot;https://ss64.com/osx/say.html&quot;&gt;say library&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;First Tests&lt;/h1&gt;
 &lt;p&gt;My first test I received an error because I don’t think the voices work in OS Big Sur.&lt;/p&gt;
