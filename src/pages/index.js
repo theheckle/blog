@@ -17,6 +17,7 @@ const BlogIndex = ({ data, location }) => {
       <Link to="/blessed">Blessed/Blursed/Cursed</Link>
       <Link to="/collective-play">Collective Play</Link>
       <Link to="/material-of-language">Material Of Language</Link>
+      <Link to="/religious-robots">Religious Robots</Link>
       <hr margin="2px"></hr>
       <Link to="/general">General</Link>
       <Link to="/physical-computing">Physical Computing</Link>
