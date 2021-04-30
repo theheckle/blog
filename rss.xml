@@ -1,4 +1,339 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fridge notes]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>http://blog.samheckle.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 29 Apr 2021 03:32:59 GMT</lastBuildDate><item><title><![CDATA[Prototyping Final]]></title><description><![CDATA[Idea For my final, I am combining my classes of Material of Language, Blessed/Blursed/Cursed, and Religious Robots.  I intend to create a…]]></description><link>http://blog.samheckle.com/religious-robots/final-prototype/</link><guid isPermaLink="false">http://blog.samheckle.com/religious-robots/final-prototype/</guid><pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Idea&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fridge notes]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>http://blog.samheckle.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 30 Apr 2021 10:31:22 GMT</lastBuildDate><item><title><![CDATA[Final]]></title><description><![CDATA[final jupyter notebook Markovify I decided to focus on the technical portion of my proposed robot and dynamically create asemic bible verses…]]></description><link>http://blog.samheckle.com/material-of-language/final/</link><guid isPermaLink="false">http://blog.samheckle.com/material-of-language/final/</guid><pubDate>Thu, 29 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://github.com/theheckle/mol/blob/master/final/Final%20Project.ipynb&quot;&gt;final jupyter notebook&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Markovify&lt;/h2&gt;
+&lt;p&gt;I decided to focus on the technical portion of my proposed robot and dynamically create asemic bible verses to be physically written later. I decided to end up breaking down my project for each class. When designing how the Bible verse data was collected, I initially thought to grab 10 or so verses by hand and putting them in a json file:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;[
+    {
+        &amp;quot;book&amp;quot;: &amp;quot;Luke&amp;quot;,
+        &amp;quot;chapter&amp;quot;: &amp;quot;50,&amp;quot;,
+        &amp;quot;verse&amp;quot;: &amp;quot;3&amp;quot;,
+        &amp;quot;text1&amp;quot;: &amp;quot;this is &amp;quot;,
+        &amp;quot;text2&amp;quot;: &amp;quot;sample verse&amp;quot;
+    }
+]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;But then I realized that if I were to parse this json and randomly select each individual component I would basically be making a worse version of a Markov chain. So I checked if there is a python library to do so! &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/jsvine/markovify&quot;&gt;https://github.com/jsvine/markovify&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Following the readme, I tried installing:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;pip install markovify&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;HOWEVER this resulted in a terrible error:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;ERROR:root:code for hash md5 was not found.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h1&gt;Technical Issues&lt;/h1&gt;
+&lt;p&gt;I actually ran into some issues with setting my main termianl to use &lt;code class=&quot;language-text&quot;&gt;zsh&lt;/code&gt; instead of &lt;code class=&quot;language-text&quot;&gt;bash&lt;/code&gt;. My jupyter notebook was unable to set the kernal, which took a few hours of debugging. There were two issues here:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;1) my local python version had been reset to 2.7
+2) my jupyter notebook python virtual environment was having...problems&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;I required two solutions then. The first was simply upgrading my local python version by ensuring Python 3.9 was installed (it was), and changing the default for the zsh profile to use anaconda settings&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;ln -s -f /usr/local/bin/python3.9 /usr/local/bin/python
+conda init zsh&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;This ensured that my anaconda settings were reflected in my zsh.&lt;/p&gt;
+&lt;p&gt;The second issue took more than an hour to figure out, but on perusing github forums, I found &lt;a href=&quot;https://github.com/microsoft/vscode-jupyter/issues/728#issuecomment-684923265&quot;&gt;this solution&lt;/a&gt; by upgrading my notebook. It took awhile, but ended up being fine.&lt;/p&gt;
+&lt;h2&gt;Parsing A Bible Corpus&lt;/h2&gt;
+&lt;p&gt;After awhile of copying and pasting was an ineffient use of my time, and finally getting the Markov library to work, I needed to find a source for the actual verses I used. There has been a really big collaborative effort to put the bible online in every language available. But, it is all in xml.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/christos-c/bible-corpus&quot;&gt;https://github.com/christos-c/bible-corpus&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;But! They already account for that and even in the readme, they have instructions to do so.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;import xml.etree.ElementTree as ET
+lang = &amp;#39;English&amp;#39;
+root = ET.fromstring(open(lang + &amp;#39;.xml&amp;#39;).read())
+with open(lang + &amp;#39;.txt&amp;#39;, &amp;#39;w&amp;#39;, encoding=&amp;#39;utf-8&amp;#39;) as out:
+    for n in root.iter(&amp;#39;seg&amp;#39;):
+        out.write(n.text.strip() + &amp;#39;\n&amp;#39;)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;I pulled this into the &lt;a href=&quot;https://github.com/theheckle/mol/blob/master/final/corpus.txt&quot;&gt;corpus.txt&lt;/a&gt;. From there I worked on the actual verse names. I kept with my original json architecture and created my &lt;a href=&quot;https://github.com/theheckle/mol/blob/master/final/verses.json&quot;&gt;verses.json&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This all culminated in randomly generating verses that could be printed. The Markov chain generates the text, and I manually create the seperate verse name by random generation.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/5a778a4334a97b4f48f505a2228495b2/29114/unformatted.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAAAvUlEQVQoz62S2QqEMAxF8/8/Kbg8uOC+4nKHU3AYmQctGDikSZM0bWPHcegO5NR3YncBTw78xZZl0TRNQsM8z84+ta9YXddK01RZlqksSxVF4dboYRi0bduXfd8v9rquF/BZkiQKgkBhGCqOY0VRpKqqXPG2bdU0jTgUsPHjA+L6vnd+oAHXId1AnudOE0wisD+Oo7s+CV3XOZtCPMvflXm3M4EA1icUYN/n0+zJQ/uMlfnM4ZOZNL0srxf8ABC2Yc8RkHR0AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;unformatted&quot;
+        title=&quot;unformatted&quot;
+        src=&quot;/blog/static/5a778a4334a97b4f48f505a2228495b2/fcda8/unformatted.png&quot;
+        srcset=&quot;/blog/static/5a778a4334a97b4f48f505a2228495b2/12f09/unformatted.png 148w,
+/blog/static/5a778a4334a97b4f48f505a2228495b2/e4a3f/unformatted.png 295w,
+/blog/static/5a778a4334a97b4f48f505a2228495b2/fcda8/unformatted.png 590w,
+/blog/static/5a778a4334a97b4f48f505a2228495b2/efc66/unformatted.png 885w,
+/blog/static/5a778a4334a97b4f48f505a2228495b2/c83ae/unformatted.png 1180w,
+/blog/static/5a778a4334a97b4f48f505a2228495b2/29114/unformatted.png 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h1&gt;First Attempt at Digital Display&lt;/h1&gt;
+&lt;p&gt;My first attempt comprised of layering all of the verses together and the longest one would demonstrate the particular name. I liked this version because it really alluded to biblical text, because otherwise there would be no correlation.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/11cff1b4c45085e22eb5b8b35080393a/29114/first.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAAAv0lEQVQoz8VRywqEMAzs/1+9iR/Ri1dFqaJeRPHxDUJvIoqPjiSw4i4LwlLYwjTTJkwnjYDlJYwxOI6Dse/7G7+fv+U/OWkJ6w6naUJVVSiKAnmeX1BKIY5jpGnKPEkSRFF03YdhyDlCEATIsgzzPEMMwwDHceC6LjzPg5QSvu9zpEJ6qG1bdF2Huq6ZkwHifd+jaRqUZclxWRaIbdugtQY5HccR67pe//JTy08F96E9gYdC2xNewlYcWm/574In11RRuFkVEGEAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;first&quot;
+        title=&quot;first&quot;
+        src=&quot;/blog/static/11cff1b4c45085e22eb5b8b35080393a/fcda8/first.png&quot;
+        srcset=&quot;/blog/static/11cff1b4c45085e22eb5b8b35080393a/12f09/first.png 148w,
+/blog/static/11cff1b4c45085e22eb5b8b35080393a/e4a3f/first.png 295w,
+/blog/static/11cff1b4c45085e22eb5b8b35080393a/fcda8/first.png 590w,
+/blog/static/11cff1b4c45085e22eb5b8b35080393a/efc66/first.png 885w,
+/blog/static/11cff1b4c45085e22eb5b8b35080393a/c83ae/first.png 1180w,
+/blog/static/11cff1b4c45085e22eb5b8b35080393a/29114/first.png 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h1&gt;Second Attempts using Polyline&lt;/h1&gt;
+&lt;p&gt;The following attempts were using Polyline to figure out how to get the specific coordinates with each individual glyph. &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/899ba9d6f5df3e5be273b69c70bf0c6e/29114/readred.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACBklEQVQoz41S2Y7aQBD0/39O8pJISTZBHKuwsJwGgwFjYxt8H+AL25UalDxsIiUZqTXT3TPV1dUj+f0e0u0GZ1VFIMtw9nsEmobgfIa5XsMbvcBmPjhquFoWmiRG6fuo8hxtWSK/3VDf76iuV9zpSzGBlNkccrcLbzzCfjCAOZ1Af33FefgdNs2fzRDQ3JUM7eMHqO/fwVfWCL8+Yf70BfqgD3+9QhwEkG5EXjGhjka4ELyIQhRp+qhYhQHKLEMuGKUJKrK5xjEK7ncyrMQ5ipARqC4KiCWZ8hLBYgFTMGCVhKC5rpPhGMFmg9TQoTHmkV1onhDtVMRCIr5JbQuRoiCxbURCDtHycbuFtpjDYIsFk/teF363A4+F7OUCp/EYu+dnhGzRWS6hsOVt5xtC5g9s9Ub2MfUu9CNAllLgOLAIZFF8gw92kwnCwx4uYx5BLgS9kfGB7BWCO4cDjgTzplM4NG0+x4nDlDsdlK4LqakqGAwonz892vANA/e6RkZ9hEYZNRL65EKvhDr+1CwP/IfOCRlGZJiGIWrRskVtPE7V4fexXobYElTsh+EQBqduinOvB3c2hUtmYprZ5YKQhSPuZ34ztc/W6YtvJInJ1KIiK+ScXMmqBQVOGPP4oObEb2QgppvSWvx9SW37rytvl7j/xpoGDa1tm4cv/XHhP+x34F++WD8Ayr81B6NHtXUAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;readred&quot;
+        title=&quot;readred&quot;
+        src=&quot;/blog/static/899ba9d6f5df3e5be273b69c70bf0c6e/fcda8/readred.png&quot;
+        srcset=&quot;/blog/static/899ba9d6f5df3e5be273b69c70bf0c6e/12f09/readred.png 148w,
+/blog/static/899ba9d6f5df3e5be273b69c70bf0c6e/e4a3f/readred.png 295w,
+/blog/static/899ba9d6f5df3e5be273b69c70bf0c6e/fcda8/readred.png 590w,
+/blog/static/899ba9d6f5df3e5be273b69c70bf0c6e/efc66/readred.png 885w,
+/blog/static/899ba9d6f5df3e5be273b69c70bf0c6e/c83ae/readred.png 1180w,
+/blog/static/899ba9d6f5df3e5be273b69c70bf0c6e/29114/readred.png 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/6b1798634a6d12d7de7aaf06e536d800/29114/normie.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAAB2UlEQVQoz62T629SQRDF719ebaLVGB9YsRQ/aOKjRkNrfGDhmj4uFApFHre9tBSkEYHLLZRCKVDePwditcZPjd1kdmZnsmfOnt1VuOKhJP1+tlwuzPU1Sl9USuEQecltv17gu0+jFI3Sq1Todzp0Wi1a1Sqtep1Oo0HbsugeH9OReq9eY9DtouwvLaLbZ1GnrxOz3Sc8c4OV27eIz9pwiw8+uEd0+hqheQdxt5ucts63YIB8SBovuiioXopeD1UhclLIoxQ1DePtG76K7b5bQp+zk7A/wvJ8JiOba3qCjN9HQlUxI1s0YlGq+ylOkwaHuo6VTmNthTkxdqiYRZSyZ5ldx2P8z56y43RgCEvdOY/mmCO5ukLS58P48B5rbZWcAB/GY5ji9Y0NDoRVTawujZrbOgORRCl4l9kURkEByt69Q+bFc3wPbcSeOEnJsbWZm7ycmkKV46dE1zH4noDnIxHSgcBE47KszdAm7WYTpZnNkvz0kT0BMhZeYRoG7bHohQJnInjbKlEV8esi/NlRhcpBliOpjS+kVixyWinT+pGjUSrR6/VQJnc9GMg0YtDvMxwO/+/ZjEajSTC6kBwJ6MSk9ld8vj6Pf9ufnPJv8VeDC/GlGF71T/kJ8MMi6f4zmIcAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;normie.png&quot;
+        title=&quot;normie.png&quot;
+        src=&quot;/blog/static/6b1798634a6d12d7de7aaf06e536d800/fcda8/normie.png&quot;
+        srcset=&quot;/blog/static/6b1798634a6d12d7de7aaf06e536d800/12f09/normie.png 148w,
+/blog/static/6b1798634a6d12d7de7aaf06e536d800/e4a3f/normie.png 295w,
+/blog/static/6b1798634a6d12d7de7aaf06e536d800/fcda8/normie.png 590w,
+/blog/static/6b1798634a6d12d7de7aaf06e536d800/efc66/normie.png 885w,
+/blog/static/6b1798634a6d12d7de7aaf06e536d800/c83ae/normie.png 1180w,
+/blog/static/6b1798634a6d12d7de7aaf06e536d800/29114/normie.png 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/6b1798634a6d12d7de7aaf06e536d800/29114/normie.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAAB2UlEQVQoz62T629SQRDF719ebaLVGB9YsRQ/aOKjRkNrfGDhmj4uFApFHre9tBSkEYHLLZRCKVDePwditcZPjd1kdmZnsmfOnt1VuOKhJP1+tlwuzPU1Sl9USuEQecltv17gu0+jFI3Sq1Todzp0Wi1a1Sqtep1Oo0HbsugeH9OReq9eY9DtouwvLaLbZ1GnrxOz3Sc8c4OV27eIz9pwiw8+uEd0+hqheQdxt5ucts63YIB8SBovuiioXopeD1UhclLIoxQ1DePtG76K7b5bQp+zk7A/wvJ8JiOba3qCjN9HQlUxI1s0YlGq+ylOkwaHuo6VTmNthTkxdqiYRZSyZ5ldx2P8z56y43RgCEvdOY/mmCO5ukLS58P48B5rbZWcAB/GY5ji9Y0NDoRVTawujZrbOgORRCl4l9kURkEByt69Q+bFc3wPbcSeOEnJsbWZm7ycmkKV46dE1zH4noDnIxHSgcBE47KszdAm7WYTpZnNkvz0kT0BMhZeYRoG7bHohQJnInjbKlEV8esi/NlRhcpBliOpjS+kVixyWinT+pGjUSrR6/VQJnc9GMg0YtDvMxwO/+/ZjEajSTC6kBwJ6MSk9ld8vj6Pf9ufnPJv8VeDC/GlGF71T/kJ8MMi6f4zmIcAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;more_normie.png&quot;
+        title=&quot;more_normie.png&quot;
+        src=&quot;/blog/static/6b1798634a6d12d7de7aaf06e536d800/fcda8/normie.png&quot;
+        srcset=&quot;/blog/static/6b1798634a6d12d7de7aaf06e536d800/12f09/normie.png 148w,
+/blog/static/6b1798634a6d12d7de7aaf06e536d800/e4a3f/normie.png 295w,
+/blog/static/6b1798634a6d12d7de7aaf06e536d800/fcda8/normie.png 590w,
+/blog/static/6b1798634a6d12d7de7aaf06e536d800/efc66/normie.png 885w,
+/blog/static/6b1798634a6d12d7de7aaf06e536d800/c83ae/normie.png 1180w,
+/blog/static/6b1798634a6d12d7de7aaf06e536d800/29114/normie.png 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h1&gt;Cursed Attempts&lt;/h1&gt;
+&lt;p&gt;These were messing with the rotation and scale of the Polyline object. &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/f7a24d47f4c0043259e7ae4507b22125/29114/cursed.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACRUlEQVQoz5VSa1PaUBDN///UfmvVOjqA0CKIj5FHoYLQwUEshcSk8pAQIAQjDwkaUMjpCdUOX/qhd+bOvbt37+7Zc1bonWdwHQ7BlERMMmm0ipdol3/Cqt6gk8tC/5qAlj6DQd+9JGFuWXAeH7GwbbzMZpg9PWExn+F5OsVysYCgZ8+h7AdRTySg7O6gcBiBdBDGr8gB5M8B1OhTo6cw41E0zs5Q3NyAsbONe/6rMLYQ8OOGfzXa9mgEAVylaBT5rU2kdnehVyp40TQMuHVFge3exQpMVYXd7cIoFjEg0pmur2Lv+KZVyngmWme5hFATRRSCQTSJyCAS48cV1FIJ5rcU1Is8VL63ePaIoM+PfVlG53sOci6HLt+UfB4PzVtM6IebcFSvQzw9hXZ8hO7JMa4CAWTYlsLk0skJWmzL8PvQTCZxeXQIZWsD8van1b0UDsO8bcCs1TBsNP5wOG2p6CTiKIf2UfV5oYWCkGNRGPEY2kzW8nkwpCgyC1ySzyaLN/x7qHk9uGBx0eU8+AXJ9+9gUzBhSZh9Klv4+AHFUAhVtgAqN+sbsPQuxuTtkQpOaT8YBsb9PizyOiKQ+XAIk+2aRGd22nBchCZ5caGLez7kPR5UUkn0XOU4SiqrlyIRxLxe9IhYIq/1dBrmtQSdwjwpMqrkMssp0ZRXDh2qbLHqmI7JcAC718NduYw7zqElX6+Q1KnmXGthQqVBFP9abi4BjoP/WQ7j3fFYbd5dylwx3mxhFfAWtH5f28t1+xXA39i17a7foTER7oM3di0AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;cursed&quot;
+        title=&quot;cursed&quot;
+        src=&quot;/blog/static/f7a24d47f4c0043259e7ae4507b22125/fcda8/cursed.png&quot;
+        srcset=&quot;/blog/static/f7a24d47f4c0043259e7ae4507b22125/12f09/cursed.png 148w,
+/blog/static/f7a24d47f4c0043259e7ae4507b22125/e4a3f/cursed.png 295w,
+/blog/static/f7a24d47f4c0043259e7ae4507b22125/fcda8/cursed.png 590w,
+/blog/static/f7a24d47f4c0043259e7ae4507b22125/efc66/cursed.png 885w,
+/blog/static/f7a24d47f4c0043259e7ae4507b22125/c83ae/cursed.png 1180w,
+/blog/static/f7a24d47f4c0043259e7ae4507b22125/29114/cursed.png 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/4769a952f72b5788915abf065629b0c7/29114/cursed2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACRklEQVQoz5VS+0/aYBTt/79l2bJHlijqMjcUXVQEUXxNBUXExUIfFuVNS0sBKWCBSTk7NdnCD0uWfclte+5t773nnArXayH8iMWgZ67QuziHfZlC6fQED7KMZDgMg3WTuKwo6KYuMG5acDsdDLpdwHUxdByM+OzYNobEgnmdgRnbgfzxA4oLAYhfllElrhzsIx0KQVtfg7y+Dok5jQNyL1/gIvgVNz7+tITrYBD11RUUMhl0Hx4gPI5GOJqfg8JGFjdp6DqcVgs2761yGQ63cSoVjOwmnHYbg2oVvWYTj9ysxXzz/g6uoWMyHMI/wv3JCdKkfBneQnY/jsLhIdrJBKTtMAp+pNNokLaeOEM/fYl8MolyNIIycYWyKGdnaLGpo6qAN4FgSxKUSATZzQ2IbKYuzCMXmIOxtQErFsUdB+nfSPv4GFfLnyG/fYPSShDmThR2fA89NjIVGa18HtOnJ1KuVdHY28X3QADFyDZud2OoUXz99BQ5bmgcH6EmitC2NqGyZqRSkDnkhlHkkDYHq9EoxMA8QPmENvWox+NQX7+Cxsa6qsCja4OGga5pYkzdxj0HY8uEW6uhz9ygWkGX+vb5XlWWYOWy6NPlqedRQ07U6FqWdPLUpkAa+tIipNAqJDqco5Pi+3eoHx6gxnrlPImOdoufpNokTTGRwC2ZGZoGzzfFd+aRjnY42Z/4ROvdYgEDvQ5fDpe4Uyqhb1kY+//eP47geR7+5/i0ZsObTJ7jGU+n3JCX3+BPzH70l/pz49n3Z/K/ACTWExGdBmePAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;cursed2&quot;
+        title=&quot;cursed2&quot;
+        src=&quot;/blog/static/4769a952f72b5788915abf065629b0c7/fcda8/cursed2.png&quot;
+        srcset=&quot;/blog/static/4769a952f72b5788915abf065629b0c7/12f09/cursed2.png 148w,
+/blog/static/4769a952f72b5788915abf065629b0c7/e4a3f/cursed2.png 295w,
+/blog/static/4769a952f72b5788915abf065629b0c7/fcda8/cursed2.png 590w,
+/blog/static/4769a952f72b5788915abf065629b0c7/efc66/cursed2.png 885w,
+/blog/static/4769a952f72b5788915abf065629b0c7/c83ae/cursed2.png 1180w,
+/blog/static/4769a952f72b5788915abf065629b0c7/29114/cursed2.png 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h1&gt;Final Attempt&lt;/h1&gt;
+&lt;p&gt;This is the final output &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/fd198e0292930af2c6c8d8df4b3b5223/29114/final.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAAAzElEQVQoz52Siw6DIAxF/f9PdVEXRd5414tjYc5NZxMCieV4SttgE8uy5MXwxkB3HfQwQPcdrOxGVgrhlYtnbonmJ9BauGlCcA5BztH7DFtS+sg9B5xnqFsLc7/D9D207E7xB/YakBetGNLSK4UoptE7pBgvGsob8s1oGLTOwPK95BwDqyRazW27WsrZjuNatsCvlUxD2klDcjM2gC3sEJikq2wMgW+gCvafoZTmpEyacnTqcTk9h/UFNoWGNCUwVgO9V+6h4Z7BN1CJB64TZp3mbIQhAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;final&quot;
+        title=&quot;final&quot;
+        src=&quot;/blog/static/fd198e0292930af2c6c8d8df4b3b5223/fcda8/final.png&quot;
+        srcset=&quot;/blog/static/fd198e0292930af2c6c8d8df4b3b5223/12f09/final.png 148w,
+/blog/static/fd198e0292930af2c6c8d8df4b3b5223/e4a3f/final.png 295w,
+/blog/static/fd198e0292930af2c6c8d8df4b3b5223/fcda8/final.png 590w,
+/blog/static/fd198e0292930af2c6c8d8df4b3b5223/efc66/final.png 885w,
+/blog/static/fd198e0292930af2c6c8d8df4b3b5223/c83ae/final.png 1180w,
+/blog/static/fd198e0292930af2c6c8d8df4b3b5223/29114/final.png 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This will be the coordinates used to plot the text using the translations and making the entry above a physical output.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/83bf6ed742aab0d504badb63ff49503e/29114/final_output.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAABHUlEQVQoz52Se4uCUBDF+/4fyX9S81WJKSH4yBRB8BGSoIkgnmWGdbFa2rYD4mPu/XnOnVnhW9M08UVKkgSu6+J0OsG2bWi6iiiO+Du9Hw4HXC6Xp32kFRaaC/Oi2+0Gz/Og6zrO5zOyLIOmaTBNE8Mw3O15Aj7CSF3XwbIsKIrCwDiOsV6v+Qd93792uCwsgeRGEASEYchAURQhyzK7f+nwt+gEpDMjIDlM0xSqqmK73XLtI6DjOJAk6ScyOTQM4y7yv4D7/Z4hURQxkOI+nuHbTWnbFsfjkYHUbYKSu91u93dTHqEzMAgCdkUwik2wjx3Wdc1DvNlsuCG+7/PzWw6XwHEc+X69XlEUBaqqQtM0KMsSeZ7zgC/HZgn8Aqz+RXjyPTJZAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;final output&quot;
+        title=&quot;final output&quot;
+        src=&quot;/blog/static/83bf6ed742aab0d504badb63ff49503e/fcda8/final_output.png&quot;
+        srcset=&quot;/blog/static/83bf6ed742aab0d504badb63ff49503e/12f09/final_output.png 148w,
+/blog/static/83bf6ed742aab0d504badb63ff49503e/e4a3f/final_output.png 295w,
+/blog/static/83bf6ed742aab0d504badb63ff49503e/fcda8/final_output.png 590w,
+/blog/static/83bf6ed742aab0d504badb63ff49503e/efc66/final_output.png 885w,
+/blog/static/83bf6ed742aab0d504badb63ff49503e/c83ae/final_output.png 1180w,
+/blog/static/83bf6ed742aab0d504badb63ff49503e/29114/final_output.png 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Prototyping Final]]></title><description><![CDATA[Idea For my final, I am combining my classes of Material of Language, Blessed/Blursed/Cursed, and Religious Robots.  I intend to create a…]]></description><link>http://blog.samheckle.com/religious-robots/final-prototype/</link><guid isPermaLink="false">http://blog.samheckle.com/religious-robots/final-prototype/</guid><pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Idea&lt;/h2&gt;
 &lt;p&gt;For my final, I am combining my classes of Material of Language, Blessed/Blursed/Cursed, and Religious Robots. &lt;/p&gt;
 &lt;p&gt;I intend to create a robot that has 3 parts:&lt;/p&gt;
 &lt;h1&gt;Part 1&lt;/h1&gt;
